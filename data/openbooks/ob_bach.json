@@ -1,0 +1,1789 @@
+{
+  "Url": "oer-johann-sebastian-bach-ein-superstar-gestern-und-heute",
+  "Title": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+  "Year": "2011",
+  "Author": "Ulrich Kaiser",
+  "City": "Karlsfeld",
+  "Edition": "1",
+  "Downloads": [
+    { "Text": "Download des Unterrichtshefts (13 MB)", "Link": "releases/Kaiser_BachUnterrichtsheft_2011.pdf" },
+    { "Text": "Download des Kommentarhefts (11 MB)", "Link": "releases/Kaiser_BachKommentarheft_2011.pdf" },
+    { "Text": "Download aller Materialien (263 MB)", "Link": "releases/ob_bach.zip" }
+  ],
+  "Additionals": [],
+  "Description": "Unterrichtsheft zum Leben und Werk von Johann Sebastian Bach. Eine Open Educational Resource (OER) für allgemeinbildende Schulen.",
+  "Keywords": "Johann Sebastian Bach, Musik, OER, Schule, Unterrichtsheft",
+  "Image": "kaiser_openbookBach.png",
+  "Folderpath": "/data/openbooks/bach/",
+  "Supported": [
+    { "Text": "Bereitstellung der Sounddateien mit freundlicher Genehmigung von Brilliant Classics", "Image": "/images/brilliantclassicslogo.jpg" }
+  ],
+  "Sections": [
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Johann Sebastian Bach Umschlagseiten",
+    "Description": "Umschlagseiten (U1–U4) sowie die jeweils ersten und letzten Seiten der Innenteile",
+    "Id": "1",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Umschlagseite (U1)",
+        "Name": "Umschlagseite",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-1.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umschlagseite Rückseite (U2)",
+        "Name": "Umschlagseite",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-2.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-2_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Innenteil Seite 1",
+        "Name": "Umschlagseite",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-3.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-3_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Innenteil Seite 35",
+        "Name": "www.anavis.de – Software (Freeware) zur Visualisierung musikalischer Analysen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-37.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-37_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Innenteil Seite 36",
+        "Name": "www.musiktheorie-aktuell.de",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-38.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-38_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Hintere Umschlagseite Vorderseite (U3)",
+        "Name": "Umschlagseite",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-39.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-39_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Hintere Umschlagseite Rückseite (U4)",
+        "Name": "Umschlagseite",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-40.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-40_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umschlagseite des Kommentarhefts (U1)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-1.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Rückseite der Umschlagseite des Kommentarhefts (U1)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-2.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-2_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Innenteil Seite 1 des Kommentarhefts",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-3.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-3_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Hintere Umschlagseite Vorderseite des Komentarheftes (U3)",
+        "Name": "Umschlagseite",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-103.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-103_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Hintere Umschlagseite Rückseite des Kommentarhefts (U4)",
+        "Name": "Umschlagseite",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-104.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-104_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Inhalstverzeichnis",
+    "Description": "Inhaltsverzeichnisse",
+    "Id": "2",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Inhaltsverzeichnis Seite 2 Unterrichtsheft",
+        "Name": "Inhaltsverzeichnis",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-4.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-4_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Inhaltsverzeichnis Seite 2 des Kommentarhefts",
+        "Name": "Inhaltsverzeichnis",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-4.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-4_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Inhaltsverzeichnis Seite 3 des Kommentarhefts",
+        "Name": "Inhaltsverzeichnis",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-5.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-5_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Vorwort Bayern Lehrplan Recherche Internet Download Theorie Praxis Analyse Sonate",
+    "Description": "Vorworte und Einführung",
+    "Id": "3",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Vorwort zum Unterrichtsheft für Schülerinnen und Schüler",
+        "Name": "Vorbemerkung",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-5.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-5_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Vorwort des Kommentarhefts für Lehrerinnen und Lehrer",
+        "Name": "Vorwort Kommentarheft",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-6.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft: Zusammenfassung zum bayerischen Lehrplan (Musik)",
+        "Name": "Kommentarheft: Zusammenfassung zum bayerischen Lehrplan (Musik)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-7.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-7_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft: Zuordnung der Unterrichtseinheiten zum bayerischen Lehrplan Seite 1 (Musik)",
+        "Name": "Zuordnung der Unterrichtseinheiten zum bayerischen Lehrplan (Musik)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-8.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft: Zuordnung der Unterrichtseinheiten zum bayerischen Lehrplan Seite 2 (Musik)",
+        "Name": "Zuordnung der Unterrichtseinheiten zum bayerischen Lehrplan (Musik)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-9.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-9_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Recherchieren im Internet",
+        "Name": "Recherchieren im Internet",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-10.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-10_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Musik-Download im Internet",
+        "Name": "Musik-Download im Internet",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-11.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-11_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Grundlegende Bemerkungen zum Verhältnis von Theorie und Praxis Seite 1",
+        "Name": "Theorie und Praxis",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-12.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-12_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Grundlegende Bemerkungen zum Verhältnis von Theorie und Praxis Seite 2",
+        "Name": "Theorie und Praxis",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-13.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-13_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Grundlegende Bemerkungen zur musikalischen Analyse",
+        "Name": "Zur musikalischen Analyse",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-14.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-14_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Anmerkungen zur musikalischen Analyse Seite 1 - Ein Negativbeispiel: Die Sonate",
+        "Name": "Zur musikalischen Analyse - Die Sonate",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-15.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-15_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Anmerkungen zur musikalischen Analyse Seite 2 - Ein Negativbeispiel: Die Sonate",
+        "Name": "Zur musikalischen Analyse - Die Sonate",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-16.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-16_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Biografie Biographie Recherchieren Recherche Internet",
+    "Description": "Diese Unterrichtseinheit ermöglicht einen biografischen Einstieg in das Thema 'Johann Sebastian Bach' und ist insbesondere für individuelles Recherchieren im Internet geeignet. Die Ergebnisse des individuellen Arbeitens können im Klassenraum zusammengetragen, kommentiert und verglichen werden.",
+    "Id": "4",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Familie Bachs",
+        "Name": "Zur Bachfamilie",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-6.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Seite 1 zur Unterrichtseinheit 'Die Bachs - Eine Musikerfamilie'",
+        "Name": "Zur Familie Johann Sebastian Bachs",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-17.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-17_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Seite 2 zur Unterrichtseinheit 'Die Bachs - Eine Musikerfamilie'",
+        "Name": "Zur Familie Johann Sebastian Bachs",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-18.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-18_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Biografie Biographie Recherchieren Recherche Internet",
+    "Description": "Auch diese Unterrichtseinheit ermöglicht einen biografischen Einstieg in das Thema ›Johann Sebastian Bach‹ und ist insbesondere für individuelles Recherchieren im Internet geeignet. ",
+    "Id": "5",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtsheft 'Wohnorte und Anstellungen'",
+        "Name": "Unterrichtseinheit zu den Wohnaorten und Anstellungen Johann Sebastian Bachs",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-7.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-7_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Unterrichtseinheit 'Wohnorte und Anstellungen'",
+        "Name": "Wohnorte und Anstellungen",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-19.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-19_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Vorschlag zu einem Gedächtnisspiel anhand der Unterrichteinheit 'Wohnorte und Anstellungen'",
+        "Name": "Gedachtnisspiel",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-20.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-20_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Gedächtnis Noten mitlesen, Erkennen, Musik",
+    "Description": "Nach Aufnahme der Informationen dieser Unterrichtseinheit kann mit der Aufgabe 3 das musikalische Gedächtnis sowie das Mitlesen und Wiedererkennen eines älteren Notentextes geübt werden. Diese Seite ist als Einstieg zum Thema Tanz im weiteren Sinne geeignet.",
+    "Id": "6",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit 'BWV - Eine Automarke?'",
+        "Name": "Unterrichtseinheit zum Bach-Werke-Verzeichnis (BWV)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-8.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Seite 1 Unterrichtseinheit 'BWV - Eine Automarke?'",
+        "Name": "Unterrichtseinheit zum BachWerke-Verzeichnis (BWV)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-21.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-21_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Seite 2 zur Unterrichtseinheit 'BWV - Eine Automarke?'",
+        "Name": "Unterrichtseinheit zum BachWerke-Verzeichnis (BWV)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-22.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-22_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Urheberrecht Aneignung kommerziell Partita E-Dur 1006 Fuge g-Moll 542",
+    "Description": "Die Unterrichtseinheit ist zur Erörterung von Fragen des Urheberrechts geeignet. Insbesondere die Probleme, die durch kreativ-künstlerische Aneignung einer Fremdkomposition auf der einen Seite und kommerziellen Interessen auf der anderen entstehen, lassen sich an Person und Werk Bachs veranschaulichen. Als Beispiel eines Werkes von Bach werden die Bearbeitung der Partita in E BWV 1006 und die Fuge in g-Moll BWV 542 thematisiert.",
+    "Id": "7",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zum Urheberschutz und Urheberrecht anhand von Werken Johann Sebastian Bachs und der Kompositionsästhetik des 18. Jahrhunderts ",
+        "Name": "Unterrichtseiheit zum Urheberschutz und Urheberrecht",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-9.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-9_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft: Erläuterungen zum Urheberschutz und Urheberrecht",
+        "Name": "Unterrichtseiheit zum Urheberschutz und Urheberrecht",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-23.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-23_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Seite 1 mit Erläuterungen zum Urheberschutz und Urheberrecht",
+        "Name": "Unterrichtseiheit zum Urheberschutz und Urheberrecht",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-24.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-24_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen mit Originalzitaten von Mattheson und Heinichen zum Komponieren-lernen im 18. Jahrhundert (Arbeitsbogen als Gesprächsgrundlage zum heutigen Urheberschutz und Urheberrecht)",
+        "Name": "Unterrichtseiheit zum Urheberschutz und Urheberrecht",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-25.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-25_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Musik Religion Kirche Anstellung Choral Bearbeitung Variieren Variation",
+    "Description": "Diese Unterrichtseinheit thematisiert Musik im Kontext der Religionsausübung und zeigt Bach als Musiker in kirchlicher Anstellung. Über die instrumentale Bearbeitung einer Choralmelodie lässt sich zudem das Prinzip des musikalischen Variierens veranschaulichen.",
+    "Id": "8",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit Kunstvoller Gottesdienst - Bachs Choralbearbeitungen (Musik im Kontext) ",
+        "Name": "Kunstvoller Gottesdienst - Bachs Choralbearbeitungen (Musik im Kontext) ",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-10.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-10_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Seite 1 zur Unterrichtseinheit zur Choralbearbeitung des Chorals 'Allein Gott in der Höh' sei Ehr'",
+        "Name": "Choralbearbeitungen zum Choral 'Allein Gott in der Höh' sei Ehr'",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-26.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-26_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Seite 2 zur Unterrichtseinheit zur Choralbearbeitung des Chorals 'Allein Gott in der Höh' sei Ehr'",
+        "Name": "Choralbearbeitungen zum Choral 'Allein Gott in der Höh' sei Ehr'",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-27.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-27_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Fuge Form Modell überprüfen Forschung Theorie Praxis Video YouTube",
+    "Description": "Die folgende Unterrichtseinheit thematisiert die Fuge als musikalisches Kompositionsprinzip. Mit dieser Unterrichtseinheit kann der Versuch unternommen werden, nicht über eine ausgewählte Komposition Bachs ein musiktheoretisches Modell zu veranschaulichen (das Formmodell alternierender Durchführungen und Zwischenspiele), sondern dieses gängige Modell an verschiedenen Kompositionen zu überprüfen. Eine eigenständige Überprüfung des theoretischen Wissens ist Schülerinnen und Schülern über visuell aufbereitete Analysen der Fugen Bachs im Internet möglich. Da das Modell in der praktischen Anwendung oft scheitert (d.h. viele Fugen Bachs lassen sich nicht mit diesem Modell angemessen beschreiben), kann hieran das Prinzip musiktheoretischer Forschung veranschaulicht werden.",
+    "Id": "9",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Fuge ",
+        "Name": "Die Fuge (Klavier)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-11.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-11_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Unterrichtseinheit Fuge",
+        "Name": "Die Fuge (Klavier)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-28.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-28_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit Fuge",
+        "Name": "Die Fuge (Klavier)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-29.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-29_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen Seite 1 zur Fuge in C-Dur aus dem Wohltemperierten Klavier Bd. I",
+        "Name": "Die Fuge (Klavier)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-30.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-30_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen Seite 2 zur Fuge in C-Dur aus dem Wohltemperierten Klavier Bd. I",
+        "Name": "Die Fuge (Klavier)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-31.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-31_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen Seite 1 zur Fuge in c-Moll aus dem Wohltemperierten Klavier Bd. I",
+        "Name": "Die Fuge (Klavier)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-32.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-32_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen Seite 2 zur Fuge in c-Moll aus dem Wohltemperierten Klavier Bd. I",
+        "Name": "Die Fuge (Klavier)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-33.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-33_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Musik Sprache Inhalt Capriccio Abschied Sehnsucht Vergleich 992 992 12 795 Kantate Cantate Sinfonia f-Moll",
+    "Description": "Diese Unterrichtseinheit verdeutlicht in erster Linie die Eigenständigkeit von Musik und Sprache sowie das Problem, einen sprachlichen Inhalt (bzw. ein Programm) einer Musik eindeutig zuordnen zu können.",
+    "Id": "10",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Programmmusik von Bach zum Thema 'Abschied und Sehnsucht' anhand des Capriccios in B-Dur BWV 992",
+        "Name": "Unterrichtseinheit zur Programmmusik von Bach zum Thema 'Abschied und Sehnsucht' anhand des Capriccios in B-Dur BWV 992",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-12.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-12_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Programmmusik von Bach zum Thema 'Abschied und Sehnsucht' anhand des Capriccios in B-Dur BWV 992",
+        "Name": "Kommentar zur Programmmusik von Bach zum Thema 'Abschied und Sehnsucht' anhand des Capriccios in B-Dur BWV 992",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-34.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-34_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Goldberg Variation Gedächtnis Musik Hören Bass Modell Tetrachord Quizz",
+    "Description": "Die folgenden Aufgaben dienen der Stärkung der Konzentration, des musikalischen Gedächtnisses sowie dem Kennenlernen des Prinzips der Variation anhand der Goldberg-Variationen. Für ein besseres Verständnis soll der Beginn des Variationsmodells (der Bass-Tetrachord g-f#-d-e) in verschiedenen Kontexten im Notentext wieder entdeckt werden.",
+    "Id": "11",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit Stärkung der Konzentration, des musikalischen Gedächtnisses sowie dem Kennenlernen des Prinzips der Variation anhand der Goldberg-Variationen",
+        "Name": "Unterrichtseinheit Stärkung der Konzentration, des musikalischen Gedächtnisses sowie dem Kennenlernen des Prinzips der Variation anhand der Goldberg-Variationen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-13.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-13_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichteinheit zu den Goldberg-Variationen.",
+        "Name": "Kommentar zur Unterrichteinheit zu den Goldberg-Variationen.",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-35.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-35_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Passacaglia c-Moll Orgel Chaconne Tanz Hören Singen Notieren Notation Urheber Urheberrecht Plagiat gemeinfrei",
+    "Description": "Diese Unterrichtseinheit beinhaltet ein Training des musikalischen Gedächtnisses über das Erinnern von Tonleiterstufen. Darüber hinaus wird das Prinzip der Variation bzw. des Variierens anhand der Passacaglia in c-Moll BWV 582 veranschaulicht.",
+    "Id": "12",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit für das musikalische Gedächtnis und zur Variation anhand der Passacaglia in c-Moll BWV 582",
+        "Name": "Unterrichtseinheit für das musikalische Gedächtnis und zur Variation anhand der Passacaglia in c-Moll BWV 582",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-14.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-14_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit für das musikalische Gedächtnis und zur Variation anhand der Passacaglia in c-Moll BWV 582",
+        "Name": "Kommentar zur Unterrichtseinheit für das musikalische Gedächtnis und zur Variation anhand der Passacaglia in c-Moll BWV 582",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-36.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-36_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit für das musikalische Gedächtnis und zur Variation anhand der Passacaglia in c-Moll BWV 582",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit für das musikalische Gedächtnis und zur Variation anhand der Passacaglia in c-Moll BWV 582",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-37.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-37_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Chaconne Passacaglia Violine d-Moll Tanz Lamento Lamentobass Variation",
+    "Description": "Diese Unterrichtseinheit ist für verschiedene systematische Aspekte geeignet: Zum einen lässt sich das Prinzip der Variation (über einem Bass- bzw. Harmoniemodell), zum anderen das des Lamentobasses anhand der Chaconne (Ciaccona) aus der Partita Nr. 2 für Violine solo in d-Moll BWV 1004 veranschaulichen. Bassmodell und Variationsmodell können durch das Hinzusingen zu einer Aufnahme praktisch erlebt werden. Anschließend ist der Einstieg in die Notenanalyse sinnvoll möglich.",
+    "Id": "13",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zum Prinzip der Variation und zum Lamentobass",
+        "Name": "Unterrichtseinheit zum Prinzip der Variation und zum Lamentobass",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-15.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-15_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Seite 2 zur Unterrichtseinheit zum Prinzip der Variation und zum Lamentobass",
+        "Name": "Kommentarheft Seite 1 zur Unterrichtseinheit zum Prinzip der Variation und zum Lamentobass",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-38.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-38_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Seite 2 zur Unterrichtseinheit zum Prinzip der Variation und zum Lamentobass",
+        "Name": "Kommentarheft Seite 2 zur Unterrichtseinheit zum Prinzip der Variation und zum Lamentobass",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-39.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-39_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Seite 3 zur Unterrichtseinheit zum Prinzip der Variation und zum Lamentobass",
+        "Name": "Kommentarheft Seite 3 zur Unterrichtseinheit zum Prinzip der Variation und zum Lamentobass",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-40.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-40_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Eintrag zur Chaconne ('Ciacona') aus dem ersten deutschprachigen Lexikon von Johann Gottfried Walther und Übertragung",
+        "Name": "Eintrag zur Chaconne ('Ciacona') aus dem ersten deutschprachigen Lexikon von Johann Gottfried Walther und Übertragung",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-41.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-41_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Suite Allemande Courante Sarabande Bourée Gigue Menuett Gavotte hören erkennen Quizz",
+    "Description": "In dieser Unterrichtseinheit können charakteristische Rhythmen barocker Tänze praktisch erarbeitet, gemeinsam geübt (durch Klatschen, mit Klanghölzern, Bodypercussion etc.) und hörend wiedererkannt werden.",
+    "Id": "14",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zu den Tänzen der Suite (Allemande, Courante, Sarabande, Gigue, Bourrée, Gavotte und Menuett)",
+        "Name": "Unterrichtseinheit zu den Tänzen der Suite (Allemande, Courante, Sarabande, Gigue, Bourrée, Gavotte und Menuett)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-16.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-16_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Unterrichtseinheit zu den Tänzen der Suite (Allemande, Courante, Sarabande, Gigue, Bourrée, Gavotte und Menuett)",
+        "Name": "Kommentar Seite 1 zur Unterrichtseinheit zu den Tänzen der Suite (Allemande, Courante, Sarabande, Gigue, Bourrée, Gavotte und Menuett)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-42.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-42_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit zu den Tänzen der Suite (Allemande, Courante, Sarabande, Gigue, Bourrée, Gavotte und Menuett)",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit zu den Tänzen der Suite (Allemande, Courante, Sarabande, Gigue, Bourrée, Gavotte und Menuett)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-43.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-43_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Tanz Tanzen Menuett Anweisung Schritt Schrittfolge Brandenburgisches Konzert 1046",
+    "Description": "Diese Unterrichtseinheit ermöglicht die Veranschaulichung der musikalischen Form des Menuetts aus dem ersten Brandenburgischen Konzert BWV 1046 über körperliche Bewegung. Das Erarbeiten einer in Teilen selbst ausgedachten Choreographie soll Schülerinnen und Schüler dazu anregen, Musik sehr bewusst und analytisch zu hören, um die so gemachten Beobachtungen in eine andere Darstellung zu überführen.",
+    "Id": "15",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Form des Menuetts aus dem ersten Brandenburgischen Konzert BWV 1046",
+        "Name": "Unterrichtseinheit zur Form des Menuetts aus dem ersten Brandenburgischen Konzert BWV 1046",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-17.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-17_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit (Choreographie zum Menuett aus dem ersten Brandenburgischen Konzert BWV 1046)",
+        "Name": "Kommentar zur Unterrichtseinheit (Choreographie zum Menuett aus dem ersten Brandenburgischen Konzert BWV 1046)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-44.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-44_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Grabmusik Tanzmusik Suite Komm Jesu 229 Sarabande Gigue Allemande Menuett",
+    "Description": "Die Unterrichtseinheit zeigt in der Musik Bachs nicht selten anzutreffende Gegensätze, die sich als ein Aufeinandertreffen von Leiden und Freuden sowie im Sinne christlicher Paradoxie deuten lassen. Diese Gegensätzlichkeit kann bei Bach als Ausdruck religiöser Überzeugung interpretiert werden (»Kreuz und Krone sind verwoben«), nach der Rechtgläubige für irdisches Leiden durch himmlische Freuden belohnt werden.",
+    "Id": "16",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zum Thema 'Musik und Religion' anhand der Motette 'Komm, Jesu, komm' BWV 229",
+        "Name": "Unterrichtseinheit zum Thema 'Musik und Religion' anhand der Motette 'Komm, Jesu, komm' BWV 229",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-18.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-18_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit zum Thema 'Musik und Religion' anhand der Motette 'Komm, Jesu, komm' BWV 229",
+        "Name": "Kommentar zur Unterrichtseinheit zum Thema 'Musik und Religion' anhand der Motette 'Komm, Jesu, komm' BWV 229",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-45.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-45_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Violine Konzert Violinkonzert Doppelkonzert a-Mol d-Moll E-Dur 1041 1042 1043",
+    "Description": "Diese Unterrichtseinheit ermöglicht ein erstes Kennenlernen der Violinkonzerte Bachs und dient der Stärkung des Konzentrationsvermögens. Als Hilfe zur Aufmerksamkeitsfokussierung können beim Hören der Kopfsätze der Violinkonzerte in a-Moll BWV 1041 und d-Moll BWV 1043 die Formdiagramme zur Orientierung mitgelesen werden. Darüber hinaus kann die Gleichung 'Barockes Konzert = Ritornellform' problematisiert werden.",
+    "Id": "17",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Konzertform, Stärkung der Konzentration und Problematisierung der Gleichung 'Barockes Konzert = Ritornellform'",
+        "Name": "Unterrichtseinheit zur Konzertform, Stärkung der Konzentration und Problematisierung der Gleichung 'Barockes Konzert = Ritornellform'",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-19.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-19_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Unterrichtseinheit zur Konzertform, Stärkung der Konzentration und Problematisierung der Gleichung 'Barockes Konzert = Ritornellform'",
+        "Name": "Kommentar Seite 1 zur Unterrichtseinheit zur Konzertform, Stärkung der Konzentration und Problematisierung der Gleichung 'Barockes Konzert = Ritornellform'",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-46.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-46_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit zur Konzertform, Stärkung der Konzentration und Problematisierung der Gleichung 'Barockes Konzert = Ritornellform'",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit zur Konzertform, Stärkung der Konzentration und Problematisierung der Gleichung 'Barockes Konzert = Ritornellform'",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-47.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-47_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 3 zur Unterrichtseinheit zur Konzertform, Stärkung der Konzentration und Problematisierung der Gleichung 'Barockes Konzert = Ritornellform'",
+        "Name": "Kommentar Seite 3 zur Unterrichtseinheit zur Konzertform, Stärkung der Konzentration und Problematisierung der Gleichung 'Barockes Konzert = Ritornellform'",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-48.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-48_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zum Fortspinnungstypus (Barockes Konzert)",
+        "Name": "Arbeitsbogen zum Fortspinnungstypus (Barockes Konzert)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-49.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-49_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Oratorium Choral Rezitativ Arie Duett Matthäuspassion 244 Figur Judas Problem",
+    "Description": "Die folgende Unterrichtseinheit dient dem Kennenlernen der Gattung Oratorium im Allgemeinen (bzw. Passionsoratorium, bestehend aus Chorälen, Rezitativen Arien, Duetten etc.) und der Matthäuspassion Bachs im Besonderen. Darüber hinaus besteht Gelegenheit, anhand der Vertonung Bachs die theologisch problematische Figur des Judas zu thematisieren.",
+    "Id": "18",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Matthäuspassion und zur Figur des Judas (Musik und Religion)",
+        "Name": "Unterrichtseinheit zur Matthäuspassion und zur Figur des Judas (Musik und Religion)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-20.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-20_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit zur Matthäuspassion und zur Figur des Judas",
+        "Name": "Kommentar zur Unterrichtseinheit zur Matthäuspassion und zur Figur des Judas",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-50.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-50_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zur Figur des Judas",
+        "Name": "Arbeitsbogen zur Figur des Judas",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-51.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-51_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Messe h-Moll 232 Text Form Crucifixus Passacaglia 12 chromatisch Lamentobass",
+    "Description": "Anhand der großen Messe in h-Moll von Bach kann das Verhältnis von Textform und musikalischer Form veranschaulicht werden. Darüber hinaus ist das Crucifixus Beispiel für eine Passacaglia (Unterrichtsheft → S. 12), die in der Tradition herausragender Lamentokompositionen gesehen werden kann sowie für eine Eigenbearbeitung (Kontrafaktur des zweiten Satzes der Kantate 'Weinen, Zagen, Sorgen, Klagen' BWV 12, Unterrichtssheft → S. 24).",
+    "Id": "19",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur h-Moll-Messe BWV 232, zur Passacaglia, zum Lamentobass und zur Kontrafaktur bzw. Bearbeitung",
+        "Name": "Unterrichtseinheit zur h-Moll-Messe BWV 232 (Passacaglia, Lamentobass Kontrafaktur/Bearbeitung)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-21.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-21_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit zur h-Moll-Messe BWV 232, zur Passacaglia (Lamentobass) und zur Kontrafaktur bzw. Bearbeitung",
+        "Name": "Kommentar zur Unterrichtseinheit zur h-Moll-Messe BWV 232 (Passacaglia, Lamentobass, Kontrafaktur/Bearbeitung)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-52.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-52_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Magnificat Weihnachten 243 Figur Tonleiter Anabasis Text Textausdeutung Quia respexit Omnes generationes",
+    "Description": "Mit der Unterrichtseinheit zum Magnificat BWV 243 lässt sich zum einen ein besonderer, ›klagender‹ Ausdruck veranschaulichen, wie er in der Besetzung (Oboe d’amore), der Tonart (h-Moll) und den übermäßigen Intervallschritten greifbar wird. Zum anderen kann eine musikalische Struktur (Tonleiter aufwärts bzw. ›Anabasis‹) hörbar gemacht und ihre Bedeutung für den Text diskutiert werden.",
+    "Id": "20",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zum Magnificat BWV 243 und zu einer Tonleiterstruktur im 'Omnes generationes'",
+        "Name": "Unterrichtseinheit zum Magnificat BWV 243 und zu einer Tonleiterstruktur im 'Omnes generationes'",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-22.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-22_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit zum Magnificat BWV 243 und zu einer Tonleiterstruktur im 'Omnes generationes'",
+        "Name": "Kommentar zur Unterrichtseinheit zum Magnificat BWV 243 und zu einer Tonleiterstruktur im 'Omnes generationes'",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-53.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-53_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit zum Magnificat BWV 243 und zu einer Tonleiterstruktur im 'Omnes generationes'",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit zum Magnificat BWV 243 und zu einer Tonleiterstruktur im 'Omnes generationes'",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-54.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-54_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit zum Magnificat BWV 243 und zu einer Tonleiterstruktur im 'Omnes generationes'",
+        "Name": "Kommentar zur Unterrichtseinheit zum Magnificat BWV 243 und zu einer Tonleiterstruktur im 'Omnes generationes'",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-55.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-55_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Licht Dunkelheit Schatten Metahper Bild Ausdruck 6",
+    "Description": "Die folgende Unterrichtseinheit kann verdeutlichen, dass ein Sprechen über Musik nur metaphorisch bzw. in Bildern möglich ist. Licht und Dunkelheit sind geläufige Bilder, um einen charakteritischen Ausdruck in der Musik zu beschreiben. Allerdings dürften sich die Vorstellungsinhalte für diese Bilder je nach Umfang vorhandener Vorkenntnisse stark unterscheiden.",
+    "Id": "21",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zu 'Licht und Dunkelheit' in der Musik",
+        "Name": "Unterrichtseinheit zu 'Licht und Dunkelheit' in der Musik",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-23.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-23_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Unterrichtseinheit zu 'Licht und Dunkelheit' in der Musik",
+        "Name": "Kommentar Seite 1 zur Unterrichtseinheit zu 'Licht und Dunkelheit' in der Musik",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-56.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-56_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit zu 'Licht und Dunkelheit' in der Musik",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit zu 'Licht und Dunkelheit' in der Musik",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-57.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-57_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen 1 zum Thema 'Licht und Dunkelheit' in der Musik",
+        "Name": "Arbeitsbogen 1 zum Thema 'Licht und Dunkelheit' in der Musik",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-58.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-58_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen 2 zum Thema 'Licht und Dunkelheit' (Licht und Schatten) in der Musik",
+        "Name": "Arbeitsbogen 2 zum Thema 'Licht und Dunkelheit' (Licht und Schatten) in der Musik",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-59.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-59_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Generalbass Kadenz Modell c-Moll Fuge 847 Wohltemperiertes Klavier Spiegelsymmetrie Symmetrie Jesu meine Freude 227",
+    "Description": "Mit der folgenden Unterrichtseinheit kann anhand der Fuge c-Moll BWV 847 aus dem Wohltemperierten Klavier Bd. 1 ein spiegelsymmetrisches Formkonzept veranschaulicht werden. Hinsichtlich der Religiosität Bachs und des geistesgeschichtlichen Kontextes kann dieses Formkonzept als Symbol für Vollkommenheit und Göttlichkeit interpretiert werden (›Soli Deo Gloria‹).",
+    "Id": "22",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Mit dieser Unterrichtseinheit kann anhand der Fuge c-Moll BWV 847 aus dem Wohltemperierten Klavier Bd. 1 ein spiegelsymmetrisches Formkonzept veranschaulicht werden. Hinsichtlich der Religiosität Bachs und des geistesgeschichtlichen Kontextes lässt sich diese Spiegelsymmetrie als Symbol für Vollkommenheit und Göttlichkeit interpretieren (›Soli Deo Gloria‹).",
+        "Name": "Mit dieser Unterrichtseinheit kann anhand der Fuge c-Moll BWV 847 aus dem Wohltemperierten Klavier Bd. 1 ein spiegelsymmetrisches Formkonzept veranschaulicht werden. Hinsichtlich der Religiosität Bachs und des geistesgeschichtlichen Kontextes lässt sich diese Spiegelsymmetrie als Symbol für Vollkommenheit und Göttlichkeit interpretieren (›Soli Deo Gloria‹).",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-24.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-24_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit 'Interpretation einer musikalischen Form als Symbol' anhand der Fuge c-Moll BWV 847 aus dem Wohtletmperierten Klavier Bd. 1",
+        "Name": "Kommentar zur Unterrichtseinheit 'Interpretation einer musikalischen Form als Symbol' anhand der Fuge c-Moll BWV 847 aus dem Wohtletmperierten Klavier Bd. 1",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-60.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-60_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit zum Interpretation einer musikalischen Form als Symbol anhand der Fuge c-Moll BWV 847 aus dem Wohtletmperierten Klavier Bd. 1",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit zum Interpretation einer musikalischen Form als Symbol anhand der Fuge c-Moll BWV 847 aus dem Wohtletmperierten Klavier Bd. 1",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-61.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-61_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Melodische Figur außermusikalische Bedeutung Rhythmus Bedeutung Fuge 847 861 Kreuz und Krone Theologie theologische Aussage paradox Paradoxie",
+    "Description": "Die folgende Unterrichtseinheit veranschaulicht die Möglichkeit, musikalische Parameter wie melodische Figuren und Rhythmus aufeinander zu beziehen und ihnen eine Bedeutung zuzuweisen. Die beiden Fugen aus BWV 847 und BWV 861 legen es – im Rahmen einer nach außermusikalischen Bedeutungen suchenden Analyse – nahe, die Aspekte Melodik, Rhythmik und tonartliche Aspekte im Sinne einer paradoxen theologischen Aussage (›Kreuz und Krone‹) zu interpretieren.",
+    "Id": "23",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zu musikalischen Figuren anhand der Fugen aus BWV 847 und BWV  861 aus dem Wohltemperierten Klavier Bd. 1",
+        "Name": "Unterrichtseinheit zu musikalischen Figuren anhand der Fugen aus BWV 847 und BWV  861 aus dem Wohltemperierten Klavier Bd. 1",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-25.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-25_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zu musikalischen Figuren anhand der Fugen aus BWV 847 und BWV  861 aus dem Wohltemperierten Klavier Bd. 1",
+        "Name": "Kommentar Seite 1 zur Unterrichtseinheit zu musikalischen Figuren anhand der Fugen aus BWV 847 und BWV  861 aus dem Wohltemperierten Klavier Bd. 1",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-62.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-62_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zu musikalischen Figuren anhand der Fugen aus BWV 847 und BWV  861 aus dem Wohltemperierten Klavier Bd. 1",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit zu musikalischen Figuren anhand der Fugen aus BWV 847 und BWV  861 aus dem Wohltemperierten Klavier Bd. 1",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-63.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-63_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen 1 zu musikalischen Figuren anhand der Fuge in c-Moll aus BWV 847 aus dem Wohltemperierten Klavier Bd. 1",
+        "Name": "Arbeitsbogen 1 zu musikalischen Figuren anhand der Fuge in c-Moll aus BWV 847 aus dem Wohltemperierten Klavier Bd. 1",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-64.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-64_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen 2 zu musikalischen Figuren anhand der Fuge in g-Moll aus BWV 861 aus dem Wohltemperierten Klavier Bd. 1",
+        "Name": "Arbeitsbogen 2 zu musikalischen Figuren anhand der Fuge in g-Moll aus BWV 847 aus dem Wohltemperierten Klavier Bd. 1",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-65.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-65_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Melodische Figur außermusikalische Bedeutung Weinen Zagen Sorgen Klagen 12 Wir müssen durch viel Trübsal Kreuz und Krone",
+    "Description": "Auch diese Unterrichtseinheit ist geeignet, Bachs Musik im Rahmen einer nach außermusikalischen Bedeutungen suchenden Analyse eine spezifische Bedeutung zuzuweisen. In diesem Fall ist es die melodische Figur der Anabasis, die eine Veranschaulichung der paradoxen theologischen Aussage (›Kreuz und Krone‹) ermöglicht.",
+    "Id": "24",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zum Thema ›Kreuz und Krone‹ und zur Interpretation musikalischer Figuren anhand der Kantate 'Weinen, Zagen, Sorgen, Klagen' BWV 12",
+        "Name": "Unterrichtseinheit zum Thema ›Kreuz und Krone‹ und zur Interpretation musikalischer Figuren anhand der Kantate 'Weinen, Zagen, Sorgen, Klagen' BWV 12",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-26.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-26_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit ›Kreuz und Krone‹ sowie musikalische Figuren anhand der Kantate 'Weinen, Zagen, Sorgen, Klagen' BWV 12",
+        "Name": "Kommentar zur Unterrichtseinheit ›Kreuz und Krone‹ sowie musikalische Figuren anhand der Kantate 'Weinen, Zagen, Sorgen, Klagen' BWV 12",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-66.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-66_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "mehrfacher dreifacher Kontrapunkt Stimmtausch Quintfallsequenz Synkopenkette 7-6-Synkpe d-Moll 875 Praeludium Präludium 555",
+    "Description": "Diese Unterrichtseinheit ermöglicht das Kennenlernen einer im 18. und 19. Jahrhundert beliebten Satztechnik: des mehrfachen Kontrapunkts. Die drei im Unterrichtsheft abgebildeten Stimmen, deren Zusammenklang sich harmonisch als dominantisch beginnende Quintfallsequenz interpretieren lässt, veranschaulichen das Modell der ›melodischen Kunst‹ des dreifachen Kontrapunkts.",
+    "Id": "25",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtsheit zum mehrfachen Kontrapunkt (dreifachen Kontrapunkt der Oktave)",
+        "Name": "Unterrichtsheit zum mehrfachen Kontrapunkt (dreifachen Kontrapunkt der Oktave)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-27.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-27_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtsheit zum mehrfachen Kontrapunkt (dreifachen Kontrapunkt der Oktave)",
+        "Name": "Kommentar zur Unterrichtsheit zum mehrfachen Kontrapunkt (dreifachen Kontrapunkt der Oktave)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-67.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-67_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zum mehrfachen Kontrapunkt (dreifachen Kontrapunkt der Oktave)",
+        "Name": "Arbeitsbogen zum mehrfachen Kontrapunkt (dreifachen Kontrapunkt der Oktave)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-68.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-68_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zur Analyse zum Thema mehrfacher Kontrapunkt (dreifacher Kontrapunkt) der Oktave",
+        "Name": "Arbeitsbogen zur Analyse zum Thema mehrfacher Kontrapunkt (dreifacher Kontrapunkt) der Oktave",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-69.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-69_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Sopran Arie Matthäuspassion 244 a-Moll aus Liebe will mein Heiland sterben Lamentobass Tonleiter Generalbass",
+    "Description": "Diese Unterrichtseinheit bietet einen grundlegenden Einstieg zum Thema Generalbass. Dabei können erste Erfahrungen im Lesen und Aussetzen von Bezifferungen gemacht werden und auch Erfahrungen im Umgang mit im Laufe der Zeit verloren gegangenen Selbstverständlichkeiten.",
+    "Id": "26",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zum Einstieg in das Thema Generalbass",
+        "Name": "Unterrichtseinheit zum Einstieg in das Thema Generalbass",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-28.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-28_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Unterrichtseinheit Generalbass",
+        "Name": "Kommentar Seite 1 zur Unterrichtseinheit Generalbass",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-70.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-70_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit Generalbass",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit Generalbass",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-71.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-71_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 3 zur Unterrichtseinheit Generalbass",
+        "Name": "Kommentar Seite 3 zur Unterrichtseinheit Generalbass",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-74.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-74_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zum Thema Generalbass zur Arie 'Aus Liebe will mein Heiland sterben' aus der Matthäuspassion",
+        "Name": "Arbeitsbogen zum Thema Generalbass zur Arie 'Aus Liebe will mein Heiland sterben' aus der Matthäuspassion ",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-72.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-72_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen 1 zur Bezifferung im Generalbass",
+        "Name": "Arbeitsbogen 1 zur Bezifferung im Generalbass",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-73.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-73_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen 2 zur Bezifferung im Generalbass",
+        "Name": "Arbeitsbogen 2 zur Bezifferung im Generalbass",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-75.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-75_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Invention d-Moll 775 Intervall Quintfallsequenz Hemiole",
+    "Description": "In dieser Unterrichtseinheit wird anhand der Invention in d-Moll BWV 775 das Bestimmen von Intervallen geübt. Darüber hinaus lässt sich mit ihr eines der bekanntesten Sequenzmodelle tonaler Musik thematisieren: die Quintfallsequenz. Diese Sequenz ermöglicht eine Analyse des ersten Formteils der Invention in d-Moll von Johann Sebastian Bach. Abschließend kann die Hemiole als rhythmisch-metrisches Phänomen thematisiert werden.",
+    "Id": "27",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Quintfallsequenz als einer charakteristischen Harmoniefolge in tonaler Musik",
+        "Name": "Unterrichtseinheit zur Quintfallsequenz als einer charakteristischen Harmoniefolge in tonaler Musik",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-29.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-29_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Unterrichtseinheit zur Quintfallsequenz als einer charakteristischen Harmoniefolge in tonaler Musik",
+        "Name": "Kommentar Seite 1 zur Unterrichtseinheit zur Quintfallsequenz als einer charakteristischen Harmoniefolge in tonaler Musik",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-76.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-76_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit zur Quintfallsequenz als einer charakteristischen Harmoniefolge in tonaler Musik",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit zur Quintfallsequenz als einer charakteristischen Harmoniefolge in tonaler Musik",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-78.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-78_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zur Invention in d-Moll BWV 775 im Rahmen der Unterrichtseinheit Quintfallsequenz",
+        "Name": "Arbeitsbogen zur Invention in d-Moll BWV 775 im Rahmen der Unterrichtseinheit Quintfallsequenz",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-79.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-79_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zum bestimmen von Intervallen (Exkurs)",
+        "Name": "Arbeitsbogen zum bestimmen von Intervallen (Exkurs)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-77.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-77_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Präludium Praeludium 846 Wohltemperiertes Klavier C-Dur Puzzle",
+    "Description": "Diese Unterrichtseinheit verdeutlich anhand des Präludiums in C-Dur BWV 846 (WtKl I), dass die Tonleiter im 18. Jahrhundert ein Modell von herausragender – sowohl kompositionsdidaktischer als auch kompositionsgeschichtlicher – Bedeutung war. Es wird gezeigt, dass die Behandlung der Tonleiter auch heute noch mehr sein kann als ein Abfragegegenstand im Rahmen der musikalischen Propädeutik.",
+    "Id": "28",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Dur-Tonleiter anhand des Präludiums in C-Dur BWV 846 (WtKl I)",
+        "Name": "Ein Präludium und die Durtonleiter",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-30.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-30_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar 1. Seite zur Unterrichtseinheit 'Ein Präludium und die Durtonleiter'",
+        "Name": "Ein Präludium und die Durtonleiter",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-80.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-80_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar 2. Seite zur Unterrichtseinheit 'Ein Präludium und die Durtonleiter'",
+        "Name": "Ein Präludium und die Durtonleiter",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-81.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-81_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zur Dur-Tonleiter als Struktur anhand des C-Dur-Präludiums (Wohltemperiertes Klavier Bd. 1) BWV  846",
+        "Name": "Ein Präludium und die Durtonleiter",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-82.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-82_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zur Dur-Tonleiter als Struktur anhand des D-Dur-Präludiums (Wohltemperiertes Klavier Bd. 1) BWV  850",
+        "Name": "Arbeitsbogen zur Dur-Tonleiter als Struktur anhand des D-Dur-Präludiums (Wohltemperiertes Klavier Bd. 1) BWV  850",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-83.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-83_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zur Moll-Tonleiter als Struktur anhand des c-Moll-Präludiums (Wohltemperiertes Klavier Bd. 1) BWV  847",
+        "Name": "Arbeitsbogen zur Moll-Tonleiter als Struktur anhand des c-Moll-Präludiums (Wohltemperiertes Klavier Bd. 1) BWV  847",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-84.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-84_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zur Moll-Tonleiter als Struktur anhand des d-Moll-Präludiums (Wohltemperiertes Klavier Bd. 1) BWV  851",
+        "Name": "Arbeitsbogen zur Moll-Tonleiter als Struktur anhand des d-Moll-Präludiums (Wohltemperiertes Klavier Bd. 1) BWV  851",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-85.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-85_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zur Harmonisierung einer Durtonleiter bzw. zur Regola dell' ottava (Generalbassaussetzung nach Ziffern)",
+        "Name": "Arbeitsbogen zur Harmonisierung einer Durtonleiter bzw. zur Regola dell' ottava (Generalbassaussetzung nach Ziffern)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-86.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-86_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Menuett Französische Suite 812 Tonleiter ABA-Form Mitspielsatz Arrangement Praxis",
+    "Description": "Diese Unterrichtseinheit bietet anhand des Menuett II aus der Französischen Suite in d-Moll BWV 812 eine Übung für das elementare Musizieren sowie zur Tempokoordniation beim Spielen zu einer Aufnahme. Darüber hinaus kann mit dem Spielsatz zu dieser Unterrichtseinheit die tonale Struktur und Form einer kleineren Komposition erörtert und veranschaulicht werden.",
+    "Id": "29",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Moll-Tonleiter anhand des Menuett II der Franziösischen Suite in d-Moll BWV 812",
+        "Name": "Ein Menuett und die Molltonleiter",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-31.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-31_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft S. 1 zur Unterrichtseinheit 'Ein Menuett und die Molltonleiter'",
+        "Name": "Kommentarheft S. 1 zur Unterrichtseinheit 'Ein Menuett und die Molltonleiter'",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-87.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-87_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft S. 2 zur Unterrichtseinheit 'Ein Menuett und die Molltonleiter'",
+        "Name": "Kommentarheft S. 2 zur Unterrichtseinheit 'Ein Menuett und die Molltonleiter'",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-88.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-88_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zur Unterrichtseinheit 'Ein Menuett und die Molltonleiter' anhand des Menuetts II aus der Französischen Suite BWV 812",
+        "Name": "Arbeitsbogen zur Unterrichtseinheit 'Ein Menuett und die Molltonleiter' anhand des Menuetts II aus der Französischen Suite BWV 812",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-89.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-89_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Tonleiter Tonarten Rätsel notieren Noten aufschreiben PC-Set Methode",
+    "Description": "Über diese Unterrichtseinheit können die Strukturen der Dur- und Molltonleiter spielerisch vermittelt sowie die Fähigkeit zum Notieren der Tonleitern geübt werden. ",
+    "Id": "30",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Struktur der Dur- und Molltonleiter sowie zum aufschreiben (notieren/Notat) von Tonleitern ",
+        "Name": "Unterrichtseinheit zur Struktur der Dur- und Molltonleiter sowie zum aufschreiben (notieren/Notat) von Tonleitern ",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-32.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-32_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit zur Struktur der Dur- und Molltonleiter sowie zum aufschreiben (notieren/Notat) von Tonleitern ",
+        "Name": "Kommentar zur Unterrichtseinheit zur Struktur der Dur- und Molltonleiter sowie zum aufschreiben (notieren/Notat) von Tonleitern ",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-90.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-90_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Quintenzirkel Quintenturm Tonarten Vorzeichen Merksprüche Bedeutung Semantik Matthäuspassion 244 Mein Gott warum hast du mich verlassen",
+    "Description": "Mit dieser Unterrichtseinheit wird der Versuch unternommen, die Vorstellung des Quintenzirkels durch die des Quintenturms abzulösen. Der Sinn liegt darin, dass die Vorstellung eines Kreises (Zirkel) weder der Entstehung des Tonsystems angemessen ist (in dem beispielsweise die Töne Dis und Es vollkommen unterschiedlich positioniert sind) noch eine Semantik der Tonarten nahelegt.",
+    "Id": "31",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Vorstellung des Tonraumes als Quintenturm (nicht Quintenzirkel)",
+        "Name": "Unterrichtseinheit zur Vorstellung des Tonraumes als Quintenturm (nicht Quintenzirkel)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-33.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-33_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Unterrichtseinheit zur Vorstellung des Tonraumes als Quintenturm (nicht Quintenzirkel)",
+        "Name": "Kommentar Seite 1 zur Unterrichtseinheit zur Vorstellung des Tonraumes als Quintenturm (nicht Quintenzirkel)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-91.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-91_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit zur Vorstellung des Tonraumes als Quintenturm (nicht Quintenzirkel)",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit zur Vorstellung des Tonraumes als Quintenturm (nicht Quintenzirkel)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-92.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-92_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zur Unterrichtseinheit zur Vorstellung des Tonraumes als Quintenturm (nicht Quintenzirkel)",
+        "Name": "Arbeitsbogen zur Unterrichtseinheit zur Vorstellung des Tonraumes als Quintenturm (nicht Quintenzirkel)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-93.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-93_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Musikinstrumente Instrumentenkunde Querflöte Traversflöte Oboe Violine Bratsche Viola Basso Continuo Originalinstrumente Aufführungspraxis",
+    "Description": "Mit der folgenden Unterrichtseinheit können Musikinstrumente, Fragen der musikalischen Besetzung und das Problem der Aufführungspraxis thematisiert werden.",
+    "Id": "32",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zu Musikinstrumenten, Fragen der musikalischen Besetzung und das Problem der Aufführungspraxis",
+        "Name": "Unterrichtseinheit zu Musikinstrumenten, Fragen der musikalischen Besetzung und das Problem der Aufführungspraxis",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-34.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-34_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit zu Musikinstrumenten, Fragen der musikalischen Besetzung und das Problem der Aufführungspraxis",
+        "Name": "Kommentar zur Unterrichtseinheit zu Musikinstrumenten, Fragen der musikalischen Besetzung und das Problem der Aufführungspraxis",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-94.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-94_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zur historischen Aufführungspraxis bzw. Historically informed performance (practice)",
+        "Name": "Arbeitsbogen zur historischen Aufführungspraxis bzw. Historically informed performance (practice)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-95.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-95_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Romantik Bearbeitung Mozart Beethoven Czerny Mendelssohn Matthäuspassion 244 Schumann Chopin Liszt Brahms Busoni Berg Aisler Öoussier Brubeck Jarrett Huber Yun Pärt Gubaidulina Mittmann Chaconne Violine solo 1004",
+    "Description": "Mit dieser Unterrichtseinheit können exemplarisch die Verhältnisse zweier ausgewählter Komponisten des 19. Jahrhunderts bzw. frühen 20. Jahrhunderts (Felix Mendelssohn und Ferruccio Busoni) zu Bach thematisiert sowie das Prinzip der Aneignung durch Bearbeitung veranschaulicht werden.",
+    "Id": "33",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zum Thema 'Bach und die Romantik' und zur Aneignung durch Bearbeitung",
+        "Name": "Unterrichtseinheit zum Thema 'Bach und die Romantik' und zur Aneignung durch Bearbeitung",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-35.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-35_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit zum Thema 'Bach und die Romantik' und zur Aneignung durch Bearbeitung",
+        "Name": "Kommentar zur Unterrichtseinheit zum Thema 'Bach und die Romantik' und zur Aneignung durch Bearbeitung",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-96.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-96_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zum Thema 'Bach und die Romantik' (zur den Bachausgaben Busonis)",
+        "Name": "Arbeitsbogen zum Thema 'Bach und die Romantik' (zur den Bachausgaben Busonis)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-97.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-97_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zum Thema 'Bach und die Romantik' (zur Musikästhetik Busonis)",
+        "Name": "Arbeitsbogen zum Thema 'Bach und die Romantik' (zur Musikästhetik Busonis)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-98.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-99_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zum Thema 'Bach und die Romantik' (zur musikalischen Analyse)",
+        "Name": "Arbeitsbogen zum Thema 'Bach und die Romantik' (zur musikalischen Analyse)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-99.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-100_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Johann Sebastian Bach. Ein Superstar gestern und heute",
+    "Keywords": "Konzert Wirtschaft Wissenschaft Kontext Internet Bearbeitung Pop Rock Rap Computer",
+    "Description": "Diese Unterrichtseinheit bietet viele Beispiel für die Bedeutung von Johann Sebastian Bach für das heutige Konzertleben, die Wirtschaft, Wissenschaft etc. ",
+    "Id": "34",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit mit Beispielen für die Bedeutung von Johann Sebastian Bach für die heutige Zeit.",
+        "Name": "Unterrichtseinheit mit Beispielen zur Bedeutung der Figur Johann Sebastian Bach für die heutige Zeit.",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_unterricht-36.jpg",
+          "ImageSmall": "images/ob_bach_unterricht-36_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Unterrichtseinheit Johann Sebastian Bach in der heutigen Zeit.",
+        "Name": "Kommentar Seite 1 zur Unterrichtseinheit Johann Sebastian Bach in der heutigen Zeit.",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-100.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-100_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit Johann Sebastian Bach in der heutigen Zeit.",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit Johann Sebastian Bach in der heutigen Zeit.",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_bach_kommentar-101.jpg",
+          "ImageSmall": "images/ob_bach_kommentar-101_thumbnail.jpg"
+        }
+      }]
+    }
+  }]
+}

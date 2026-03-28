@@ -1,0 +1,687 @@
+{
+  "Url": "oer-harmonielehre-harmonie-und-form-fuer-kompositionen-in-dur",
+  "Title": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+  "Year": "2015",
+  "Author": "Ulrich Kaiser",
+  "City": "Karlsfeld",
+  "Edition": "1",
+  "Downloads": [
+    { "Text": "Download des Unterrichtshefts (5 MB)", "Link": "releases/Kaiser_HarmonieUndForm_2015.pdf" }
+  ],
+  "Description": "Arbeitsheft zur Formenlehre. Eine Open Educational Resource (OER) für Kinder.",
+  "Keywords": "Arbeitsheft, Formenlehre, OER, Kinder",
+  "Additionals": [],
+  "Image": "kaiser_ob-harmonieundform-Cover.jpg",
+  "Folderpath": "/data/openbooks/harmonieundform/",
+  "Sections": [
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Slideshow Umschlagseiten",
+    "Description": "Slideshow der Umschlag- und der Inhaltsseiten",
+    "Id": "1",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Umschlagseite Vorderseite (U1)",
+        "Name": "Umschlagseite Vorderseite (U1)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-1.jpg",
+          "ImageSmall": "images/ob_harmonieundform-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Inhaltsverzeichnis",
+        "Name": "Inhaltsverzeichnis",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-4.jpg",
+          "ImageSmall": "images/ob_harmonieundform-4_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Vorwort",
+        "Name": "Vorwort",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-5.jpg",
+          "ImageSmall": "images/ob_harmonieundform-5_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 4",
+        "Name": "Seite 4",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-6.jpg",
+          "ImageSmall": "images/ob_harmonieundform-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 5",
+        "Name": "Seite 5",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-7.jpg",
+          "ImageSmall": "images/ob_harmonieundform-7_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 6",
+        "Name": "Seite 6",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-8.jpg",
+          "ImageSmall": "images/ob_harmonieundform-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 7",
+        "Name": "Seite 7",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-9.jpg",
+          "ImageSmall": "images/ob_harmonieundform-9_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 8",
+        "Name": "Seite 8",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-10.jpg",
+          "ImageSmall": "images/ob_harmonieundform-10_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 9",
+        "Name": "Seite 9",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-11.jpg",
+          "ImageSmall": "images/ob_harmonieundform-11_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 10",
+        "Name": "Seite 10",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-12.jpg",
+          "ImageSmall": "images/ob_harmonieundform-12_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 11",
+        "Name": "Seite 11",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-13.jpg",
+          "ImageSmall": "images/ob_harmonieundform-13_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 12",
+        "Name": "Seite 12",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-14.jpg",
+          "ImageSmall": "images/ob_harmonieundform-14_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 13",
+        "Name": "Seite 13",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-15.jpg",
+          "ImageSmall": "images/ob_harmonieundform-15_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 14",
+        "Name": "Seite 14",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-16.jpg",
+          "ImageSmall": "images/ob_harmonieundform-16_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 15",
+        "Name": "Seite 15",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-17.jpg",
+          "ImageSmall": "images/ob_harmonieundform-17_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 16",
+        "Name": "Seite 16",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-18.jpg",
+          "ImageSmall": "images/ob_harmonieundform-18_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 18",
+        "Name": "Seite 18",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-19.jpg",
+          "ImageSmall": "images/ob_harmonieundform-19_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 18",
+        "Name": "Seite 18",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-20.jpg",
+          "ImageSmall": "images/ob_harmonieundform-20_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 18",
+        "Name": "Seite 18",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-21.jpg",
+          "ImageSmall": "images/ob_harmonieundform-21_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 18",
+        "Name": "Seite 18",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-22.jpg",
+          "ImageSmall": "images/ob_harmonieundform-22_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 18",
+        "Name": "Seite 18",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-23.jpg",
+          "ImageSmall": "images/ob_harmonieundform-23_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 18",
+        "Name": "Seite 18",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-24.jpg",
+          "ImageSmall": "images/ob_harmonieundform-24_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 18",
+        "Name": "Seite 18",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-25.jpg",
+          "ImageSmall": "images/ob_harmonieundform-25_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 18",
+        "Name": "Seite 18",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-26.jpg",
+          "ImageSmall": "images/ob_harmonieundform-26_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 18",
+        "Name": "Seite 18",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-28.jpg",
+          "ImageSmall": "images/ob_harmonieundform-28_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Innenteil Seiten",
+    "Description": "Umschlagseiten und die jeweils ersten Seiten des Innenteils.",
+    "Id": "2",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Umschlagseite Vorderseite (U1)",
+        "Name": "Umschlagseite Vorderseite (U1)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-1.jpg",
+          "ImageSmall": "images/ob_harmonieundform-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umschlagseite Rückseite (U2)",
+        "Name": "Umschlagseite Rückseite (U2)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-2.jpg",
+          "ImageSmall": "images/ob_harmonieundform-2_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Erste Seite des Innenteils",
+        "Name": "Erste Seite des Innenteils",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-3.jpg",
+          "ImageSmall": "images/ob_harmonieundform-3_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Rückseite Innenseite (U3)",
+        "Name": "Rückseite Innenseite (U3)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-27.jpg",
+          "ImageSmall": "images/ob_harmonieundform-27_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Rückseite (U4)",
+        "Name": "Rückseite (U4)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-28.jpg",
+          "ImageSmall": "images/ob_harmonieundform-28_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Inhaltsverzeichnis Vorwort",
+    "Description": "Inhaltsverzeichnis und Vorwort",
+    "Id": "3",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Inhaltsverzeichnis",
+        "Name": "Inhaltsverzeichnis",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-4.jpg",
+          "ImageSmall": "images/ob_harmonieundform-4_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Vorwort",
+        "Name": "Vorwort",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-5.jpg",
+          "ImageSmall": "images/ob_harmonieundform-5_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Violinschlüssel Übungen",
+    "Description": "Der Violinschlüssel und Übungen zum Violinschlüssel.",
+    "Id": "4",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Der Violinschlüssel",
+        "Name": "Violinschlüssel, Übungen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-6.jpg",
+          "ImageSmall": "images/ob_harmonieundform-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übungen zum Violinschlüssel",
+        "Name": "Violinschlüssel, Übungen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-7.jpg",
+          "ImageSmall": "images/ob_harmonieundform-7_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Bassschlüssel Übungen",
+    "Description": "Der Bassschlüssel und Übungen zum Bassschlüssel.",
+    "Id": "6",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Der Bassschlüssel",
+        "Name": "Bassschlüssel, Übungen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-8.jpg",
+          "ImageSmall": "images/ob_harmonieundform-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übungen zum Bassschlüssel",
+        "Name": "Bassschlüssel, Übungen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-9.jpg",
+          "ImageSmall": "images/ob_harmonieundform-9_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Quintenturm Quintenzirkel Tonleiter",
+    "Description": "Der Quintenturm und die Tonleiter.",
+    "Id": "8",
+    "Pages":
+    {
+      "Page":
+      {
+        "Description": "Der Quintenturm und die Tonleiter.",
+        "Name": "Quintenturm, Tonleiter.",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-10.jpg",
+          "ImageSmall": "images/ob_harmonieundform-10_thumbnail.jpg"
+        }
+      }
+    }
+  },
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Oktavregel Übungen C Dur C-Dur",
+    "Description": "Die Oktavregel und Übungen zur Oktavregel in C-Dur.",
+    "Id": "9",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Die Oktavregel in C-Dur.",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen, C-Dur",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-11.jpg",
+          "ImageSmall": "images/ob_harmonieundform-11_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übungen (1) zur Oktavregel in C-Dur.",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen, C-Dur",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-12.jpg",
+          "ImageSmall": "images/ob_harmonieundform-12_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übungen (2) zur Oktavregel in C-Dur.",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen, C-Dur",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-13.jpg",
+          "ImageSmall": "images/ob_harmonieundform-13_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Oktavregel Gitarre",
+    "Description": "Die Oktavregel für Gitarre.",
+    "Id": "12",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Die Oktavregel für Gitarre (1).",
+        "Name": "Oktavregel, Regola dell'ottava, Gitarre",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-14.jpg",
+          "ImageSmall": "images/ob_harmonieundform-14_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Die Oktavregel für Gitarre (2).",
+        "Name": "Oktavregel, Regola dell'ottava, Gitarre",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-15.jpg",
+          "ImageSmall": "images/ob_harmonieundform-15_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Übungen G Dur D-Dur",
+    "Description": "Die Oktavregel und Übungen in anderen Tonarten (G-Dur).",
+    "Id": "14",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Die Oktavregel in anderen Tonarten (G-Dur).",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen, G-Dur",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-16.jpg",
+          "ImageSmall": "images/ob_harmonieundform-16_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übungen (1) zur Oktavregel in G-Dur.",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen, G-Dur",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-17.jpg",
+          "ImageSmall": "images/ob_harmonieundform-17_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übungen (2) zur Oktavregel in G-Dur.",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen, G-Dur",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-18.jpg",
+          "ImageSmall": "images/ob_harmonieundform-18_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Oktavregel Modulation",
+    "Description": "Der Wechsel der Oktavregel (Modulation).",
+    "Id": "17",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Der Wechsel (1) der Oktavregel (Modulation).",
+        "Name": "Oktavregel, Regola dell'ottava, Wechsel, Modulation",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-19.jpg",
+          "ImageSmall": "images/ob_harmonieundform-19_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Der Wechsel (2) der Oktavregel (Modulation).",
+        "Name": "Oktavregel, Regola dell'ottava, Wechsel, Modulation",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-20.jpg",
+          "ImageSmall": "images/ob_harmonieundform-20_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Oktavregel Übungen Moll",
+    "Description": "Die Oktavregel in Moll und Übungen.",
+    "Id": "19",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Die Oktavregel in Moll.",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen, a-Moll",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-21.jpg",
+          "ImageSmall": "images/ob_harmonieundform-21_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übungen (1) zur Oktavregel Moll (a-Moll).",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen, a-Moll",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-22.jpg",
+          "ImageSmall": "images/ob_harmonieundform-22_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übungen (2) zur Oktavregel in Moll (a-Moll).",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen, a-Moll",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-23.jpg",
+          "ImageSmall": "images/ob_harmonieundform-23_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Oktavregel Moll Kontrast",
+    "Description": "Moll als Kontrast.",
+    "Id": "22",
+    "Pages":
+    {
+      "Page":
+      {
+        "Description": "Die Molltonart der sechsten Stufe zur Gestaltung eines Kontrastes in einer dreiteiligen Durkomposition.",
+        "Name": "Oktavregel, Regola dell'ottava, Kontrast, a-Moll, 6. Stufe, VI. Stufe, vi. Stufe, Form, A-B-A, ABA",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-24.jpg",
+          "ImageSmall": "images/ob_harmonieundform-24_thumbnail.jpg"
+        }
+      }
+    }
+  },
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Oktavregel Form Reprise",
+    "Description": "Reprise.",
+    "Id": "23",
+    "Pages":
+    {
+      "Page":
+      {
+        "Description": "Die Reprise zur Gestaltung einer dreiteiligen Form (A-B-A).",
+        "Name": "Oktavregel, Regola dell'ottava, Reprise, Form, A-B-A, ABA",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-25.jpg",
+          "ImageSmall": "images/ob_harmonieundform-25_thumbnail.jpg"
+        }
+      }
+    }
+  },
+  {
+    "Parent": "Harmonielehre. Harmonie und Form für Kompositionen in Dur",
+    "Keywords": "Harmonielehre Oktavregel Komponieren für Kinder",
+    "Description": "Komponiere selbst!",
+    "Id": "24",
+    "Pages":
+    {
+      "Page":
+      {
+        "Description": "Anleitung zum Komponieren mithilfe der Oktavregel.",
+        "Name": "Oktavregel, Regola dell'ottava, Komponieren",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonieundform-26.jpg",
+          "ImageSmall": "images/ob_harmonieundform-26_thumbnail.jpg"
+        }
+      }
+    }
+  }]
+}

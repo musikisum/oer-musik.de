@@ -1,0 +1,27 @@
+# Generated output
+dist/
+
+# Local notes
+WORKFLOW.txt
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Tool caches
+.cache/
+.claude/
+
+# Static large/binary assets not in repo
+static/data/
+static/publicfiles/
+static/images/_unused/
+
+# CC0 music metadata (belongs to cc0.oer-musik.de)
+data/other/
+
+# Third-party logos
+static/images/brilliantclassicslogo.jpg
+static/images/logo_out_here.jpg

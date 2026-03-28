@@ -1,0 +1,962 @@
+{
+  "Url": "oer-sonate-und-sinfonie-ein-altes-thema-auf-neuen-wegen",
+  "Title": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+  "Year": "2012",
+  "Author": "Ulrich Kaiser",
+  "City": "Karlsfeld",
+  "Edition": "2",
+  "Downloads": [
+    { "Text": "Download des Unterrichtshefts (18 MB)", "Link": "releases/Kaiser_SonateUndSinfonieUnterrichtsheft_2012.pdf" },
+    { "Text": "Download des Kommentarhefts (13 MB)", "Link": "releases/Kaiser_SonateUndSinfonieKommentarheft_2012.pdf" },
+    { "Text": "Download aller Materialien (100 MB)", "Link": "releases/Kaiser_SonateUndSinfonie.zip" }
+  ],
+  "Description": "Unterrichtsheft zum Thema ›Sonate und Sinfonie‹. Eine Open Educational Resource (OER) für allgemeinbildende Schulen.",
+  "Keywords": "Sonate und Sinfonie, Musik, OER, Schule, Unterrichtsheft",
+  "Additionals": [],
+  "Image": "kaiser_openbookSonate.png",
+  "Folderpath": "/data/openbooks/sonateUndSinfonie/",
+  "Supported": [
+    { "Text": "Bereitstellung der Sounddateien mit freundlicher Genehmigung von Brilliant Classics", "Image": "/images/brilliantclassicslogo.jpg" }
+  ],
+  "Sections": [
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Umschlagseiten",
+    "Description": "Umschlagseiten (U1–U4) sowie die jeweils ersten und letzten Seiten der Innenteile",
+    "Id": "1",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Umschlagseite (U1)",
+        "Name": "Unterrichtsheft Umschlagseite (U1)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-1.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umschlagseite Rückseite (U2)",
+        "Name": "Umschlagseite Rückseite (U2)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-2.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-2_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Innenteil Seite 1",
+        "Name": "Innenteil Seite 1",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-3.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-3_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Hintere Umschlagseite Rückseite (U4)",
+        "Name": "Hintere Umschlagseite Rückseite (U4)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-24.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-24_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umschlagseite Kommentarheft (U1)",
+        "Name": "Umschlagseite Kommentarheft (U1)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-1.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umschlagseite Kommentarheft Rückseite (U2)",
+        "Name": "Umschlagseite Kommentarheft Rückseite (U2)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-2.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-2_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Innenteil Seite 1 Kommentarheft",
+        "Name": "Innenteil Seite 1 Kommentarheft",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-3.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-3_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Innenteil Kommentarheft Seite 48",
+        "Name": "Innenteil Kommentarheft Seite 48",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-50.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-50_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Innenteil Kommentarheft Seite 49",
+        "Name": "Innenteil Kommentarheft Seite 49",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-51.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-51_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Innenteil Kommentarheft Seite 50",
+        "Name": "Innenteil Kommentarheft Seite 50",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-52.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-52_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Hintere Umschlagseite Vorderseite Kommentarheft (U3)",
+        "Name": "Hintere Umschlagseite Vorderseite Kommentarheft (U3)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-53.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-53_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Hintere Umschlagseite Kommentarheft Rückseite (U4)",
+        "Name": "Hintere Umschlagseite Kommentarheft Rückseite (U4)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-54.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-54_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Inhaltverzeichnis",
+    "Description": "Inhaltverzeichnisse",
+    "Id": "2",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Inhaltsverzeichnis S. 2 Unterrichtsheft",
+        "Name": "Inhaltsverzeichnis S. 2 Unterrichtsheft",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-4.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-4_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Inhaltsverzeichnis S. 2 Kommentarheft",
+        "Name": "Inhaltsverzeichnis S. 2 Kommentarheft",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-4.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-4_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Vorwort Einführung",
+    "Description": "Vorworte und Einführung",
+    "Id": "3",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtsheft S. 3 Vorwort",
+        "Name": "Unterrichtsheft S. 3 Vorwort",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-5.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-5_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft S. 3 Vorwort",
+        "Name": "Kommentarheft S. 3 Vorwort",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-5.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-5_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft S. 4 - Negativbeispiel zur Sonatenanalyse (I)",
+        "Name": "Kommentarheft S. 4 - Negativbeispiel zur Sonatenanalyse (I)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-6.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft S. 5 - Negativbeispiel zur Sonatenanalyse (II)",
+        "Name": "Kommentarheft S. 5 - Negativbeispiel zur Sonatenanalyse (II)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-7.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-7_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft S. 6 - Grundlegende Hilfe zur Internetsuche mit Suchmaschinen",
+        "Name": "Kommentarheft S. 6 - Grundlegende Hilfe zur Internetsuche mit Suchmaschinen",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-8.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft S. 7 - Kurzanleitung zum Download von MP3-Dateien aus dem Internet",
+        "Name": "Kommentarheft S. 7 - Kurzanleitung zum Download von MP3-Dateien aus dem Internet",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-9.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-9_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Dynamik Licht und Schatten leise laut Joseph Riepel",
+    "Description": "Diese Unterrichtseinheit bietet einen grundlegenden Einstieg in das Thema Sinfonie über den Parameter Lautstärke. Die Dynamik leise und laut ist in der Mitte des 18. Jahrhunderts an die Instrumentation gekoppelt. Joseph Riepel schrieb z.B. 1752: »Anstatt dieses Worts Tutti, wollen wir mehrentheils nur das Wort forte gebrauchen«. Auch den Vergleich zur Malerei zog Riepel schon zu dieser Zeit: »Denn piano und forte kann unmöglich eine neue Erfindung seyn, indem es in der Musik nichts anders ist, als Schatten und Licht bey den Mahlern.«",
+    "Id": "4",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Allgemeine Unterrichtseinheit zur Lautstärke in Sinfonien",
+        "Name": "Allgemeine Unterrichtseinheit zur Lautstärke in Sinfonien",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-6.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit ›Lautstärke in Sinfonien‹",
+        "Name": "Kommentar zur Unterrichtseinheit ›Lautstärke in Sinfonien‹",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-10.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-10_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zum Thema ›Lautstärke in Sinfonien‹",
+        "Name": "Arbeitsbogen zum Thema ›Lautstärke in Sinfonien‹",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-11.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-11_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie leise laut Quiz Sinfonieanfänge Mozart", 
+    "Description": "Diese Unterrichtseinheit thematisiert drei in der Literatur häufig anzutreffende Lautstärketypen für Anfänge von Sinfoniesätzen. Gleichzeitig wird Schülerinnen und Schülern eine Vorstellung davon vermittelt, welche Lautstärke im 18. Jahrhundert als leise und laut bezeichnet worden ist (denn gemessen an den heute in Rockkonzerten erreichten Lautstärkegraden wäre es zutreffend, Musik des 18. Jahrhunderts grundsätzlich als leise zu bezeichnen).",
+    "Id": "5",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zu Lautstärkemodellen von Sinfonieanfängen",
+        "Name": "Unterrichtseinheit zu Lautstärkemodellen von Sinfonieanfängen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-7.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-7_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Unterrichtseinheit Lautstärkemodelle von Sinfonieanfängen",
+        "Name": "Kommentar Seite 1 zur Unterrichtseinheit Lautstärkemodelle von Sinfonieanfängen",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-12.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-12_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit Lautstärkemodelle von Sinfonieanfängen",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit Lautstärkemodelle von Sinfonieanfängen",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-13.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-13_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Modell laut-leise Mozart KV 132 Hauptsatz 1. 2. Thema Überleitung Seitensatz Schlussgruppe",
+    "Description": "In dieser Unterrichtseinheit wird ein alternatives Modell zur Beschreibung des Verlaufs von Expositionen der Sonatenhauptsatzform vorgestellt. Über den idealtypischen Verlauf leise-laut-leise-laut wird dabei ein häufig anzutreffendes Modell veranschaulicht, das es erlaubt, die etablierten Fachbegriffe Hauptsatz (bzw. 1. Thema), Überleitung, Seitensatz (bzw. 2. Thema), Schlussgruppe einzuführen. Die Formteile Überleitung und Schlussgruppe werden dabei als laute Abschnitte, der Seitensatz als leise Passage charakterisiert.",
+    "Id": "6",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Einführung der Fachbegriffe zur Sonatenhauptsatzform",
+        "Name": "Unterrichtseinheit zur Einfühurng der Fachbegriffe zur Sonatenhauptsatzform",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-8.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Unterrichtseinheit Fachbegriffe zur Sonatenhauptsatzform",
+        "Name": "Kommentar Seite 1 zur Unterrichtseinheit Fachbegriffe zur Sonatenhauptsatzform",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-14.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-14_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit Fachbegriffe zur Sonatenhauptsatzform",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit Fachbegriffe zur Sonatenhauptsatzform",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-15.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-15_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 Anmerkungen zur Visualisierung von Lautstärkeverläufen I",
+        "Name": "Kommentar Seite 1 Anmerkungen zur Visualisierung von Lautstärkeverläufen I",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-16.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-16_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 Anmerkungen zur Visualisierung von Lautstärkeverläufen II",
+        "Name": "Kommentar Seite 1 Anmerkungen zur Visualisierung von Lautstärkeverläufen II",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-17.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-17_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beispiel für eine Leistungsüberprüfung zu den Fachbegriffen Seite 1",
+        "Name": "Beispiel für eine Leistungsüberprüfung zu den Fachbegriffen Seite 1",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-18.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-18_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beispiel für eine Leistungsüberprüfung zu den Fachbegriffen Seite 2",
+        "Name": "Beispiel für eine Leistungsüberprüfung zu den Fachbegriffen Seite 2",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-19.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-19_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Lösungen und Bewertungsvorschläge zur Leistungsüberprüfung Fachbegriffen Seite 1",
+        "Name": "Lösungen und Bewertungsvorschläge zur Leistungsüberprüfung Fachbegriffen Seite 1",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-20.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-20_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Lösungen und Bewertungsvorschläge zur Leistungsüberprüfung Fachbegriffen Seite 2",
+        "Name": "Lösungen und Bewertungsvorschläge zur Leistungsüberprüfung Fachbegriffen Seite 2",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-21.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-21_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Modell Joseph Riepel Menuett Arie Sonatenhauptsatzform dreiteilig Modell Exposition Durchführung Reprise",
+    "Description": "Mit dieser Unterrichtseinheit wird die Sonatenhauptsatzform als dreiteiliges Modell (als Gleichgewichtsform im Sinne der Formenlehre) eingeführt und besprochen. Dabei werden Schülerinnen und Schüler über ein Zitat von Joseph Riepel mit einer relativ unbekannten Perspektive auf das Thema bekannt gemacht: Menuette, Arien, Sonaten und Sinfonien galten im Hinblick auf die Form als ähnlich bzw. verwandt.",
+    "Id": "7",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Sonatenhaupstsatzform als dreiteilige Gleichgewichtsform (Exposition, Durchführung, Reprise)",
+        "Name": "Unterrichtseinheit zur Sonatenhaupstsatzform als dreiteilige Gleichgewichtsform (Exposition, Durchführung, Reprise)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-9.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-9_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Sonatenhaupstsatzform als dreiteilige Gleichgewichtsform (Exposition, Durchführung, Reprise)",
+        "Name": "Kommentar Seite 1 zur Sonatenhaupstsatzform als dreiteilige Gleichgewichtsform (Exposition, Durchführung, Reprise)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-22.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-22_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Sonatenhaupstsatzform als dreiteilige Gleichgewichtsform (Exposition, Durchführung, Reprise)",
+        "Name": "Kommentar Seite 2 zur Sonatenhaupstsatzform als dreiteilige Gleichgewichtsform (Exposition, Durchführung, Reprise)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-23.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-23_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie musikalisches Gedachtnis Erkennen Exposition Reprise Hören Quiz",
+    "Description": "Diese Unterrichtseinheit bietet eine Möglichkeit, das musikalische Gedächtnis und Erinnerungsvermögen zu trainieren. Ein Problem für ungeübte Hörerinnen und Hörer, eine Sonatenhauptsatzform zu erkennen, liegt darin, dass der Hauptsatz bzw. das 1. Thema als musikalische Einheit bewusst erfasst und bis zur Wiederkehr (Reprise) im Gedächtnis behalten werden muss. Das folgende Hör-Quiz ist geeignet, diese spezielle Fähigkeit gezielt zu üben.",
+    "Id": "8",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zum Erkennen von Reprisen und zum musikalischen Gedächtnis",
+        "Name": "Unterrichtseinheit zum Erkennen von Reprisen und zum musikalischen Gedächtnis",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-10.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-10_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Unterrichtseinheit zum Erkennen von Reprisen und zum musikalischen Gedächtnis",
+        "Name": "Kommentar Seite 1 zur Unterrichtseinheit zum Erkennen von Reprisen und zum musikalischen Gedächtnis",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-24.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-24_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit zum Erkennen von Reprisen und zum musikalischen Gedächtnis",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit zum Erkennen von Reprisen und zum musikalischen Gedächtnis",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-25.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-25_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Sonatenhauptsatzform sechsteilig 6 Teile laut leise Modell",
+    "Description": "In dieser Unterrichtseinheit wird das Modell zur Beschreibung des Verlaufs von Expositionen der Sonatenhauptsatzform weiter entwickelt. Der bereits eingeführte idealtypische Verlauf leise-laut-leise-laut (Kommmentarheft → S. 12) wird dabei um zwei weitere Abschnitte mit der Dynamik leise und laut erweitert. Auch in diesem Modell sind die Formteile Überleitung und Schlussgruppe als laute, Haupt- und Seitensatz dagegen als leise Passagen charakterisiert.",
+    "Id": "9",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur erweiterten Verwendung der Fachbegriffe zur Sonatenhauptsatzform",
+        "Name": "Unterrichtseinheit zur erweiterten Verwendung der Fachbegriffe zur Sonatenhauptsatzform",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-11.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-11_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur erweiterten Verwendung der Fachbegriffe zur Sonatenhauptsatzform",
+        "Name": "Kommentar Seite 1 zur erweiterten Verwendung der Fachbegriffe zur Sonatenhauptsatzform",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-26.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-26_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur erweiterten Verwendung der Fachbegriffe zur Sonatenhauptsatzform",
+        "Name": "Kommentar Seite 2 zur erweiterten Verwendung der Fachbegriffe zur Sonatenhauptsatzform",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-27.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-27_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beispiel für eine Leistungsüberprüfung zu den Fachbegriffen Seite 1",
+        "Name": "Beispiel für eine Leistungsüberprüfung zu den Fachbegriffen Seite 1",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-28.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-28_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beispiel für eine Leistungsüberprüfung zu den Fachbegriffen Seite 2",
+        "Name": "Beispiel für eine Leistungsüberprüfung zu den Fachbegriffen Seite 2",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-29.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-29_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Lösungen und Bewertungsvorschläge zur Leistungsüberprüfung Fachbegriffen Seite 1",
+        "Name": "Lösungen und Bewertungsvorschläge zur Leistungsüberprüfung Fachbegriffen Seite 1",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-30.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-30_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Lösungen und Bewertungsvorschläge zur Leistungsüberprüfung Fachbegriffen Seite 2",
+        "Name": "Lösungen und Bewertungsvorschläge zur Leistungsüberprüfung Fachbegriffen Seite 2",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-31.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-31_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Sonatenhauptsatzform Modell Moll Instrumentation Rhythmus Klangraum",
+    "Description": "In dieser Unterrichtseinheit werden die Lautstärkediagramme zu Orientierung bei der Höranalyse in Sinfonien in Moll verwendet. Die Lautstärkediagramme bilden eine Zeitleiste, in die grundsätzlich alle Ereignisse eingetragen werden können, die beim Hören erkannt werden (Instrumentation, rhythmische Auffälligkeiten, Dichte, Klangraum, Tongeschlecht usw.). Ein Dynamik-Diagramm an der Tafel ist auch als Mittel geeignet, eine Höranalyse mit der ganzen Klasse zu kommunizieren.",
+    "Id": "10",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Höranalyse mit Hilfe von Lautstärke-Diagrammen (Sinfonien in Moll von W. A. Mozart und L. v. Beethoven)",
+        "Name": "Unterrichtseinheit zur Höranalyse mit Hilfe von Lautstärke-Diagrammen (Sinfonien in Moll von W. A. Mozart und L. v. Beethoven)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-12.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-12_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Komentar Seite 1 zur Höranalyse mit Hilfe von Lautstärke-Diagrammen (Sinfonien in Moll von W. A. Mozart und L. v. Beethoven)",
+        "Name": "Komentar Seite 1 zur Höranalyse mit Hilfe von Lautstärke-Diagrammen (Sinfonien in Moll von W. A. Mozart und L. v. Beethoven)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-32.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-32_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Komentar Seite 2 zur Höranalyse mit Hilfe von Lautstärke-Diagrammen (Sinfonien in Moll von W. A. Mozart und L. v. Beethoven)",
+        "Name": "Komentar Seite 2 zur Höranalyse mit Hilfe von Lautstärke-Diagrammen (Sinfonien in Moll von W. A. Mozart und L. v. Beethoven)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-33.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-33_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Sonatenhauptsatzform Modell Romantik Mendelssohn Schubert Brahms",
+    "Description": "Die Methode, sich in Sinfonien des 18. Jahrhunderts über Lautstärkediagramme zu orientieren, wird in dieser Unterrichtseinheit auf Sinfonien des 19. Jahrhunderts von Felix Mendelssohn, Franz Schubert und Johannes Brahms übertragen. Dabei werden weitere Charakteristika für die einzelnen Formteile einer Exposition erlernt.",
+    "Id": "11",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zu Sinfonien nach 1800 und zur Höranalyse über Lautstärkediagramme",
+        "Name": "Unterrichtseinheit zu Sinfonien nach 1800 und zur Höranalyse über Lautstärkediagramme",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-13.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-13_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zu Sinfonien nach 1800 und zur Höranalyse über Lautstärkediagramme",
+        "Name": "Kommentar Seite 1 zu Sinfonien nach 1800 und zur Höranalyse über Lautstärkediagramme",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-34.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-34_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zu Sinfonien nach 1800 und zur Höranalyse über Lautstärkediagramme",
+        "Name": "Kommentar Seite 2 zu Sinfonien nach 1800 und zur Höranalyse über Lautstärkediagramme",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-35.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-35_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Sonatenhauptsatzform facile Klaviermusik",
+    "Description": "Diese Unterrichtseinheit ermöglicht im Hinblick auf Lautstärkeverläufe einen grundlegenden Vergleich zwischen sinfonischer Musik auf der einen Seite und Klaviermusik auf der anderen. Dabei wird deutlich, dass sinfonische Musik aufgrund der auffälligeren dynamischen Gestaltung einen einfacheren Zugang zum Thema ermöglicht als Klaviermusik.",
+    "Id": "12",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Sonate facile KV 545 von W. A. Mozart",
+        "Name": "Unterrichtseinheit zur Sonate facile KV 545 von W. A. Mozart",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-14.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-14_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Unterrichtseinheit zur Sonate facile KV 545 von W. A. Mozart",
+        "Name": "Kommentar Seite 1 zur Unterrichtseinheit zur Sonate facile KV 545 von W. A. Mozart",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-36.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-36_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit zur Sonate facile KV 545 von W. A. Mozart",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit zur Sonate facile KV 545 von W. A. Mozart",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-37.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-37_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Sonatenhauptsatzform Modell Notenanalyse Kadenzen",
+    "Description": "Der Einstieg in die Notenanalyse wird an allgemeinbildenden Schulen häufig mit einer  Motiv- bzw. Themenanalyse verbunden (vgl. hierzu die Einführung im Kommentarheft → S. 4–5). Da dieser Ansatz nicht unproblematisch ist, wird hier ein alternativer Weg vorgeschlagen, der sich an Zäsuren und Kadenzen orientiert. Eine auf Kadenzanalyse beruhende Gliederung empfiehlt sich aus mehreren Gründen: ",
+    "Id": "13",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit Seite 1 zum Thema Sonatenhauptsatzform unter Einbezug der Notenanalyse (Kadenzanalyse)",
+        "Name": "Unterrichtseinheit Seite 1 zum Thema Sonatenhauptsatzform unter Einbezug der Notenanalyse (Kadenzanalyse)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-15.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-15_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Unterrichtseinheit Seite 2 zum Thema Sonatenhauptsatzform unter Einbezug der Notenanalyse (Kadenzanalyse und Tonartenverlauf)",
+        "Name": "Unterrichtseinheit Seite 2 zum Thema Sonatenhauptsatzform unter Einbezug der Notenanalyse (Kadenzanalyse und Tonartenverlauf)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-16.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-16_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Unterrichtseinheit Seite 3 zum Thema Sonatenhauptsatzform unter Einbezug der Notenanalyse (Basswendungen der Kadenzen)",
+        "Name": "Unterrichtseinheit Seite 3 zum Thema Sonatenhauptsatzform unter Einbezug der Notenanalyse (Basswendungen der Kadenzen)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-17.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-17_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Unterrichtseinheit Seite 4 zum Thema Sonatenhauptsatzform unter Einbezug der Notenanalyse (Analse-Übung)",
+        "Name": "Unterrichtseinheit Seite 4 zum Thema Sonatenhauptsatzform unter Einbezug der Notenanalyse (Analse-Übung)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-18.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-18_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Unterrichtseinheit Sonatenhauptsatzform und Notenanalyse (Kadenzen, Rhythmik und Hemiole)",
+        "Name": "Kommentar Seite 1 zur Unterrichtseinheit Sonatenhauptsatzform und Notenanalyse (Kadenzen, Rhythmik und Hemiole)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-38.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-38_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Unterrichtseinheit Sonatenhauptsatzform und Notenanalyse (Kadenzen, Rhythmik und Hemiole)",
+        "Name": "Kommentar Seite 2 zur Unterrichtseinheit Sonatenhauptsatzform und Notenanalyse (Kadenzen, Rhythmik und Hemiole)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-39.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-39_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 3 zur Unterrichtseinheit Sonatenhauptsatzform und Notenanalyse (Basschlüssel und Tonarten)",
+        "Name": "Kommentar Seite 3 zur Unterrichtseinheit Sonatenhauptsatzform und Notenanalyse (Basschlüssel und Tonarten)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-40.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-40_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 4 zur Unterrichtseinheit Sonatenhauptsatzform und Notenanalyse (Basschlüssel und Tonarten)",
+        "Name": "Kommentar Seite 4 zur Unterrichtseinheit Sonatenhauptsatzform und Notenanalyse (Basschlüssel und Tonarten)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-41.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-41_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 5 zur Unterrichtseinheit Sonatenhauptsatzform und Notenanalyse (Übung zur Analyse)",
+        "Name": "Kommentar Seite 5 zur Unterrichtseinheit Sonatenhauptsatzform und Notenanalyse (Übung zur Analyse)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-42.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-42_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 6 zur Unterrichtseinheit Sonatenhauptsatzform und Notenanalyse (Übung zur Analyse)",
+        "Name": "Kommentar Seite 6 zur Unterrichtseinheit Sonatenhauptsatzform und Notenanalyse (Übung zur Analyse)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-43.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-43_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Sonatenhauptsatzform Modell Notenanalyse Kadenzen Heinrich Christoph Koch Mozart",
+    "Description": "Diese Unterrichtseinheit gibt eine allgemeine Einführung in das Analysesystem von Heinrich Christoph Koch, der ein Zeitgenosse W. A. Mozarts war. Die von Koch vorgeschlagene Systematik wird dabei so erweitert, dass sie heute sehr flexibel und zur Orientierung in unterschiedlichsten Kompositionen eingesetzt werden kann (Sinfonie, Sonate sowie Konzert und Arie des ausgehenden 18. Jahrhunderts).",
+    "Id": "17",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Kadenzanalyse nach Heinrich Christoph Koch (1749-1816)",
+        "Name": "Unterrichtseinheit zur Kadenzanalyse nach Heinrich Christoph Koch (1749-1816)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-19.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-19_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 1 zur Kadenzanalyse (Musik und Interpunktion/Rhetorik) nach Johann Mattheson, Joseph Riepel und Heinrich Christoph Koch",
+        "Name": "Kommentar Seite 1 zur Kadenzanalyse (Musik und Interpunktion/Rhetorik) nach Johann Mattheson, Joseph Riepel und Heinrich Christoph Koch",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-44.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-44_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar Seite 2 zur Kadenzanalyse (Musik und Interpunktion/Rhetorik) nach Johann Mattheson, Joseph Riepel und Heinrich Christoph Koch",
+        "Name": "Kommentar Seite 2 zur Kadenzanalyse (Musik und Interpunktion/Rhetorik) nach Johann Mattheson, Joseph Riepel und Heinrich Christoph Koch",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-45.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-45_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Sonatenhauptsatzform Modell Notenanalyse fortgeschritten Heinrich Christoph Koch",
+    "Description": "Diese Aufgaben zur Analyse richten sich in erster Linie an Schülerinnen und Schüler mit Musik als Leistungskurs oder Schwerpunktfach sowie an Schülerinnen und Schüler mit musikalischer Vorbildung. Als Analysemethode dient die Gliederung der Expositionen anhand von Kadenzen.",
+    "Id": "18",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtseinheit zur Analyse von Sonatenexpositionen (Haydn, Mozart und Beethoven)",
+        "Name": "Unterrichtseinheit zur Analyse von Sonatenexpositionen (Haydn, Mozart und Beethoven)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-20.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-20_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Unterrichtseinheit zur Analyse von Sonatenexpositionen (Haydn, Mozart und Beethoven)",
+        "Name": "Kommentar zur Unterrichtseinheit zur Analyse von Sonatenexpositionen (Haydn, Mozart und Beethoven)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-46.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-46_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Sonate und Sinfonie. Ein altes Thema auf neuen Wegen",
+    "Keywords": "Sonate Sinfonie Verzeichnis Fachbegriffe Glossar",
+    "Description": "Verzeichnis der besprochenen Werke und Erläuterung der Fachbegriffe (Glossar)",
+    "Id": "19",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtsheft - Verzeichnis der besprochenen Werke und Erläuterung der Fachbegriffe (Glossar) Seite 1",
+        "Name": "Unterrichtsheft - Verzeichnis der besprochenen Werke und Erläuterung der Fachbegriffe (Glossar) Seite 1",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-21.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-21_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Unterrichtsheft - Verzeichnis der besprochenen Werke und Erläuterung der Fachbegriffe (Glossar) Seite 2",
+        "Name": "Unterrichtsheft - Verzeichnis der besprochenen Werke und Erläuterung der Fachbegriffe (Glossar) Seite 2",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-22.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-22_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Unterrichtsheft - Verzeichnis der besprochenen Werke und Erläuterung der Fachbegriffe (Glossar) Seite 3",
+        "Name": "Unterrichtsheft - Verzeichnis der besprochenen Werke und Erläuterung der Fachbegriffe (Glossar) Seite 3",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_unterricht-23.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_unterricht-23_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft - Verzeichnis der besprochenen Werke und Erläuterung der Fachbegriffe (Glossar) Seite 1",
+        "Name": "Kommentarheft - Verzeichnis der besprochenen Werke und Erläuterung der Fachbegriffe (Glossar) Seite 1",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-47.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-47_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft - Verzeichnis der besprochenen Werke und Erläuterung der Fachbegriffe (Glossar) Seite 2",
+        "Name": "Kommentarheft - Verzeichnis der besprochenen Werke und Erläuterung der Fachbegriffe (Glossar) Seite 2",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-48.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-48_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft - Verzeichnis der besprochenen Werke und Erläuterung der Fachbegriffe (Glossar) Seite 3",
+        "Name": "Kommentarheft - Verzeichnis der besprochenen Werke und Erläuterung der Fachbegriffe (Glossar) Seite 3",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sonateUndSinfonie_kommentar-49.jpg",
+          "ImageSmall": "images/ob_sonateUndSinfonie_kommentar-49_thumbnail.jpg"
+        }
+      }]
+    }
+  }]
+}

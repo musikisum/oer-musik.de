@@ -1,0 +1,739 @@
+{
+  "Url": "oer-kostenlose-software-fuer-den-musikunterricht",
+  "Title": "Kostenlose Software für den Musikunterricht",
+  "Year": "2014",
+  "Author": "Ulrich Kaiser",
+  "City": "Karlsfeld",
+  "Edition": "1",
+  "Downloads": [
+    { "Text": "Download des Unterrichtshefts (50 MB)", "Link": "releases/Kaiser_KostenloseSoftware.pdf" },
+    { "Text": "Download aller Materialien (1,25 GB)", "Link": "releases/Kaiser_KostenloseSoftware.zip" }
+  ],   
+  "Description": "Unterrichtsheft zum Thema ›Kostenlose Software‹. Eine Open Educational Resource (OER) für allgemeinbildende Schulen.",
+  "Keywords": "Kostenlose Software, Open Source Software, Musik, OER, Schule, Unterrichtsheft",
+  "Additionals": [],
+  "Image": "kaiser_openBookFreieSoftware.png",
+  "Folderpath": "/data/openbooks/freeware/",
+  "Sections": [
+  {
+    "Parent": "Kostenlose Software für den Musikunterricht",
+    "Keywords": "Umschlagseiten",
+    "Description": "Umschlagseiten und erste Inhaltsseite",
+    "Name": "Umschlagseiten und erste Inhaltsseite",
+    "Id": "1",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Umschlagseite Vorderseite (U1)",
+        "Name": "Umschlagseite Vorderseite (U1)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-1.jpg",
+          "ImageSmall": "images/ob_freeware-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umschlagseite Rückseite (U2)",
+        "Name": "Umschlagseite Rückseite (U2)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-2.jpg",
+          "ImageSmall": "images/ob_freeware-2_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Innenteil Seite 1",
+        "Name": "Innenteil Seite 1",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-3.jpg",
+          "ImageSmall": "images/ob_freeware-3_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umschlagseite Vorderseite (U3)",
+        "Name": "Umschlagseite Vorderseite (U3)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-59.jpg",
+          "ImageSmall": "images/ob_freeware-59_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umschlagseite Rückseite (U4)",
+        "Name": "Umschlagseite Rückseite (U4)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-60.jpg",
+          "ImageSmall": "images/ob_freeware-60_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Kostenlose Software für den Musikunterricht",
+    "Keywords": "Inhaltsverzeichnis Vorwort",
+    "Description": "Inhaltsverzeichnis und Vorwort",
+    "Name": "Inhaltsverzeichnis und Vorwort",
+    "Id": "2",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Inhaltsverzeichnis",
+        "Name": "Inhaltsverzeichnis",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-4.jpg",
+          "ImageSmall": "images/ob_freeware-4_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Vorwort",
+        "Name": "Vorwort",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-5.jpg",
+          "ImageSmall": "images/ob_freeware-5_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Kostenlose Software für den Musikunterricht",
+    "Keywords": "AnaVis Formanalysen Musikunterricht",
+    "Description": "AnaVis - Formanalysen einfach erstellen und im Musikunterricht vergleichend gegenüberstellen",
+    "Name": "AnaVis, Form, Formenanalyse, Visualisieren",
+    "Id": "4",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "AnaVis - Anleitung Seite 1",
+        "Name": "AnaVis, Form, Formenanalyse, Visualisieren",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-6.jpg",
+          "ImageSmall": "images/ob_freeware-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "AnaVis - Anleitung Seite 2",
+        "Name": "AnaVis, Form, Formenanalyse, Visualisieren",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-7.jpg",
+          "ImageSmall": "images/ob_freeware-7_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "AnaVis - Anleitung Seite 3",
+        "Name": "AnaVis, Form, Formenanalyse, Visualisieren",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-8.jpg",
+          "ImageSmall": "images/ob_freeware-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "AnaVis - Anleitung Seite 4",
+        "Name": "AnaVis, Form, Formenanalyse, Visualisieren",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-9.jpg",
+          "ImageSmall": "images/ob_freeware-9_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "AnaVis - Anleitung Seite 5",
+        "Name": "AnaVis, Form, Formenanalyse, Visualisieren",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-10.jpg",
+          "ImageSmall": "images/ob_freeware-10_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "AnaVis - Anleitung Seite 6",
+        "Name": "AnaVis, Form, Formenanalyse, Visualisieren",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-11.jpg",
+          "ImageSmall": "images/ob_freeware-11_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Kostenlose Software für den Musikunterricht",
+    "Keywords": "Freeware Installation Gefahr Spyware Malware Addware",
+    "Description": "Freeware kostet etwas: Gefahren bei der Installation von Freeware",
+    "Name": "Freeware, Gefahr, Malware, Addware",
+    "Id": "10",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Installation Freeware - Anleitung Seite 1",
+        "Name": "Freeware, Gefahr, Malware, Addware",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-12.jpg",
+          "ImageSmall": "images/ob_freeware-12_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Installation Freeware - Anleitung Seite 2",
+        "Name": "Freeware, Gefahr, Malware, Addware",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-13.jpg",
+          "ImageSmall": "images/ob_freeware-13_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Kostenlose Software für den Musikunterricht",
+    "Keywords": "Video Youtube herunterladen",
+    "Description": "Videos von Youtube herunterladen mit dem Any Video Converter (AVC)",
+    "Name": "Any Video Converter, AVC",
+    "Id": "12",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Videos von Youtube herunterladen mit dem Any Video Converter (AVC) - Anleitung Seite 1",
+        "Name": "Any Video Converter, AVC",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-14.jpg",
+          "ImageSmall": "images/ob_freeware-14_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Videos von Youtube herunterladen mit dem Any Video Converter (AVC) - Anleitung Seite 2",
+        "Name": "Any Video Converter, AVC",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-15.jpg",
+          "ImageSmall": "images/ob_freeware-15_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Kostenlose Software für den Musikunterricht",
+    "Keywords": "Dateien umwandeln konvertieren",
+    "Description": "Dateien umwandeln mit XMediaRecode",
+    "Name": "Dateien umwandeln, XMediaRecode",
+    "Id": "14",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Dateien umwandeln mit XMediaRecode - Anleitung Seite 1",
+        "Name": "Dateien umwandeln, XMediaRecode",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-16.jpg",
+          "ImageSmall": "images/ob_freeware-16_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Dateien umwandeln mit XMediaRecode - Anleitung Seite 2",
+        "Name": "Dateien umwandeln, XMediaRecode",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-17.jpg",
+          "ImageSmall": "images/ob_freeware-17_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Kostenlose Software für den Musikunterricht",
+    "Keywords": "Video Youtube herunterladen",
+    "Description": "Noten erstellen mit MuseScore",
+    "Name": "Notensatz, Noten erstellen, MuseScore",
+    "Id": "16",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Musiknoten erstellen mit MuseScore - Anleitung Seite 1",
+        "Name": "Notensatz, Noten erstellen, MuseScore",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-18.jpg",
+          "ImageSmall": "images/ob_freeware-18_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Musiknoten erstellen mit MuseScore - Anleitung Seite 2",
+        "Name": "Notensatz, Noten erstellen, MuseScore",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-19.jpg",
+          "ImageSmall": "images/ob_freeware-19_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Musiknoten erstellen mit MuseScore - Anleitung Seite 3",
+        "Name": "Notensatz, Noten erstellen, MuseScore",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-20.jpg",
+          "ImageSmall": "images/ob_freeware-20_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Musiknoten erstellen mit MuseScore - Anleitung Seite 4",
+        "Name": "Notensatz, Noten erstellen, MuseScore",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-21.jpg",
+          "ImageSmall": "images/ob_freeware-21_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Musiknoten erstellen mit MuseScore - Anleitung Seite 5",
+        "Name": "Notensatz, Noten erstellen, MuseScore",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-22.jpg",
+          "ImageSmall": "images/ob_freeware-22_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Musiknoten erstellen mit MuseScore - Anleitung Seite 6",
+        "Name": "Notensatz, Noten erstellen, MuseScore",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-23.jpg",
+          "ImageSmall": "images/ob_freeware-23_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Musiknoten erstellen mit MuseScore - Anleitung Seite 7",
+        "Name": "Notensatz, Noten erstellen, MuseScore",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-24.jpg",
+          "ImageSmall": "images/ob_freeware-24_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Musiknoten erstellen mit MuseScore - Anleitung Seite 8",
+        "Name": "Notensatz, Noten erstellen, MuseScore",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-25.jpg",
+          "ImageSmall": "images/ob_freeware-25_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Musiknoten erstellen mit MuseScore - Anleitung Seite 9",
+        "Name": "Notensatz, Noten erstellen, MuseScore",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-26.jpg",
+          "ImageSmall": "images/ob_freeware-26_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Aufgaben zu MuseScore - Anleitung Seite 10",
+        "Name": "Notensatz, Noten erstellen, MuseScore",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-27.jpg",
+          "ImageSmall": "images/ob_freeware-27_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Kostenlose Software für den Musikunterricht",
+    "Keywords": "Audio Bearbeitung Audacity",
+    "Description": "Audiobearbeitung mit Audacity",
+    "Name": "Audio, Sound, Schneiden, Audiobearbeitung, Audacity",
+    "Id": "26",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Ein Gehörbildungs-Quizz erstellen mit Audacity - Anleitung Seite 1",
+        "Name": "Audio, Sound, Schneiden, Audiobearbeitung, Audacity",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-28.jpg",
+          "ImageSmall": "images/ob_freeware-28_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Gehörbildungs-Quizz erstellen mit Audacity - Anleitung Seite 2",
+        "Name": "Audio, Sound, Schneiden, Audiobearbeitung, Audacity",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-29.jpg",
+          "ImageSmall": "images/ob_freeware-29_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Gehörbildungs-Quizz erstellen mit Audacity - Anleitung Seite 3",
+        "Name": "Audio, Sound, Schneiden, Audiobearbeitung, Audacity",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-30.jpg",
+          "ImageSmall": "images/ob_freeware-30_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Gehörbildungs-Quizz erstellen mit Audacity - Anleitung Seite 4",
+        "Name": "Audio, Sound, Schneiden, Audiobearbeitung, Audacity",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-31.jpg",
+          "ImageSmall": "images/ob_freeware-31_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Gehörbildungs-Quizz erstellen mit Audacity - Anleitung Seite 5",
+        "Name": "Audio, Sound, Schneiden, Audiobearbeitung, Audacity",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-32.jpg",
+          "ImageSmall": "images/ob_freeware-32_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Menuett-Puzzle erstellen in Audacity - Anleitung Seite 6",
+        "Name": "Audio, Sound, Schneiden, Audiobearbeitung, Audacity",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-33.jpg",
+          "ImageSmall": "images/ob_freeware-33_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Menuett-Puzzle erstellen in Audacity - Anleitung Seite 7",
+        "Name": "Audio, Sound, Schneiden, Audiobearbeitung, Audacity",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-34.jpg",
+          "ImageSmall": "images/ob_freeware-34_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Aufgaben zu Audacity - Anleitung Seite 8",
+        "Name": "Audio, Sound, Schneiden, Audiobearbeitung, Audacity",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-35.jpg",
+          "ImageSmall": "images/ob_freeware-35_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Kostenlose Software für den Musikunterricht",
+    "Keywords": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+    "Description": "Desktop-Publishing (DTP) mit Scribus",
+    "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+    "Id": "34",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Spielkarten erstellen in Scribus - Anleitung Seite 1",
+        "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-36.jpg",
+          "ImageSmall": "images/ob_freeware-36_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Spielkarten erstellen in Scribus  - Anleitung Seite 2",
+        "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-37.jpg",
+          "ImageSmall": "images/ob_freeware-37_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Spielkarten erstellen in Scribus - Anleitung Seite 3",
+        "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-38.jpg",
+          "ImageSmall": "images/ob_freeware-38_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Spielkarten erstellen in Scribus  - Anleitung Seite 4",
+        "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-39.jpg",
+          "ImageSmall": "images/ob_freeware-39_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Spielkarten erstellen in Scribus - Anleitung Seite 5",
+        "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-40.jpg",
+          "ImageSmall": "images/ob_freeware-40_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kleine Zaubertricks in Scribus - Anleitung Seite 6",
+        "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-41.jpg",
+          "ImageSmall": "images/ob_freeware-41_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kleine Zaubertricks in Scribus - Anleitung Seite 7",
+        "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-42.jpg",
+          "ImageSmall": "images/ob_freeware-42_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Textcontainer verketten und Umriss bearbeiten - Anleitung Seite 8",
+        "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-43.jpg",
+          "ImageSmall": "images/ob_freeware-43_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umriss bearbeiten - Anleitung Seite 9",
+        "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-44.jpg",
+          "ImageSmall": "images/ob_freeware-44_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Plakate erstellen in Scribus - Anleitung Seite 10",
+        "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-45.jpg",
+          "ImageSmall": "images/ob_freeware-45_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Plakate erstellen in Scribus - Anleitung Seite 11",
+        "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-46.jpg",
+          "ImageSmall": "images/ob_freeware-46_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Programmhefte erstellen in Scribus - Anleitung Seite 12",
+        "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-47.jpg",
+          "ImageSmall": "images/ob_freeware-47_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Programmhefte erstellen in Scribus - Anleitung Seite 13",
+        "Name": "DTP, Publishing, Desktop, Desktoppublishing, Scribus, Spielkarten, Memory, Pairspiel, Programmheft, Plakat, Konzertplakat, Scribus",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-48.jpg",
+          "ImageSmall": "images/ob_freeware-48_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Kostenlose Software für den Musikunterricht",
+    "Keywords": "EKSE, Pair, Kartenspiel, Pairkartenspiel, Browser",
+    "Description": "Pair-Kartenspiele erstellen mit EKSE",
+    "Name": "EKSE, Pair, Kartenspiel, Pairkartenspiel, Browser",
+    "Id": "47",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Pair-Kartenspiele erstellen mit EKSE - Anleitung Seite 1",
+        "Name": "EKSE, Pair, Kartenspiel, Pairkartenspiel, Browser",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-49.jpg",
+          "ImageSmall": "images/ob_freeware-49_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Pair-Kartenspiele erstellen mit EKSE - Anleitung Seite 2",
+        "Name": "EKSE, Pair, Kartenspiel, Pairkartenspiel, Browser",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-50.jpg",
+          "ImageSmall": "images/ob_freeware-50_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Pair-Kartenspiele erstellen mit EKSE - Anleitung Seite 3",
+        "Name": "EKSE, Pair, Kartenspiel, Pairkartenspiel, Browser",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-51.jpg",
+          "ImageSmall": "images/ob_freeware-51_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Kostenlose Software für den Musikunterricht",
+    "Keywords": "Bild, Bildbearbeitung, Gimp",
+    "Description": "Bildbearbeitung mit Gimp",
+    "Name": "Bild, Bildbearbeitung, Gimp",
+    "Id": "50",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Bildbearbeitung mit Gimp - Anleitung Seite 1",
+        "Name": "Bild, Bildbearbeitung, Gimp",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-52.jpg",
+          "ImageSmall": "images/ob_freeware-52_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Bildformate und Begriffe - Anleitung Seite 2",
+        "Name": "Bild, Bildbearbeitung, Gimp",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-53.jpg",
+          "ImageSmall": "images/ob_freeware-53_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Objekte freistellen in Gimp - Anleitung Seite 3",
+        "Name": "Bild, Bildbearbeitung, Gimp",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-54.jpg",
+          "ImageSmall": "images/ob_freeware-54_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Objekte freistellen in Gimp  - Anleitung Seite 4",
+        "Name": "Bild, Bildbearbeitung, Gimp",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-55.jpg",
+          "ImageSmall": "images/ob_freeware-55_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Objekte entfernen in Gimp - Anleitung Seite 5",
+        "Name": "Bild, Bildbearbeitung, Gimp",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-56.jpg",
+          "ImageSmall": "images/ob_freeware-56_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeiten mit Masken in Gimp - Anleitung Seite 6",
+        "Name": "Bild, Bildbearbeitung, Gimp",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-57.jpg",
+          "ImageSmall": "images/ob_freeware-57_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeiten mit Masken in Gimp - Anleitung Seite 7",
+        "Name": "Bild, Bildbearbeitung, Gimp",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_freeware-58.jpg",
+          "ImageSmall": "images/ob_freeware-58_thumbnail.jpg"
+        }
+      }]
+    }
+  }]
+}

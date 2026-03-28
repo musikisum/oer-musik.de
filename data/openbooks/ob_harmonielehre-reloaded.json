@@ -1,0 +1,937 @@
+{
+  "Url": "oer-harmonielehre-reloaded-eine-praktische-anleitung-fuer-musikerinnen-und-musiker",
+  "Title": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+  "Year": "2016",
+  "Author": "Ulrich Kaiser",
+  "City": "Karlsfeld",
+  "Edition": "1",
+  "Downloads": [
+    { "Text": "Download des Unterrichtshefts (50 MB)", "Link": "releases/Kaiser_Harmonielehre-reloaded.pdf" }
+  ],
+  "Description": "Arbeitsheft zu einer modernen Harmonielehre. Eine Open Educational Resource (OER) für junge Erwachsene.",
+  "Keywords": "Arbeitsheft, Harmonielehre, Musik, Jugendliche",
+  "Additionals": [],
+  "Image": "kaiser_openbookHarmonielehre.jpg",
+  "Folderpath": "/data/openbooks/harmonielehre/",
+  "Sections": [
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Slideshow",
+    "Description": "Slideshow der Umschlag- und der Inhaltsseiten",
+    "Id": "1",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Umschlagseite Vorderseite (U1)",
+        "Name": "Umschlagseite Vorderseite (U1)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-1.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Inhaltsverzeichnis",
+        "Name": "Inhaltsverzeichnis",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-4.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-4_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Vorwort",
+        "Name": "Vorwort",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-5.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-5_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 4",
+        "Name": "Seite 4",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-6.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 5",
+        "Name": "Seite 5",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-7.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-7_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 6",
+        "Name": "Seite 6",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-8.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 7",
+        "Name": "Seite 7",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-9.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-9_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 8",
+        "Name": "Seite 8",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-10.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-10_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 9",
+        "Name": "Seite 9",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-11.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-11_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 10",
+        "Name": "Seite 10",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-12.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-12_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 11",
+        "Name": "Seite 11",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-13.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-13_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 12",
+        "Name": "Seite 12",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-14.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-14_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 13",
+        "Name": "Seite 13",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-15.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-15_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 14",
+        "Name": "Seite 14",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-16.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-16_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 15",
+        "Name": "Seite 15",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-17.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-17_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 16",
+        "Name": "Seite 16",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-18.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-18_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 17",
+        "Name": "Seite 18",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-19.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-19_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 18",
+        "Name": "Seite 18",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-20.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-20_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 19",
+        "Name": "Seite 19",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-21.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-21_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 20",
+        "Name": "Seite 20",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-22.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-22_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 21",
+        "Name": "Seite 21",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-23.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-23_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 22",
+        "Name": "Seite 22",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-24.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-24_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 23",
+        "Name": "Seite 23",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-25.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-25_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 24",
+        "Name": "Seite 24",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-26.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-26_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 25",
+        "Name": "Seite 25",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-27.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-27_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 26",
+        "Name": "Seite 26",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-28.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-28_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 27",
+        "Name": "Seite 27",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-29.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-29_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 28",
+        "Name": "Seite 28",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-30.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-30_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 29",
+        "Name": "Seite 29",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-31.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-31_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 30",
+        "Name": "Seite 30",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-32.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-32_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 31",
+        "Name": "Seite 31",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-33.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-33_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 32",
+        "Name": "Seite 32",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-34.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-34_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 33",
+        "Name": "Seite 33",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-35.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-35_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite34",
+        "Name": "Seite 34",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-36.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-36_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 35",
+        "Name": "Seite 35",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-37.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-37_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 36",
+        "Name": "Seite 36",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-38.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-38_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Seite 38",
+        "Name": "Seite 38",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-40.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-40_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Umschlagseiten",
+    "Description": "Umschlagseiten und die jeweils ersten Seiten des Innenteils.",
+    "Id": "2",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Umschlagseite Vorderseite (U1)",
+        "Name": "Umschlagseite Vorderseite (U1)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-1.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umschlagseite Rückseite (U2)",
+        "Name": "Umschlagseite Rückseite (U2)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-2.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-2_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Erste Seite des Innenteils",
+        "Name": "Erste Seite des Innenteils",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-3.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-3_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Rückseite Innenseite (U3)",
+        "Name": "Rückseite Innenseite (U3)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-39.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-39_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Rückseite (U4)",
+        "Name": "Rückseite (U4)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-40.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-40_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Inhaltsverzeichnis Vorwort",
+    "Description": "Inhaltsverzeichnis und Vorwort",
+    "Id": "3",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Inhaltsverzeichnis",
+        "Name": "Oktavregel, Regola dell'ottava, Inhaltsverzeichnis",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-4.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-4_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Vorwort",
+        "Name": "Oktavregel, Regola dell'ottava, Vorwort",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-5.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-5_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Funktionstheorie Funktion",
+    "Description": "Funktionstheorie und Funktion",
+    "Id": "4",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Funktionstheorie und Funktion, Seite 1",
+        "Name": "Oktavregel, Regola dell'ottava, Funktionstheorie, Funktion",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-6.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Funktionstheorie und Funktion, Seite 2",
+        "Name": "Oktavregel, Regola dell'ottava, Funktionstheorie, Funktion",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-7.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-7_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Moll",
+    "Description": "Die Oktavregel in Dur",
+    "Id": "6",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Die Oktavregel in Dur, Seite 1",
+        "Name": "Oktavregel, Regola dell'ottava, Dur",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-8.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Die Oktavregel in Dur, Aufgaben",
+        "Name": "Oktavregel, Regola dell'ottava, Dur, Aufgaben",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-9.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-9_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Dur",
+    "Description": "Die Oktavregel in Moll",
+    "Id": "8",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Die Oktavregel in Moll, Seite 1",
+        "Name": "Oktavregel, Regola dell'ottava, Moll",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-10.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-10_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Die Oktavregel in Moll, Aufgaben",
+        "Name": "Oktavregel, Regola dell'ottava, Moll, Aufgaben",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-11.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-11_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel vierstimmig",
+    "Description": "Die Oktavregel vierstimmig",
+    "Id": "10",
+    "Pages":
+    {
+      "Page":
+      {
+        "Description": "Die Oktavregel vierstimmig.",
+        "Name": "Oktavregel, Regola dell'ottava, vierstimmig.",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-12.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-12_thumbnail.jpg"
+        }
+      }
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Kadenzen",
+    "Description": "Kadenzen",
+    "Id": "11",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Kadenzen",
+        "Name": "Oktavregel, Regola dell'ottava, Kadenzen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-13.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-13_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übungen (1)",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-14.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-14_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übungen (2)",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-15.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-15_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Modulation Wechsel der Oktavregel",
+    "Description": "Die Modulation (Der Wechsel der Okatvregel)",
+    "Id": "14",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Die Modulation (Der Wechsel der Tonleiter)",
+        "Name": "Oktavregel, Regola dell'ottava,Wechsel, Wechsel, Modulation",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-16.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-16_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Die Modulation (Der Wechsel der Tonleiter), Übungen",
+        "Name": "Oktavregel, Regola dell'ottava,Wechsel, Modulation",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-17.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-17_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Übungen",
+    "Description": "Spielen nach Bässen (Übungen)",
+    "Id": "16",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Spielen nach Bässen (Übungen), Seite 1",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-18.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-18_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Spielen nach Bässen (Übungen), Seite 2",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-19.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-19_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Regola dell'ottava Geschichte historisch",
+    "Description": "Historischer Exkurs: Die Regola dell'ottava",
+    "Id": "18",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Historischer Exkurs: Die Regola dell'ottava, Seite 1",
+        "Name": "Oktavregel, Regola dell'ottava",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-20.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-20_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Historischer Exkurs: Die Regola dell'ottava, Seite 2",
+        "Name": "Oktavregel, Regola dell'ottava",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-21.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-21_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Historischer Exkurs: Die Regola dell'ottava, Seite 3",
+        "Name": "Oktavregel, Regola dell'ottava",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-22.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-22_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Sequenzen",
+    "Description": "Sequenzen",
+    "Id": "21",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Sequenzen",
+        "Name": "Oktavregel, Regola dell'ottava, Sequenzen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-23.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-23_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übungen (mit Sequenzen)",
+        "Name": "Oktavregel, Regola dell'ottava, Übungen Sequenzen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-24.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-24_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Probleme Lösungen",
+    "Description": "Probleme und Lösungen",
+    "Id": "23",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Probleme und Lösungen, Seite 1",
+        "Name": "Oktavregel, Regola dell'ottava, Probleme, Lösungen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-25.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-25_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Probleme und Lösungen (Trugschluss), Seite 2",
+        "Name": "Oktavregel, Regola dell'ottava, Probleme, Lösungen, Trugschluss",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-26.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-26_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Melodie Harmonisiserung Choralsatz",
+    "Description": "Oktavregel und Melodieharmonisierung (Choralsatz)",
+    "Id": "25",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Oktavregel und Melodieharmonisierung, Seite 1",
+        "Name": "Oktavregel, Regola dell'ottava, Melodie, Melodieharmonisierung",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-27.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-27_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Oktavregel und Melodieharmonisierung (Choralsatz), Seite 2",
+        "Name": "Oktavregel, Regola dell'ottava, Melodie, Melodieharmonisierung, Choralsatz",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-28.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-28_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Oktavregel und Melodieharmonisierung (Choralsatz), Seite 3",
+        "Name": "Oktavregel, Regola dell'ottava, Melodie, Melodieharmonisierung, Choralsatz",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-29.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-29_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Oktavregel und Melodieharmonisierung (Choralsatz), Seite 4",
+        "Name": "Oktavregel, Regola dell'ottava, Melodie, Melodieharmonisierung, Choralsatz",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-30.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-30_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Oktavregel und Melodieharmonisierung (Übungen), Seite 5",
+        "Name": "Oktavregel, Regola dell'ottava, Melodie, Melodieharmonisierung, Choralsatz",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-31.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-31_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Oktavregel und Melodieharmonisierung (weitere Übungen), Seite 6",
+        "Name": "Oktavregel, Regola dell'ottava, Melodie, Melodieharmonisierung, Choralsatz",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-32.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-32_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Harmonielehre #reloaded. Eine praktische Anleitung für Musikerinnen und Musiker",
+    "Keywords": "Harmonielehre Oktavregel Melodie Harmonisiserung Liedsatz",
+    "Description": "Oktavregel und Melodieharmonisierung (Liedsatz)",
+    "Id": "31",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Oktavregel und Melodieharmonisierung (Liedsatz), Seite 1",
+        "Name": "Oktavregel, Regola dell'ottava, Melodie, Melodieharmonisierung, Liedsatz",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-33.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-33_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Oktavregel und Melodieharmonisierung (Liedsatz), Seite 2",
+        "Name": "Oktavregel, Regola dell'ottava, Melodie, Melodieharmonisierung, Liedsatz",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-34.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-34_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Oktavregel und Melodieharmonisierung (Liedsatz), Begleitpattern, Seite 3",
+        "Name": "Oktavregel, Regola dell'ottava, Melodie, Melodieharmonisierung, Liedsatz, Begleitpattern",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-35.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-35_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Oktavregel und Melodieharmonisierung (Liedsatz), Begleitpattern, Seite 4",
+        "Name": "Oktavregel, Regola dell'ottava, Melodie, Melodieharmonisierung, Liedsatz",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-36.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-36_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Oktavregel und Melodieharmonisierung (Liedsatz), Vorhalte, Seite 5",
+        "Name": "Oktavregel, Regola dell'ottava, Melodie, Melodieharmonisierung, Liedsatz, Vorhalte",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-37.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-37_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Oktavregel und Melodieharmonisierung (Liedsatz), Übungen, Seite 6",
+        "Name": "Oktavregel, Regola dell'ottava, Melodie, Melodieharmonisierung, Liedsatz, Übungen",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_harmonielehre-reloaded-38.jpg",
+          "ImageSmall": "images/ob_harmonielehre-reloaded-38_thumbnail.jpg"
+        }
+      }]
+    }
+  }]
+}

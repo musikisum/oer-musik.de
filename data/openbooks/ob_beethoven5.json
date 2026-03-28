@@ -1,0 +1,787 @@
+{
+  "Url": "oer-ludwig-van-beethoven-die-fuenfte-sinfonie",
+  "Title": "Ludwig van Beethoven. Die 5. Sinfonie",
+  "Year": "2014",
+  "Author": "Ulrich Kaiser",
+  "City": "Karlsfeld",
+  "Edition": "1", 
+  "Downloads": [
+    { "Text": "Download des Unterrichtshefts (32 MB)", "Link": "releases/Kaiser_Beethoven5Unterrichtsheft_2014.pdf" },
+    { "Text": "Download des Kommentarhefts (19 MB)", "Link": "releases/Kaiser_Beethoven5Kommentarheft_2014.pdf" },
+    { "Text": "Download aller Materialien (176 MB)", "Link": "releases/Kaiser_Beethoven5.zip" }
+  ],
+  "Additionals": [
+    { "Text": "Die Fünfte mal anders, in: Musik und Unterricht 4/2013, S. 14-22.", "Link": "/publicfiles/kaiser_die-fuenfte-mal-anders.pdf" }
+  ],
+  "Description": "Unterrichtsheft zum zur 5. Sinfonie von Ludwig v. Beethoven. Eine Open Educational Resource (OER) für allgemeinbildende Schulen.",
+  "Keywords": "Ludwig v. Beethoven, Musik, OER, Schule, Unterrichtsheft",
+  "Image": "kaiser_ob-beethovenCover.png",
+  "Folderpath": "/data/openbooks/beethoven5/",
+  "Supported": [
+    { "Text": "Bereitstellung von Sounddateien mit freundlicher Genehmigung von outhere music.", "Image": "/images/logo_out_here.jpg" }
+  ],
+  "Sections": [
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethoven Umschlagseiten",
+    "Description": "Umschlagseiten (U1–U4) sowie die jeweils ersten und letzten Seiten der Innenteile",
+    "Id": "1",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Umschlagseite (U1) Unterrichtsheft",
+        "Name": "Umschlagseite (U1) Unterrichtsheft",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-1.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Rückseite Umschlagseite (U2) Unterrichtsheft",
+        "Name": "Rückseite Umschlagseite (U2) Unterrichtsheft",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-2.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-2_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Innenteil Seite 1 Unterrichtsheft",
+        "Name": "Innenteil Seite 1 Unterrichtsheft",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-3.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-3_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Hintere Umschlagseite Vorderseite (U3) Unterrichtsheft",
+        "Name": "Hintere Umschlagseite Vorderseite (U3) Unterrichtsheft",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-27.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-27_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Hintere Umschlagseite Rückseite (U4) Unterrichtsheft",
+        "Name": "Hintere Umschlagseite Rückseite (U4) Unterrichtsheft",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-28.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-28_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umschlagseite (U1) Kommentarheft",
+        "Name": "Umschlagseite (U1) Kommentarheft",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-1.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Rückseite Umschlagseite (U2) Kommentarheft",
+        "Name": "Rückseite Umschlagseite (U2) Kommentarheft",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-2.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-2_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Innenteil Seite 1 Kommentarheft",
+        "Name": "Innenteil Seite 1 Kommentarheft",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-3.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-3_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Outhere Music (Advertise Page)",
+        "Name": "Outhere Music (Advertise Page)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-21.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-21_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Hintere Umschlagseite Vorderseite (U3) Kommentarheft",
+        "Name": "Hintere Umschlagseite Vorderseite (U3) Kommentarheft",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-31.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-31_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Hintere Umschlagseite Rückseite (U4) Kommentarheft",
+        "Name": "Hintere Umschlagseite Rückseite (U4) Kommentarheft",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-32.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-32_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethoven Inhaltsverzeichnis Trackliste",
+    "Description": "Inhaltsverzeichnis und Trackliste",
+    "Name": "Inhaltsverzeichnisse, Trackliste und Beitrag in Üben und Musizieren zum Thema",
+    "Id": "2",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Inhaltsverzeichnis Unterrichtsheft",
+        "Name": "Inhaltsverzeichnis Unterrichtsheft",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-4.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-4_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Trackliste Unterrichtsheft",
+        "Name": "Trackliste Unterrichtsheft",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-26.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-26_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Inhaltsverzeichnis Kommentarheft",
+        "Name": "Inhaltsverzeichnis Kommentarheft",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-4.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-4_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beitrag in Üben und Musizieren S. 1",
+        "Name": "Beitrag in Üben und Musizieren S. 1",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-22.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-22_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beitrag in Üben und Musizieren S. 2",
+        "Name": "Beitrag in Üben und Musizieren S. 2",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-23.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-23_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beitrag in Üben und Musizieren S. 3",
+        "Name": "Beitrag in Üben und Musizieren S. 3",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-24.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-24_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beitrag in Üben und Musizieren S. 4",
+        "Name": "Beitrag in Üben und Musizieren S. 5",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-25.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-25_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beitrag in Üben und Musizieren S. 5",
+        "Name": "Beitrag in Üben und Musizieren S. 5",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-26.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-26_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beitrag in Üben und Musizieren S. 6",
+        "Name": "Beitrag in Üben und Musizieren S. 6",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-27.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-27_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beitrag in Üben und Musizieren S. 7",
+        "Name": "Beitrag in Üben und Musizieren S. 7",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-28.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-28_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beitrag in Üben und Musizieren S. 8",
+        "Name": "Beitrag in Üben und Musizieren S. 8",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-29.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-29_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beitrag in Üben und Musizieren S. 9",
+        "Name": "Beitrag in Üben und Musizieren S. 9",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-30.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-30_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethoven Vorwort Linkliste",
+    "Description": "Vorworte und kommentierte Linkliste zum Thema Beethoven",
+    "Name": "Vorworte und kommentierte Linkliste zum Thema Beethoven",
+    "Id": "3",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Vorwort des Unterrichtshefts",
+        "Name": "Vorwort des Unterrichtshefts",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-5.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-5_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Vorwort des Kommentarhefts",
+        "Name": "Vorwort des Unterrichtshefts",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-5.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-5_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentierte Linkliste zum Thema Beethoven",
+        "Name": "Kommentierte Linkliste zum Thema Beethoven",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-16.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-16_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethoven Bonn Wien",
+    "Description": "Beethoven in Bonn und Wien",
+    "Name": "Beethoven in Bonn und Wien",
+    "Id": "4",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Beethoven in Bonn (Text)",
+        "Name": "Beethoven in Bonn (Text)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-6.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beethoven in Bonn (Kreutzworträtsel)",
+        "Name": "Beethoven in Bonn (Kreutzworträtsel)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-7.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-7_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beethoven in Wien (Text)",
+        "Name": "Beethoven in Wien (Text)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-8.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beethoven in Wien (Kreutzworträtsel)",
+        "Name": "Beethoven in Wien (Kreutzworträtsel)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-9.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-9_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beethoven in Bonn (Kreutzworträtsel Lösung)",
+        "Name": "Beethoven in Bonn (Kreutzworträtsel Lösung)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-6.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Beethoven in Wien (Kreutzworträtsel Lösung)",
+        "Name": "Beethoven in Wien (Kreutzworträtsel Lösung)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-7.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-7_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethoven Spiele Software",
+    "Description": "Spiele, Software",
+    "Name": "Spiele (Software)",
+    "Id": "5",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Million Game, Software (Freeware) zum Erstellen von Fragespielen",
+        "Name": "Million Game und EKSE, Software (Freeware) zum Erstellen von Fragespielen",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-10.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-10_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "EKSE, Software (Freeware) zum Erstellen von Pairs-Kartenspielen",
+        "Name": "EKSE, Software (Freeware) zum Erstellen von Pairs-Kartenspielen",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-11.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-11_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Erläuterungen zum Angebot 'Hallo Beethoven' der Website des Beethovenhauses in Bonn",
+        "Name": "Erläuterungen zum Angebot 'Hallo Beethoven' der Website des Beethovenhauses in Bonn",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-8.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zum Angebot 'Hallo Beethoven' der Website des Beethovenhauses in Bonn",
+        "Name": "Arbeitsbogen zum Angebot 'Hallo Beethoven' der Website des Beethovenhauses in Bonn",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-9.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-9_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethoven Werke",
+    "Description": "Beethovens Werke",
+    "Name": "Beethovens Werke",
+    "Id": "8",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Beethovens Werke, Klavierstück 'Für Elise', Sonate Mondschein Op. 27, Nr. 2, Klavier und Violine in A-Dur Op. 47, Streichquartett cis-Moll Op. 131, Konzert für Violine Op. 61, 9. Sinfonie Op. 136",
+        "Name": "Beethovens Werke",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-10.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-10_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Arbeitsbogen zu Beethovens Werken, Klavierstück 'Für Elise', Sonate Mondschein Op. 27, Nr. 2, Klavier und Violine in A-Dur Op. 47, Streichquartett cis-Moll Op. 131, Konzert für Violine Op. 61, 9. Sinfonie Op. 136",
+        "Name": "Arbeitsbogen zu Beethovens Werken",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-11.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-11_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethoven 5. fünfte Sinfonie Unterrichtsbeispiel Höranalyse Gehörbildung Video Film",
+    "Description": "5. Sinfonie, Op. 67, Ludwig van Beethoven, Unterrichtsdemonstration, Höranalyse, Gehörbildung, Video, Film",
+    "Name": "Die 5. Sinfonie Op. 67 von Ludwig van Beethoven",
+    "Id": "10",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "",
+        "Name": "Die 5. Sinfonie Op. 67 von Ludwig van Beethoven",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-12.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-12_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "",
+        "Name": "Arbeitsbogen zur 5. Sinfonie Op. 67 von Ludwig van Beethoven",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-13.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-13_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "",
+        "Name": "Höranalyse zur 5. Sinfonie Op. 67 von Ludwig van Beethoven",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-14.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-14_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "",
+        "Name": "Erläuterungen zur Höranalyse zur 5. Sinfonie Op. 67 von Ludwig van Beethoven",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-12.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-12_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "",
+        "Name": "Video zur Höranalyse zur 5. Sinfonie Op. 67 von Ludwig van Beethoven",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-13.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-13_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "",
+        "Name": "Videos zur Gehörbildung nach Zahlen",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-14.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-14_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethoven Klopfmotiv Nacht Licht 5. fünfte Sinfonie",
+    "Description": "Klopfmotiv, 'Durch Nacht zum Licht', 5. Sinfonie, Op. 67, Ludwig van Beethoven",
+    "Name": "Klopfmotiv, 'Durch Nacht zum Licht' und die 5. Sinfonie Op. 67 von Ludwig van Beethoven",
+    "Id": "13",
+    "Pages":
+    {
+      "Page":
+      {
+        "Description": "",
+        "Name": "Klopfmotiv, 'Durch Nacht zum Licht' und die 5. Sinfonie Op. 67 von Ludwig van Beethoven",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-15.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-15_thumbnail.jpg"
+        }
+      }
+    }
+  },
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethoven  Heiligenstädter Testament",
+    "Description": "Ludwig van Beethoven, Heiligenstädter Testament",
+    "Name": "Ludwig van Beethovens Heiligenstädter Testament",
+    "Id": "14",
+    "Pages":
+    {
+      "Page":
+      {
+        "Description": "",
+        "Name": "Ludwig van Beethovens Heiligenstädter Testament",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-16.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-16_thumbnail.jpg"
+        }
+      }
+    }
+  },
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethoven 5. fünfte Sinfonie Interpretationsvergleich",
+    "Description": "Ludwig van Beethoven, 5. Sinfonie, Interpretationsvergleich",
+    "Name": "Ein Interpretationsvergleich zur 5. Sinfonie von Ludwig van Beethoven",
+    "Id": "15",
+    "Pages":
+    {
+      "Page":
+      {
+        "Description": "Ludwig van Beethoven, 5. Sinfonie, Interpretationsvergleich",
+        "Name": "Ein Interpretationsvergleich zur 5. Sinfonie von Ludwig van Beethoven",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-17.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-17_thumbnail.jpg"
+        }
+      }
+    }
+  },
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethovens Fifth 5. fünfte Sinfonie Filmmusik",
+    "Description": "Argument Beethovens Fifth, 5. Sinfonie, Ludwig van Beethoven, Filmmusik",
+    "Name": "Argument Beethovens Fifth: Die 5. Sinfonie von Ludwig van Beethoven als Filmmusik",
+    "Id": "16",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Argument Beethovens Fifth, 5. Sinfonie, Ludwig van Beethoven, Filmmusik",
+        "Name": "Argument Beethovens Fifth: Die 5. Sinfonie von Ludwig van Beethoven als Filmmusik (Exposition)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-18.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-18_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Argument Beethovens Fifth, 5. Sinfonie, Ludwig van Beethoven, Filmmusik",
+        "Name": "Argument Beethovens Fifth: Die 5. Sinfonie von Ludwig van Beethoven als Filmmusik (Durchführung und Reprise)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-19.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-19_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zu Argument Beethovens Fifth, 5. Sinfonie, Ludwig van Beethoven, Filmmusik",
+        "Name": "Kommentar zu Argument Beethovens Fifth: Die 5. Sinfonie von Ludwig van Beethoven als Filmmusik",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-15.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-15_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethoven 5. fünfte Sinfonie Notenanalyse Partitur",
+    "Description": "Ludwig van Beethoven, 5. Sinfonie, Notenanalyse / analytische Partitur",
+    "Name": "Notenanalse (analytische Partitur) zur 5. Sinfonie von Ludwig van Beethoven",
+    "Id": "18",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Ludwig van Beethoven, 5. Sinfonie, Notenanalyse",
+        "Name": "Notenanalyse zur 5. Sinfonie von Ludwig van Beethoven",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-20.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-20_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Partitur zur Analyse S. 1 zu Ludwig van Beethoven, 5. Sinfonie",
+        "Name": "Partitur zur Analyse S. 1 zu Ludwig van Beethoven, 5. Sinfonie",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-17.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-17_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Partitur zur Analyse S. 2 zu Ludwig van Beethoven, 5. Sinfonie",
+        "Name": "Partitur zur Analyse S. 2 zu Ludwig van Beethoven, 5. Sinfonie",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-18.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-18_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Partitur zur Analyse S. 3 zu Ludwig van Beethoven, 5. Sinfonie",
+        "Name": "Partitur zur Analyse S. 3 zu Ludwig van Beethoven, 5. Sinfonie",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-19.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-19_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Partitur zur Analyse S. 4 zu Ludwig van Beethoven, 5. Sinfonie",
+        "Name": "Partitur zur Analyse S. 4 zu Ludwig van Beethoven, 5. Sinfonie",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-20.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-20_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Notenanalyse der 5. Sinfonie von Ludwig van Beethoven",
+        "Name": "Kommentar zur Notenanalyse der 5. Sinfonie von Ludwig van Beethoven",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_kommentar-15.jpg",
+          "ImageSmall": "images/ob_beethoven5_kommentar-15_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethoven 5. fünfte Sinfonie Kopfsatz Rhythmus Arrangement",
+    "Description": "Ludwig van Beethoven, 5. Sinfonie, Kopfsatz, Rhythmus, Arrangement",
+    "Name": "Ein Rhythmusarrangement zum Kopfsatz der 5. Sinfonie von Ludwig van Beethoven",
+    "Id": "19",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Ludwig van Beethoven, 5. Sinfonie, Kopfsatz, Rhythmus, Arrangement",
+        "Name": "Ein Rhythmusarrangement zum Kopfsatz der 5. Sinfonie von Ludwig van Beethoven (Seite 1)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-21.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-21_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ludwig van Beethoven, 5. Sinfonie, Kopfsatz, Rhythmus, Arrangement",
+        "Name": "Ein Rhythmusarrangement zum Kopfsatz der 5. Sinfonie von Ludwig van Beethoven (Seite 2)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-22.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-22_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ludwig van Beethoven, 5. Sinfonie, Kopfsatz, Rhythmus, Arrangement",
+        "Name": "Ein Rhythmusarrangement zum Kopfsatz der 5. Sinfonie von Ludwig van Beethoven (Seite 3)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-23.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-23_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Ludwig van Beethoven. Die 5. Sinfonie",
+    "Keywords": "Beethoven 5. fünfte Sinfonie Schubert",
+    "Description": "Ludwig van Beethoven und Schubert",
+    "Name": "Ludwig van Beethoven und Schubert: Ein Chorsatz zum Kopfsatz der 5. Sinfonie von Ludwig van Beethoven mit Motiven aus Schuberts Forelle ('Schicksalsforelle')",
+    "Id": "22",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Ludwig van Beethoven, 5. Sinfonie, Schubert, Forelle, Arrangement, Chorsatz",
+        "Name": "Ein Chorsatz zum Kopfsatz der 5. Sinfonie von Ludwig van Beethoven mit Motiven aus Schuberts Forelle (Seite 1)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-24.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-24_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ludwig van Beethoven, 5. Sinfonie, Schubert, Forelle, Arrangement, Chorsatz",
+        "Name": "Ein Chorsatz zum Kopfsatz der 5. Sinfonie von Ludwig van Beethoven mit Motiven aus Schuberts Forelle (Seite 2)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_beethoven5_unterricht-25.jpg",
+          "ImageSmall": "images/ob_beethoven5_unterricht-25_thumbnail.jpg"
+        }
+      }]
+    }
+  }]
+}

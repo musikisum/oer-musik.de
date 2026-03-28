@@ -1,0 +1,1356 @@
+{
+  "Url": "oer-praktische-harmonielehre-sequenzen-fuer-kinder",
+  "Title": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+  "Year": "2012",
+  "Author": "Ulrich Kaiser",
+  "City": "Karlsfeld",
+  "Edition": "1", 
+  "Downloads": [
+    { "Text": "Download des Unterrichtshefts (8 MB)", "Link": "releases/Kaiser_SequenzenKommentarheft-ForKids_2012.pdf" },
+    { "Text": "Download des Kommentarhefts (9 MB)", "Link": "releases/Kaiser_SequenzenUnterrichtsheft-ForKids_2012.pdf" }
+  ],
+  "Description": "Arbeitsheft zum Thema ›Sequenzen‹. Eine Open Educational Resource (OER) für den Musikunterricht für Kinder.",
+  "Keywords": "Arbeitsheft, Sequenzen, Musik, OER, Kinder",
+  "Additionals": [],
+  "Image": "kaiser_harmonielehresequenzenforkids.png",
+  "Folderpath": "/data/openbooks/sequenzen/",
+  "Sections": [
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre Slideshow",
+    "Description": "Slideshow der Umschlag- und der Inhaltsseiten des Unterrichtsheftes",
+    "Name": "",
+    "Id": "1",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Umschlag Vorderseite (U1)",
+        "Name": "Umschlag Vorderseite (U1)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-1.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umschlag Rückseite (U2)",
+        "Name": "Umschlag Rückseite (U2)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-2.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-2_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Erste Innenteilseite",
+        "Name": "Erste Innenteilseite",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-3.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-3_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Inhaltsverzeichnis des Unterrichtsheftes",
+        "Name": "Inhaltsverzeichnis des Unterrichtsheftes",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-4.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-4_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Vorwort des Unterrichtsheftes",
+        "Name": "Vorwort des Unterrichtsheftes",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-5.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-5_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Die Nach-Haus-Wendung (Dominante-Tonika-Verbindung), Seite 1",
+        "Name": "Die Nach-Haus-Wendung (Dominante-Tonika-Verbindung), Seite 1",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-6.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Die Nach-Haus-Wendung (Dominante-Tonika-Verbindung), Seite 2",
+        "Name": "Die Nach-Haus-Wendung (Dominante-Tonika-Verbindung), Seite 2",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-7.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-7_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Die I-IV-V-I-Kadenzharmonik, Seite 1",
+        "Name": "Die I-IV-V-I-Kadenzharmonik, Seite 1",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-8.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Die I-IV-V-I-Kadenzharmonik, Seite 2",
+        "Name": "Die I-IV-V-I-Kadenzharmonik, Seite 2",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-9.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-9_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Beispiel zur Improvisation (A-Teil eines Menuetts)",
+        "Name": "Ein Beispiel zur Improvisation (A-Teil eines Menuetts)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-10.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-10_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Die Quint- und Septimlage der Nach-Akkorde (bzw. der dominantischen Akkorde)",
+        "Name": "Die Quint- und Septimlage der Nach-Akkorde (bzw. der dominantischen Akkorde)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-11.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-11_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übungen zur Quint- und Septimlage der Nach-Akkorde (bzw. der dominantischen Akkorde)",
+        "Name": "Übungen zur Quint- und Septimlage der Nach-Akkorde (bzw. der dominantischen Akkorde)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-12.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-12_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Der stufenweise aufwärts sequenzierte Quintfall (bzw. Monte-Sequenz oder chromatische 5–6-Konsekutive)",
+        "Name": "Der stufenweise aufwärts sequenzierte Quintfall (bzw. Monte-Sequenz oder chromatische 5–6-Konsekutive)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-13.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-13_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Menuett zum Spielen und Analysieren von Mozart (mit Monte-Sequenz)",
+        "Name": "Ein Menuett zum Spielen und Analysieren von Mozart (mit Monte-Sequenz)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-14.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-14_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Eine Fantasie zum Spielen und Analysieren von Telemann (mit Monte-Sequenz)",
+        "Name": "Eine Fantasie zum Spielen und Analysieren von Telemann (mit Monte-Sequenz)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-15.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-15_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Eine vierhändige Walzer-Improvisation (Aufgabenstellung für das untere Register)",
+        "Name": "Eine vierhändige Walzer-Improvisation (Aufgabenstellung für das untere Register)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-16.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-16_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Eine vierhändige Walzer-Improvisation (Aufgabenstellung für das obere Register)",
+        "Name": "Eine vierhändige Walzer-Improvisation (Aufgabenstellung für das obere Register)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-17.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-17_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Die Walzer-Improvisation zweihändig (Aufgabenstellung für eine Spielerin/einen Spieler)",
+        "Name": "Die Walzer-Improvisation zweihändig (Aufgabenstellung für eine Spielerin/einen Spieler)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-18.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-18_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Der stufenweise abwärts sequenzierte Quintfall (bzw. die Quintfallsequenz)",
+        "Name": "Der stufenweise abwärts sequenzierte Quintfall (bzw. die Quintfallsequenz)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-19.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-19_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Menuett zum Spielen und Analysieren von Mozart (mit Quintfallsequenz)",
+        "Name": "Ein Menuett zum Spielen und Analysieren von Mozart (mit Quintfallsequenz)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-20.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-20_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Der stufenweise abwärts sequenzierte Quintfall ohne Zwischendominanten (bzw. die diatonische Quintfallsequenz)",
+        "Name": "Der stufenweise abwärts sequenzierte Quintfall ohne Zwischendominanten (bzw. die diatonische Quintfallsequenz)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-21.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-21_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Eine Tango-Inmprovisation (mit Quintfallsequenz)",
+        "Name": "Eine Tango-Inmprovisation (mit Quintfallsequenz)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-22.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-22_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Der terzweise abwärts sequenzierte Quintfall (bzw. der diminuierte chromatische Parallelismus)",
+        "Name": "Der terzweise abwärts sequenzierte Quintfall (bzw. der diminuierte chromatische Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-23.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-23_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Präludium zum Spielen und Analysieren von Bach (mit diminuierte chromatischem Parallelismus), Seite 1",
+        "Name": "Ein Präludium zum Spielen und Analysieren von Bach (mit diminuierte chromatischem Parallelismus), Seite 1",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-24.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-24_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Präludium zum Spielen und Analysieren von Bach (mit diminuierte chromatischem Parallelismus), Seite 2",
+        "Name": "Ein Präludium zum Spielen und Analysieren von Bach (mit diminuierte chromatischem Parallelismus), Seite 2",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-25.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-25_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Etüden-Improvisation (mit diminuiert-chromatischem Parallelismus)",
+        "Name": "Ein Etüden-Improvisation (mit diminuiert-chromatischem Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-26.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-26_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Der terzweise aufwärts sequenzierte Quintfall (bzw. der Parallelismus)",
+        "Name": "Der terzweise aufwärts sequenzierte Quintfall (bzw. der Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-27.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-27_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Das 'Arme Waisenkind' zum Spielen und Analysieren von Schumann (mit Parallelismus)",
+        "Name": "Das 'Arme Waisenkind' zum Spielen und Analysieren von Schumann (mit Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-28.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-28_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Eine Ragtime-Improvistaion (mit Parallelismus)",
+        "Name": "Eine Ragtime-Improvistaion (mit Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-29.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-29_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Der Quintsieg (bzw. die Tonika-Dominante Verbindung oder der Halbschluss)",
+        "Name": "Der Quintsieg (bzw. die Tonika-Dominante Verbindung oder der Halbschluss)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-30.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-30_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Improvisieren nach einem Muster von Händel (Improvisation für eine Spielerin/einen Spieler)",
+        "Name": "Improvisieren nach einem Muster von Händel (Improvisation für eine Spielerin/einen Spieler)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-31.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-31_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Der Quintstieg terzweise aufwärts sequenziert",
+        "Name": "Der Quintstieg terzweise aufwärts sequenziert",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-32.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-32_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Der Quintstieg sekund- und terzweiseweise aufwärts sequenziert (ein Modell)",
+        "Name": "Der Quintstieg sekund- und terzweiseweise aufwärts sequenziert (ein Modell)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-33.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-33_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Der Quintstieg terzweise abwärts sequenziert (bzw. der Parallelismus)",
+        "Name": "Der Quintstieg terzweise abwärts sequenziert (bzw. der Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-34.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-34_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Der Anfang eines Andantes zum Spielen und Analysieren aus einer Klaviersonate von Haydn (mit Parallelismus)",
+        "Name": "Der Anfang eines Andantes zum Spielen und Analysieren aus einer Klaviersonate von Haydn (mit Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-35.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-35_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Der Quintstieg sekundweise abwärts sequenziert (bzw. eine Lamentobass-Harmonisierung)",
+        "Name": "Der Quintstieg sekundweise abwärts sequenziert (bzw. eine Lamentobass-Harmonisierung)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-36.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-36_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Abschnitt zum Spielen und Analysieren aus einer Fantasie von Sweelinck (mit Lamentobass-Harmonisierungen)",
+        "Name": "Ein Abschnitt zum Spielen und Analysieren aus einer Fantasie von Sweelinck (mit Lamentobass-Harmonisierungen)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-37.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-37_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Eine Improvisations-Aufgabe unter Verwendung verschiedener Sequenzmodelle",
+        "Name": "Improvisations-Aufgabe unter Verwendung verschiedener Sequenzmodelle",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-38.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-38_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Eine Übersicht über die Sequenzmodelle (U3)",
+        "Name": "Eine Übersicht über die Sequenzmodelle (U3)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-39.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-39_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Umschlag Rückseite (U4)",
+        "Name": "Umschlag Rückseite (U4)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-40.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-40_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre Umschlagseiten",
+    "Description": "Umschlagseiten und die jeweils ersten Seiten des Innenteils.",
+    "Name": "",
+    "Id": "2",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Unterrichtsheft Umschlag vorne außen (U1)",
+        "Name": "Umschlag Vorderseite Unterrichtsheft (U1)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-1.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Unterrichtsheft Umschlag vorne innen (U2)",
+        "Name": "Umschlag Rückseite (U2)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-2.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-2_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Erste Seite des Innenteils",
+        "Name": "Erste Seite des Innenteils",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-3.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-3_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übersichtstabelle zu den Sequenzen auf der Rückseite der hinteren Umschlagseite (U3)",
+        "Name": "Übersichtstabelle zu den Sequenzen auf der Rückseite der hinteren Umschlagseite (U3)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-39.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-39_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Unterrichtsheft hinterer Umschlag außen (U4)",
+        "Name": "Unterrichtsheft hinterer Umschlag außen (U4)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-40.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-40_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Umschlag vorne außen (U1)",
+        "Name": "Kommentarheft Umschlag vorne außen (U1)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-1.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-1_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Umschlag vorne innen (U2)",
+        "Name": "Kommentarheft Umschlag vorne innen (U2)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-2.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-2_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Erste Seite des Innenteils des Kommentarheftes",
+        "Name": "Erste Seite des Innenteils des Kommentarheftes",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-3.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-3_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentarheft Umschlag hinten außen (U4)",
+        "Name": "Kommentarheft Umschlag hinten außen (U4)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-28.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-28_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre Inhaltsverzeichnis Vorwort",
+    "Description": "Inhaltsverzeichnisse und Vorworte",
+    "Name": "",
+    "Id": "3",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Inhaltverzeichnis des Unterrichtsheftes",
+        "Name": "Inhaltverzeichnis des Unterrichtsheftes",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-4.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-4_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Vorwort des Unterrichtsheftes",
+        "Name": "Vorwort des Unterrichtsheftes",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-5.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-5_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Inhaltsverzeichnis des Kommentarheftes",
+        "Name": "Inhaltsverzeichnis des Kommentarheftes",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-4.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-4_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Vorwort des Kommentarheftes",
+        "Name": "Vorwort des Kommentarheftes",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-5.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-5_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre Dominante Tonika Akkord Verbindung",
+    "Description": "Die Nach-Haus-Wendung (Dominante-Tonika-Verbindung)",
+    "Name": "",
+    "Id": "4",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Die Nach-Haus-Wendung (Dominante-Tonika-Verbindung), Seite 1",
+        "Name": "Die Nach-Haus-Wendung (Dominante-Tonika-Verbindung), Seite 1",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-6.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Die Nach-Haus-Wendung (Dominante-Tonika-Verbindung), Seite 2",
+        "Name": "Die Nach-Haus-Wendung (Dominante-Tonika-Verbindung), Seite 2",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-7.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-7_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Zu den Tonbuchstaben, zu den Begriffen ›Sequenz‹ und ›Tonart‹ (I)",
+        "Name": "Zu den Tonbuchstaben, zu den Begriffen ›Sequenz‹ und ›Tonart‹ (I)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-6.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-6_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Zu den Tonbuchstaben, zu den Begriffen ›Sequenz‹ und ›Tonart‹ (II)",
+        "Name": "Zu den Tonbuchstaben, zu den Begriffen ›Sequenz‹ und ›Tonart‹ (II)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-7.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-7_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre I-IV-V-I-Kadenz Harmonik Menuett Improvisation",
+    "Description": "Die I-IV-V-I-Kadenzharmonik und eine Menuett-Improvisation",
+    "Name": "",
+    "Id": "6",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Die I-IV-V-I-Kadenzharmonik, Seite 1",
+        "Name": "Die I-IV-V-I-Kadenzharmonik, Seite 1",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-8.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Die I-IV-V-I-Kadenzharmonik, Seite 2",
+        "Name": "Die I-IV-V-I-Kadenzharmonik, Seite 2",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-9.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-9_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Beispiel zur Improvisation (A-Teil eines Menuetts)",
+        "Name": "Ein Beispiel zur Improvisation (A-Teil eines Menuetts)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-10.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-10_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Kommentar zur Kadenz",
+        "Name": "Kommentar zur Kadenz",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-8.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-8_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Materialien zur Menuettimprovisation (I)",
+        "Name": "Materialien zur Menuettimprovisation (I)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-9.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-9_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Materialien zur Menuettimprovisation (II)",
+        "Name": "Materialien zur Menuettimprovisation (II)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-10.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-10_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Materialien zur Menuettimprovisation (III)",
+        "Name": "Materialien zur Menuettimprovisation (III)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-11.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-11_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre Akkord Lage Quint und Septim dominantische Dominant akkorde Dominantseptakkord", 
+    "Description": "Die Quint- und Septimlage der Nach-Akkorde (bzw. der dominantischen Akkorde)",
+    "Name": "",
+    "Id": "9",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Die Quint- und Septimlage der Nach-Akkorde (bzw. der dominantischen Akkorde)",
+        "Name": "Die Quint- und Septimlage der Nach-Akkorde (bzw. der dominantischen Akkorde)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-11.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-11_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Übungen zur Quint- und Septimlage der Nach-Akkorde (bzw. der dominantischen Akkorde)",
+        "Name": "Übungen zur Quint- und Septimlage der Nach-Akkorde (bzw. der dominantischen Akkorde)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-12.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-12_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre stufenweise aufwärts sequenzierter Quintfall Monte-Sequenz chromatische 5–6-Konsekutive Menuett Mozart Fantasie Telemann",
+    "Description": "Der stufenweise aufwärts sequenzierter Quintfall (bzw. Monte-Sequenz oder chromatische 5–6-Konsekutive) am Beispiel eines Menuetts von Mozart und einer Fantaise von Telemann.",
+    "Name": "",
+    "Id": "11",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Der stufenweise aufwärts sequenzierte Quintfall (bzw. Monte-Sequenz oder chromatische 5–6-Konsekutive)",
+        "Name": "Der stufenweise aufwärts sequenzierte Quintfall (bzw. Monte-Sequenz oder chromatische 5–6-Konsekutive)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-13.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-13_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Menuett zum Spielen und Analysieren von Mozart (mit Monte-Sequenz)",
+        "Name": "Ein Menuett zum Spielen und Analysieren von Mozart (mit Monte-Sequenz)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-14.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-14_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Eine Fantasie zum Spielen und Analysieren von Telemann (mit Monte-Sequenz)",
+        "Name": "Eine Fantasie zum Spielen und Analysieren von Telemann (mit Monte-Sequenz)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-15.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-15_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Zur Analyse des Menuetts von Mozart und der Fantasia von Telemann",
+        "Name": "Zur Analyse des Menuetts von Mozart und der Fantasia von Telemann",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-11.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-11_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre Walzer Improvisation",
+    "Description": "Eine Walzer-Improvisation",
+    "Name": "",
+    "Id": "14",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Eine vierhändige Walzer-Improvisation (Aufgabenstellung für das untere Register)",
+        "Name": "Eine vierhändige Walzer-Improvisation (Aufgabenstellung für das untere Register)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-16.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-16_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Eine vierhändige Walzer-Improvisation (Aufgabenstellung für das obere Register)",
+        "Name": "Eine vierhändige Walzer-Improvisation (Aufgabenstellung für das obere Register)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-17.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-17_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Die Walzer-Improvisation zweihändig (Aufgabenstellung für eine Spielerin/einen Spieler)",
+        "Name": "Die Walzer-Improvisation zweihändig (Aufgabenstellung für eine Spielerin/einen Spieler)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-18.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-18_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Materialien zur Wazerimprovisation",
+        "Name": "Materialien zur Menuettimprovisation",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-12.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-12_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre stufenweise abwärts sequenzierter Quintfall Quintfallsequenz Menuett Mozart",
+    "Description": "Der stufenweise abwärts sequenzierte Quintfall (bzw. die Quintfallsequenz) anhand eines Menuetts von Mozart.",
+    "Name": "",
+    "Id": "17",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Der stufenweise abwärts sequenzierte Quintfall (bzw. die Quintfallsequenz)",
+        "Name": "Der stufenweise abwärts sequenzierte Quintfall (bzw. die Quintfallsequenz)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-19.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-19_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Menuett zum Spielen und Analysieren von Mozart (mit Quintfallsequenz)",
+        "Name": "Ein Menuett zum Spielen und Analysieren von Mozart (mit Quintfallsequenz)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-20.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-20_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Zur Analyse des Menuetts von Mozart und der Fantasia von Telemann",
+        "Name": "Zur Analyse des Menuetts von Mozart und der Fantasia von Telemann",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-11.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-11_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre diatonische Quintfallsequenz Tango Improvisation Zwischendominante",
+    "Description": "Die diatonische Quintfallsequenz und eine Tango-Improvisation",
+    "Name": "",
+    "Id": "19",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Der stufenweise abwärts sequenzierte Quintfall ohne Zwischendominanten (bzw. die diatonische Quintfallsequenz)",
+        "Name": "Der stufenweise abwärts sequenzierte Quintfall ohne Zwischendominanten (bzw. die diatonische Quintfallsequenz)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-21.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-21_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Eine Tango-Inmprovisation (mit Quintfallsequenz)",
+        "Name": "Eine Tango-Inmprovisation (mit Quintfallsequenz)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-22.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-22_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Materialien zur Tango-Improvisation (I)",
+        "Name": "Materialien zur Tango-Improvisation (I)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-12.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-12_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Materialien zur Tango-Improvisation (II) - Partitur vierhändig",
+        "Name": "Materialien zur Tango-Improvisation (II) - Partitur vierhändig",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-13.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-13_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Materialien zur Tango-Improvisation (III) - Stimme unten für vierhändiges Spiel",
+        "Name": "Materialien zur Tango-Improvisation (III) - Stimme unten für vierhändiges Spiel",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-14.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-14_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Materialien zur Tango-Improvisation (IV) - Stimme oben für vierhändiges Spiel",
+        "Name": "Materialien zur Tango-Improvisation (IV) - Stimme oben für vierhändiges Spiel",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-15.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-15_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre terzweise abwärts sequenzierte Quintfall diminuierte chromatische Parallelismus Präludium Bach Etüde Improvisation Zwischendominante",
+    "Description": "Der terzweise abwärts sequenzierte Quintfall (bzw. der diminuierte chromatische Parallelismus), ein Präludium von Bach und eine Etüden-Improvisation",
+    "Name": "",
+    "Id": "21",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Der terzweise abwärts sequenzierte Quintfall (bzw. der diminuierte chromatische Parallelismus)",
+        "Name": "Der terzweise abwärts sequenzierte Quintfall (bzw. der diminuierte chromatische Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-23.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-23_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Präludium zum Spielen und Analysieren von Bach (mit diminuierte chromatischem Parallelismus), Seite 1",
+        "Name": "Ein Präludium zum Spielen und Analysieren von Bach (mit diminuierte chromatischem Parallelismus), Seite 1",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-24.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-24_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Präludium zum Spielen und Analysieren von Bach (mit diminuierte chromatischem Parallelismus), Seite 2",
+        "Name": "Ein Präludium zum Spielen und Analysieren von Bach (mit diminuierte chromatischem Parallelismus), Seite 2",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-25.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-25_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Etüden-Improvisation (mit diminuiert-chromatischem Parallelismus)",
+        "Name": "Ein Etüden-Improvisation (mit diminuiert-chromatischem Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-26.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-26_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Zur Analyse des Präsludiums BWV 924 von J. S. Bach",
+        "Name": "Zur Analyse des Präsludiums BWV 924 von J. S. Bach",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-16.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-16_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre terzweise aufwärts sequenzierte Quintfall Parallelismus Schumann Arme Waisenkind Ragtime Improvisation Zwischendominante",
+    "Description": "Der terzweise aufwärts sequenzierte Quintfall (bzw. der Parallelismus), das Arme Waisenkind von R. Schumann und eine Ragtime-Improvisation",
+    "Name": "",
+    "Id": "25",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Der terzweise aufwärts sequenzierte Quintfall (bzw. der Parallelismus)",
+        "Name": "Der terzweise aufwärts sequenzierte Quintfall (bzw. der Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-27.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-27_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Das 'Arme Waisenkind' zum Spielen und Analysieren von Schumann (mit Parallelismus)",
+        "Name": "Das 'Arme Waisenkind' zum Spielen und Analysieren von Schumann (mit Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-28.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-28_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Eine Ragtime-Improvistaion (mit Parallelismus)",
+        "Name": "Eine Ragtime-Improvistaion (mit Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-29.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-29_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Zur Analyse: das ›Arme Waisenkind‹ von R. Schumann",
+        "Name": "Zur Analyse: das ›Arme Waisenkind‹ von R. Schumann",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-16.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-16_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Zur Ragtime-Improvisation (I)",
+        "Name": "Zur Ragtime-Improvisation (I)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-17.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-17_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Zur Ragtime-Improvisation (II) – Stimme unten für vierhändiges Spiel",
+        "Name": "Zur Ragtime-Improvisation (II) – Stimme unten für vierhändiges Spiel",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-18.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-18_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Zur Ragtime-Improvisation (III) – Stimme oben für vierhändiges Spiel",
+        "Name": "Zur Ragtime-Improvisation (III) – Stimme oben für vierhändiges Spiel",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-19.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-19_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Partitur zur Ragtime-Improvisation (IV)",
+        "Name": "Partitur zur Ragtime-Improvisation (IV)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-20.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-20_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre Quintstieg Allegro Händel Improvisation",
+    "Description": "Der Quintsieg (bzw. die Tonika-Dominante Verbindung oder der Halbschluss), ein Allegro von G. F. Händel und eine Improvisation nach Händels Muster",
+    "Name": "",
+    "Id": "28",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Der Quintsieg (bzw. die Tonika-Dominante Verbindung oder der Halbschluss)",
+        "Name": "Der Quintsieg (bzw. die Tonika-Dominante Verbindung oder der Halbschluss)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-30.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-30_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Improvisieren nach einem Muster von Händel (Improvisation für eine Spielerin/einen Spieler)",
+        "Name": "Improvisieren nach einem Muster von Händel (Improvisation für eine Spielerin/einen Spieler)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-31.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-31_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Notentext des Allegrosatzes von G. F. Händel (I)",
+        "Name": "Notentext des Allegrosatzes von G. F. Händel (I)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-21.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-21_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Notentext des Allegrosatzes von G. F. Händel (II)",
+        "Name": "Notentext des Allegrosatzes von G. F. Händel (II)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-22.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-22_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Zur Improvisatuion nach dem Muster des Allegrosatzes von G. F. Händel",
+        "Name": "Zur Improvisatuion nach dem Muster des Allegrosatzes von G. F. Händel",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-23.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-23_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre Quintstieg terzweise aufwärts sequenziert",
+    "Description": "Der Quintstieg terzweise aufwärts sequenziert",
+    "Name": "",
+    "Id": "30",
+    "Pages":
+    {
+      "Page":
+      {
+        "Description": "Der Quintstieg terzweise aufwärts sequenziert",
+        "Name": "Der Quintstieg terzweise aufwärts sequenziert",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-32.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-32_thumbnail.jpg"
+        }
+      }
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre Quintstieg terzweise aufwärts sequenziertQuintanstiegssequenz",
+    "Description": "Der Quintstieg sekundweise aufwärts sequenziert (bzw. die Quintanstiegssequenz)",
+    "Name": "",
+    "Id": "31",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Der Quintstieg sekund- und terzweiseweise aufwärts sequenziert (ein Modell)",
+        "Name": "Der Quintstieg sekund- und terzweiseweise aufwärts sequenziert (ein Modell)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-33.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-33_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Anmerkungen zum Modell",
+        "Name": "Anmerkungen zum Modell",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-23.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-23_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre Quintstieg terzweise abwärts sequenziert Parallelismus Sonate A-Dur Joseph Haydn Hob.XVI:19",
+    "Description": "Der Quintstieg terzweise abwärts sequenziert (bzw. der Parallelismus) und der Anfang eines Andantes von J. Haydn",
+    "Name": "",
+    "Id": "32",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Der Quintstieg terzweise abwärts sequenziert (bzw. der Parallelismus)",
+        "Name": "Der Quintstieg terzweise abwärts sequenziert (bzw. der Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-34.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-34_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Der Anfang eines Andantes zum Spielen und Analysieren aus einer Klaviersonate von Haydn (mit Parallelismus)",
+        "Name": "Der Anfang eines Andantes zum Spielen und Analysieren aus einer Klaviersonate von Haydn (mit Parallelismus)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-35.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-35_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Zur Analyse des Sonatensatzes aus der Klaviersonate D-Dur Hob.XVI:19 von J. Haydn",
+        "Name": "Zur Analyse des Sonatensatzes aus der Klaviersonate D-Dur Hob.XVI:19 von J. Haydn",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-24.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-24_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre Quintstieg sekundweise abwärts sequenziert Lamentobass",
+    "Description": "Der Quintstieg sekundweise abwärts sequenziert (bzw. eine Lamentobass-Harmonisierung) und ein Abschnitt aus einer Fantasie von J. P. Sweelinck",
+    "Name": "",
+    "Id": "34",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Der Quintstieg sekundweise abwärts sequenziert (bzw. eine Lamentobass-Harmonisierung)",
+        "Name": "Der Quintstieg sekundweise abwärts sequenziert (bzw. eine Lamentobass-Harmonisierung)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-36.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-36_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Ein Abschnitt zum Spielen und Analysieren aus einer Fantasie von Sweelinck (mit Lamentobass-Harmonisierungen)",
+        "Name": "Ein Abschnitt zum Spielen und Analysieren aus einer Fantasie von Sweelinck (mit Lamentobass-Harmonisierungen)",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-37.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-37_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Anmerkungen zum chromatischen Lamentobass",
+        "Name": "Anmerkungen zum chromatischen Lamentobass",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-24.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-24_thumbnail.jpg"
+        }
+      }]
+    }
+  },
+  {
+    "Parent": "Praktische Harmonielehre: Sequenzen (für Kinder)",
+    "Keywords": "Harmonielehre Improvisation Sequenzen Modelle Sarabande Georg Friedrich Händel",
+    "Description": "Eine Improvisations-Aufgabe unter Verwendung verschiedener Sequenzmodelle",
+    "Name": "",
+    "Id": "36",
+    "Pages":
+    {
+      "Page": [
+      {
+        "Description": "Eine Improvisations-Aufgabe unter Verwendung verschiedener Sequenzmodelle",
+        "Name": "Improvisations-Aufgabe unter Verwendung verschiedener Sequenzmodelle",
+        "Host": "Unterrichtsheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_unterrichtforkids-38.jpg",
+          "ImageSmall": "images/ob_sequenzen_unterrichtforkids-38_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Anmerkungen zur Sarabanden-Impovisation",
+        "Name": "Anmerkungen zur Sarabanden-Impovisation",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-25.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-25_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Stimme unten für das vierhändige Spiel einer Sarabanden-Impovisation (I)",
+        "Name": "Stimme unten für das vierhändige Spiel einer Sarabanden-Impovisation (I)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-26.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-26_thumbnail.jpg"
+        }
+      },
+      {
+        "Description": "Stimme oben für das vierhändige Spiel einer Sarabanden-Impovisation (II)",
+        "Name": "Stimme oben für das vierhändige Spiel einer Sarabanden-Impovisation (II)",
+        "Host": "Kommentarheft",
+        "Images":
+        {
+          "Image": "images/ob_sequenzen_kommentarforkids-27.jpg",
+          "ImageSmall": "images/ob_sequenzen_kommentarforkids-27_thumbnail.jpg"
+        }
+      }]
+    }
+  }]
+}
