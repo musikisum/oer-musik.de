@@ -135,18 +135,45 @@ function audioTrack(src, label) {
 
 function loadOpenBooks() {
   const dir = path.join(ROOT, 'data', 'openbooks');
-  const obs = fs.readdirSync(dir)
-    .filter(f => f.endsWith('.json'))
-    .map(f => { try { return JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')); } catch(e) { console.warn('parse error:', f); return null; } })
-    .filter(Boolean);
-  obs.sort((a,b) => a.Year < b.Year ? 1 : a.Year > b.Year ? -1 : 0);
-  return obs;
+  const allFiles = fs.readdirSync(dir).filter(f => f.endsWith('.json'));
+  const parse = f => { try { const ob = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')); ob._file = f; return ob; } catch(e) { console.warn('parse error:', f); return null; } };
+  const sortByYear = arr => arr.sort((a,b) => a.Year < b.Year ? 1 : a.Year > b.Year ? -1 : 0);
+
+  const orderFile = path.join(dir, 'order.txt');
+  if (fs.existsSync(orderFile)) {
+    const lines = fs.readFileSync(orderFile, 'utf8').split('\n').map(l => l.trim());
+    // Split by blank lines into groups; each group becomes one grid section
+    const groups = [];
+    let current = [];
+    for (const line of lines) {
+      if (line === '') {
+        if (current.length) { groups.push(current); current = []; }
+      } else if (line.endsWith('.json')) {
+        current.push(line);
+      }
+    }
+    if (current.length) groups.push(current);
+
+    const sectionTitles = ['Musik', 'Unterricht'];
+    const orderedSet = new Set(groups.flat());
+    const rest = sortByYear(allFiles.filter(f => !orderedSet.has(f)).map(parse).filter(Boolean));
+
+    const result = groups.map((files, i) => ({
+      title: sectionTitles[i] ?? null,
+      obs: files.map(parse).filter(Boolean)
+    }));
+    if (rest.length) result.push({ title: null, obs: rest });
+    return { groups: result, all: result.flatMap(g => g.obs) };
+  }
+
+  const obs = sortByYear(allFiles.map(parse).filter(Boolean));
+  return { groups: [{ title: null, obs }], all: obs };
 }
 
 // ==================== HOMEPAGE ====================
 
-function genIndex(openBooks) {
-  const grid = openBooks.map(ob => {
+function genIndex({ groups, all }) {
+  const renderOb = ob => {
     let tooltip = `<strong>${esc(ob.Title)}</strong><br><br>${esc(ob.Description || '')}`;
     for (const s of (ob.Supported || [])) {
       if (s.Text) tooltip += `<br><p>${esc(s.Text)}</p>`;
@@ -162,6 +189,11 @@ function genIndex(openBooks) {
       </a>
       <p>${esc(ob.Title)}, ${ed}${esc(ob.Year)}</p>
     </div>`;
+  };
+
+  const sections = groups.map(g => {
+    const heading = g.title ? `    <h2 class="gridSectionHeading">${esc(g.title)}</h2>\n` : '';
+    return `${heading}    <div class="indexGridBox">\n${g.obs.map(renderOb).join('\n')}\n    </div>`;
   }).join('\n');
 
   const body = `    <div class="jumbotron">
@@ -169,13 +201,11 @@ function genIndex(openBooks) {
       <h1>Open Educational Resources zur Musik</h1>
       <h2>von Ulrich Kaiser</h2>
       <p class="jumbotron-text">
-        Die OpenBooks auf dieser Seite werden unter der Lizenz CC BY-SA zur Verfügung gestellt.
-        Aktuell sind <span class="obHighlighted">&nbsp;${openBooks.length} OpenBooks&nbsp;</span> verfügbar!
+        Die OpenBooks auf dieser Seite werden unter Creative-Commons-Lizenz zur Verfügung gestellt.<br/>
+        Aktuell sind <span class="obHighlighted">&nbsp;${all.length} OpenBooks&nbsp;</span> verfügbar!
       </p>
     </div>
-    <div class="indexGridBox">
-${grid}
-    </div>`;
+${sections}`;
 
   write(path.join(DIST,'index.html'), page({
     title:'OER | Ulrich Kaiser',
@@ -1039,13 +1069,13 @@ function main() {
   mkdirp(DIST);
 
   const openBooks = loadOpenBooks();
-  console.log(`Loaded ${openBooks.length} OpenBooks`);
+  console.log(`Loaded ${openBooks.all.length} OpenBooks`);
 
   console.log('\nGenerating homepage...');
   genIndex(openBooks);
 
   console.log('\nGenerating OpenBook detail pages...');
-  for (const ob of openBooks) genOerPage(ob);
+  for (const ob of openBooks.all) genOerPage(ob);
 
   console.log('\nGenerating static pages...');
   genWarum();
