@@ -1100,15 +1100,27 @@ function main() {
 
   gen404();
 
-  // Create junctions in dist/ for static asset folders (enables Live Server testing)
+  // Create junctions in dist/ for large static asset folders (enables Live Server testing)
   console.log('\nLinking static assets into dist/...');
-  for (const dir of ['images', 'data', 'publicfiles', 'fonts', 'js']) {
+  for (const dir of ['images', 'data', 'publicfiles']) {
     const target = path.join(ROOT, 'static', dir);
     const link = path.join(DIST, dir);
     if (fs.existsSync(target) && !fs.existsSync(link)) {
       fs.symlinkSync(target, link, 'junction');
       console.log('  linked', dir);
     }
+  }
+
+  // Copy small asset folders into dist/ so FTP upload works without following symlinks
+  for (const dir of ['fonts', 'js']) {
+    const src = path.join(ROOT, 'static', dir);
+    const dst = path.join(DIST, dir);
+    if (!fs.existsSync(src)) continue;
+    mkdirp(dst);
+    for (const file of fs.readdirSync(src)) {
+      fs.copyFileSync(path.join(src, file), path.join(dst, file));
+    }
+    console.log('  copied', dir);
   }
 
   // Copy Web.config for IIS/1&1 Windows hosting
