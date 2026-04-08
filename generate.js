@@ -71,9 +71,6 @@ function page({ title, desc, keywords, copyright = 'Ulrich Kaiser, 2011', body, 
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
   <link rel="manifest" href="/images/favicon/site.webmanifest">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/style.css">
 </head>
 <body>
@@ -263,7 +260,7 @@ function genOerPage(ob) {
     </div>`;
 
   const extraScripts = allImages.length
-    ? '<script src="https://cdn.jsdelivr.net/npm/page-flip@2.0.7/dist/js/page-flip.browser.js"></script>'
+    ? '<script src="/js/page-flip.browser.js"></script>'
     : '';
 
   write(path.join(DIST, ob.Url, 'index.html'), page({
@@ -1105,7 +1102,7 @@ function main() {
 
   // Create junctions in dist/ for static asset folders (enables Live Server testing)
   console.log('\nLinking static assets into dist/...');
-  for (const dir of ['images', 'data', 'publicfiles']) {
+  for (const dir of ['images', 'data', 'publicfiles', 'fonts', 'js']) {
     const target = path.join(ROOT, 'static', dir);
     const link = path.join(DIST, dir);
     if (fs.existsSync(target) && !fs.existsSync(link)) {
