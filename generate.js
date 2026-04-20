@@ -1100,26 +1100,23 @@ function main() {
 
   gen404();
 
-  // Create junctions in dist/ for large static asset folders (enables Live Server testing)
-  console.log('\nLinking static assets into dist/...');
-  for (const dir of ['images', 'data', 'publicfiles']) {
-    const target = path.join(ROOT, 'static', dir);
-    const link = path.join(DIST, dir);
-    if (fs.existsSync(target) && !fs.existsSync(link)) {
-      fs.symlinkSync(target, link, 'junction');
-      console.log('  linked', dir);
+  // Copy static asset folders into dist/
+  function copyDir(src, dst) {
+    mkdirp(dst);
+    for (const entry of fs.readdirSync(src, { withFileTypes: true })) {
+      const s = path.join(src, entry.name);
+      const d = path.join(dst, entry.name);
+      if (entry.isDirectory()) copyDir(s, d);
+      else fs.copyFileSync(s, d);
     }
   }
 
-  // Copy small asset folders into dist/ so FTP upload works without following symlinks
-  for (const dir of ['fonts', 'js']) {
+  console.log('\nCopying static assets into dist/...');
+  for (const dir of ['images', 'fonts', 'js', 'data', 'publicfiles']) {
     const src = path.join(ROOT, 'static', dir);
     const dst = path.join(DIST, dir);
     if (!fs.existsSync(src)) continue;
-    mkdirp(dst);
-    for (const file of fs.readdirSync(src)) {
-      fs.copyFileSync(path.join(src, file), path.join(dst, file));
-    }
+    copyDir(src, dst);
     console.log('  copied', dir);
   }
 

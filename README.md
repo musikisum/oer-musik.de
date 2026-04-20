@@ -1,5 +1,5 @@
 # oer-musik.de
 
-![oer-musik.de](https://bitbucket.org/musikisum/oer-musik.de/raw/master/Screenshot.png)
+![oer-musik.de](static/images/website-screenshot.jpg)
 
-Relaunch of the cc0.oer-musik.de website based on gatsby for providing classical public domain music.
+Website for OpenBooks von Ulrich Kaiser.
