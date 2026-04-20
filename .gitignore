@@ -13,6 +13,7 @@ WORKFLOW.txt
 # Tool caches
 .cache/
 .claude/
+node_modules/
 
 # Static large/binary assets not in repo
 static/data/

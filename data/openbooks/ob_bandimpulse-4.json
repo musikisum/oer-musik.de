@@ -1,637 +1,588 @@
 {
-  "Url": "oer-band-impulse-heft-4-gehoerbildung-und-musiklehre",
+  "Url": "https://openmusic.academy/docs/frJBW2WRny1AZnPvoatiYd/",
   "Title": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
   "Year": "2016",
   "Author": "Ulrich Kaiser",
   "City": "Karlsfeld",
-  "Edition": "1",    
+  "Edition": "1",
   "Downloads": [
-    { "Text": "Download des Unterrichtshefts (4 MB)", "Link": "releases/Kaiser_GehoerbildungMusiklehre-UebungenInDur.pdf" }
+    {
+      "Text": "Download des Unterrichtshefts (4 MB)",
+      "Link": "releases/Kaiser_GehoerbildungMusiklehre-UebungenInDur.pdf"
+    }
   ],
   "Additionals": [],
   "Description": "Musikheft für die Bandklasse. Eine Open Educational Resource (OER) für allgemeinbildende Schulen.",
   "Keywords": "Musikheft, Bandklasse, OER, Schule, Unterrichtsheft",
   "Image": "kaiser_openBookBandImpulse-4.jpg",
-  "Folderpath": "/data/openbooks/bandimpulse-4/",
+  "Folderpath": "",
   "Sections": [
-  {
-    "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
-    "Keywords": "Slideshow",
-    "Description": "Slideshow für ganze Heft",
-    "Id": "1",
-    "Pages":
     {
-      "Page": [
-      {
-        "Description": "Umschlagseite Vorderseite (U1)",
-        "Name": "Umschlagseite Vorderseite (U1)",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-1.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-1_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Inhaltsverzeichnis",
-        "Name": "Inhaltsverzeichnis",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-4.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-4_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Vorwort",
-        "Name": "Vorwort",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-5.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-5_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 4",
-        "Name": "Seite 4",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-6.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-6_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 5",
-        "Name": "Seite 5",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-7.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-7_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 6",
-        "Name": "Seite 6",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-8.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-8_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 7",
-        "Name": "Seite 7",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-9.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-9_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 8",
-        "Name": "Seite 8",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-10.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-10_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 9",
-        "Name": "Seite 9",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-11.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-11_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 10",
-        "Name": "Seite 10",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-12.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-12_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 11",
-        "Name": "Seite 11",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-13.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-13_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 12",
-        "Name": "Seite 12",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-14.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-14_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 13",
-        "Name": "Seite 13",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-15.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-15_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 14",
-        "Name": "Seite 14",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-16.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-16_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 15",
-        "Name": "Seite 15",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-17.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-17_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 16",
-        "Name": "Seite 16",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-18.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-18_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 17",
-        "Name": "Seite 17",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-19.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-19_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 18",
-        "Name": "Seite 18",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-20.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-20_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 19",
-        "Name": "Seite 19",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-21.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-21_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 20",
-        "Name": "Seite 20",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-22.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-22_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 21",
-        "Name": "Seite 21",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-23.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-23_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 22",
-        "Name": "Seite 22",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-24.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-24_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 23",
-        "Name": "Seite 23",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-25.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-25_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Seite 24",
-        "Name": "Seite 24",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-26.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-26_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Umschlagrückseite (U4)",
-        "Name": "Umschlagrückseite (U4)",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-28.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-28_thumbnail.jpg"
-        }
-      }]
-    }
-  },
-  {
-    "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
-    "Keywords": "Umschlagseiten",
-    "Description": "Umschlagseiten und die jeweils ersten Seiten des Innenteils.",
-    "Id": "2",
-    "Pages":
+      "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
+      "Keywords": "Slideshow",
+      "Description": "Slideshow für ganze Heft",
+      "Id": "1",
+      "Pages": {
+        "Page": [
+          {
+            "Description": "Umschlagseite Vorderseite (U1)",
+            "Name": "Umschlagseite Vorderseite (U1)",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-1.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-1_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Inhaltsverzeichnis",
+            "Name": "Inhaltsverzeichnis",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-4.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-4_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Vorwort",
+            "Name": "Vorwort",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-5.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-5_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 4",
+            "Name": "Seite 4",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-6.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-6_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 5",
+            "Name": "Seite 5",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-7.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-7_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 6",
+            "Name": "Seite 6",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-8.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-8_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 7",
+            "Name": "Seite 7",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-9.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-9_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 8",
+            "Name": "Seite 8",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-10.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-10_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 9",
+            "Name": "Seite 9",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-11.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-11_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 10",
+            "Name": "Seite 10",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-12.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-12_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 11",
+            "Name": "Seite 11",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-13.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-13_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 12",
+            "Name": "Seite 12",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-14.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-14_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 13",
+            "Name": "Seite 13",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-15.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-15_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 14",
+            "Name": "Seite 14",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-16.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-16_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 15",
+            "Name": "Seite 15",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-17.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-17_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 16",
+            "Name": "Seite 16",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-18.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-18_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 17",
+            "Name": "Seite 17",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-19.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-19_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 18",
+            "Name": "Seite 18",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-20.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-20_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 19",
+            "Name": "Seite 19",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-21.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-21_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 20",
+            "Name": "Seite 20",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-22.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-22_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 21",
+            "Name": "Seite 21",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-23.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-23_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 22",
+            "Name": "Seite 22",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-24.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-24_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 23",
+            "Name": "Seite 23",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-25.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-25_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Seite 24",
+            "Name": "Seite 24",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-26.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-26_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Umschlagrückseite (U4)",
+            "Name": "Umschlagrückseite (U4)",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-28.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-28_thumbnail.jpg"
+            }
+          }
+        ]
+      }
+    },
     {
-      "Page": [
-      {
-        "Description": "Umschlagseite Vorderseite (U1)",
-        "Name": "Umschlagseite Vorderseite (U1)",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-1.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-1_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Umschlagseite Rückseite (U2)",
-        "Name": "Umschlagseite Rückseite (U2)",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-2.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-2_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Erste Seite des Innenteils",
-        "Name": "Erste Seite des Innenteils",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-3.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-3_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Rückseite Innenseite (U3)",
-        "Name": "Rückseite Innenseite (U3)",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-27.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-27_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Rückseite (U4)",
-        "Name": "Rückseite (U4)",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-28.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-28_thumbnail.jpg"
-        }
-      }]
-    }
-  },
-  {
-    "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
-    "Keywords": "Inhaltsverzeichnis Vorwort",
-    "Description": "Inhaltsverzeichnis und Vorwort",
-    "Id": "3",
-    "Pages":
+      "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
+      "Keywords": "Umschlagseiten",
+      "Description": "Umschlagseiten und die jeweils ersten Seiten des Innenteils.",
+      "Id": "2",
+      "Pages": {
+        "Page": [
+          {
+            "Description": "Umschlagseite Vorderseite (U1)",
+            "Name": "Umschlagseite Vorderseite (U1)",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-1.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-1_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Umschlagseite Rückseite (U2)",
+            "Name": "Umschlagseite Rückseite (U2)",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-2.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-2_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Erste Seite des Innenteils",
+            "Name": "Erste Seite des Innenteils",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-3.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-3_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Rückseite Innenseite (U3)",
+            "Name": "Rückseite Innenseite (U3)",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-27.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-27_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Rückseite (U4)",
+            "Name": "Rückseite (U4)",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-28.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-28_thumbnail.jpg"
+            }
+          }
+        ]
+      }
+    },
     {
-      "Page": [
-      {
-        "Description": "Inhaltsverzeichnis",
-        "Name": "Inhaltsverzeichnis",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-4.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-4_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Vorwort",
-        "Name": "Vorwort",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-5.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-5_thumbnail.jpg"
-        }
-      }]
-    }
-  },
-  {
-    "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
-    "Keywords": "Notenschlüssel Notennamen",
-    "Description": "Notenschlüssel und Notennamen",
-    "Id": "4",
-    "Pages":
+      "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
+      "Keywords": "Inhaltsverzeichnis Vorwort",
+      "Description": "Inhaltsverzeichnis und Vorwort",
+      "Id": "3",
+      "Pages": {
+        "Page": [
+          {
+            "Description": "Inhaltsverzeichnis",
+            "Name": "Inhaltsverzeichnis",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-4.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-4_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Vorwort",
+            "Name": "Vorwort",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-5.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-5_thumbnail.jpg"
+            }
+          }
+        ]
+      }
+    },
     {
-      "Page": [
-      {
-        "Description": "Erklärungen zu den Schlüsseln",
-        "Name": "Erklärungen zu den Schlüsseln",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-6.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-6_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Anleitung zum Violinschlüssel",
-        "Name": "Anleitung zum Violinschlüssel",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-7.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-7_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Anleitung zum Bassschlüssel (F-Schlüssel)",
-        "Name": "Anleitung zum Bassschlüssel (F-Schlüssel)",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-8.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-8_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Übungen zu den Schlüsseln",
-        "Name": "Übungen zu den Schlüsseln",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-9.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-9_thumbnail.jpg"
-        }
-      }]
-    }
-  },
-  {
-    "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
-    "Keywords": "5 fünf Tonreihe Dur",
-    "Description": "Die 5-Ton-Reihe in Dur",
-    "Id": "8",
-    "Pages":
+      "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
+      "Keywords": "Notenschlüssel Notennamen",
+      "Description": "Notenschlüssel und Notennamen",
+      "Id": "4",
+      "Pages": {
+        "Page": [
+          {
+            "Description": "Erklärungen zu den Schlüsseln",
+            "Name": "Erklärungen zu den Schlüsseln",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-6.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-6_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Anleitung zum Violinschlüssel",
+            "Name": "Anleitung zum Violinschlüssel",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-7.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-7_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Anleitung zum Bassschlüssel (F-Schlüssel)",
+            "Name": "Anleitung zum Bassschlüssel (F-Schlüssel)",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-8.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-8_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Übungen zu den Schlüsseln",
+            "Name": "Übungen zu den Schlüsseln",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-9.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-9_thumbnail.jpg"
+            }
+          }
+        ]
+      }
+    },
     {
-      "Page": [
-      {
-        "Description": "Erläuterungen zur Fünftonreihe in Dur",
-        "Name": "Erläuterungen zur Fünftonreihe in Dur",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-10.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-10_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Aufgaben 'Hören und Singen' zur Fünftonreihe in Dur",
-        "Name": "Aufgaben 'Hören und Singen' zur Fünftonreihe in Dur",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-11.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-11_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Aufgaben (I) 'Singen und Notieren' zur Fünftonreihe in Dur",
-        "Name": "Aufgaben 'Singen und Notieren' zur Fünftonreihe in Dur",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-12.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-12_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Aufgaben (II) 'Singen und Notieren' zur Fünftonreihe in Dur",
-        "Name": "Aufgaben 'Singen und Notieren' zur Fünftonreihe in Dur",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-13.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-13_thumbnail.jpg"
-        }
-      }]
-    }
-  },
-  {
-    "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
-    "Keywords": "6 sechs Tonreihe Dur",
-    "Description": "Die 6-Ton-Reihe in Dur",
-    "Id": "12",
-    "Pages":
+      "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
+      "Keywords": "5 fünf Tonreihe Dur",
+      "Description": "Die 5-Ton-Reihe in Dur",
+      "Id": "8",
+      "Pages": {
+        "Page": [
+          {
+            "Description": "Erläuterungen zur Fünftonreihe in Dur",
+            "Name": "Erläuterungen zur Fünftonreihe in Dur",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-10.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-10_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Aufgaben 'Hören und Singen' zur Fünftonreihe in Dur",
+            "Name": "Aufgaben 'Hören und Singen' zur Fünftonreihe in Dur",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-11.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-11_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Aufgaben (I) 'Singen und Notieren' zur Fünftonreihe in Dur",
+            "Name": "Aufgaben 'Singen und Notieren' zur Fünftonreihe in Dur",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-12.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-12_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Aufgaben (II) 'Singen und Notieren' zur Fünftonreihe in Dur",
+            "Name": "Aufgaben 'Singen und Notieren' zur Fünftonreihe in Dur",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-13.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-13_thumbnail.jpg"
+            }
+          }
+        ]
+      }
+    },
     {
-      "Page": [
-      {
-        "Description": "Erläuterungen zur Sechstonreihe in Dur",
-        "Name": "Erläuterungen zur Sechstonreihe in Dur",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-14.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-14_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Aufgaben 'Hören und Singen' zur Sechstonreihe in Dur",
-        "Name": "Aufgaben 'Hören und Singen' zur Sechstonreihe in Dur",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-15.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-15_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Aufgaben (I) 'Singen und Notieren' zur Sechstonreihe in Dur",
-        "Name": "Aufgaben 'Singen und Notieren' zur Sechstonreihe in Dur",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-16.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-16_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Aufgaben (II) 'Singen und Notieren' zur Sechstonreihe in Dur",
-        "Name": "Aufgaben 'Singen und Notieren' zur Sechstonreihe in Dur",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-17.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-17_thumbnail.jpg"
-        }
-      }]
-    }
-  },
-  {
-    "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
-    "Keywords": "Dur Tonleiter",
-    "Description": "Die Dur-Tonleiter",
-    "Id": "16",
-    "Pages":
+      "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
+      "Keywords": "6 sechs Tonreihe Dur",
+      "Description": "Die 6-Ton-Reihe in Dur",
+      "Id": "12",
+      "Pages": {
+        "Page": [
+          {
+            "Description": "Erläuterungen zur Sechstonreihe in Dur",
+            "Name": "Erläuterungen zur Sechstonreihe in Dur",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-14.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-14_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Aufgaben 'Hören und Singen' zur Sechstonreihe in Dur",
+            "Name": "Aufgaben 'Hören und Singen' zur Sechstonreihe in Dur",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-15.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-15_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Aufgaben (I) 'Singen und Notieren' zur Sechstonreihe in Dur",
+            "Name": "Aufgaben 'Singen und Notieren' zur Sechstonreihe in Dur",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-16.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-16_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Aufgaben (II) 'Singen und Notieren' zur Sechstonreihe in Dur",
+            "Name": "Aufgaben 'Singen und Notieren' zur Sechstonreihe in Dur",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-17.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-17_thumbnail.jpg"
+            }
+          }
+        ]
+      }
+    },
     {
-      "Page": [
-      {
-        "Description": "Die Dur-Tonleiter",
-        "Name": "Die Dur-Tonleiter",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-18.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-18_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Aufgaben 'Hören und Singen' zur Durtonleiter",
-        "Name": "Aufgaben 'Hören und Singen' zur zur Durtonleiter",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-19.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-19_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Aufgaben (I) 'Singen und Notieren' zur Durtonleiter",
-        "Name": "Aufgaben 'Singen und Notieren' zur Sechstonreihe in Dur",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-20.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-20_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Aufgaben (II) 'Singen und Notieren' zur Durtonleiter",
-        "Name": "Aufgaben 'Singen und Notieren' zur Sechstonreihe in Dur",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-21.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-21_thumbnail.jpg"
-        }
-      }]
-    }
-  },
-  {
-    "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
-    "Keywords": "Tonleiter Tonart Vorzeichen",
-    "Description": "Tonleiter, Tonart und Vorzeichen",
-    "Id": "20",
-    "Pages":
+      "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
+      "Keywords": "Dur Tonleiter",
+      "Description": "Die Dur-Tonleiter",
+      "Id": "16",
+      "Pages": {
+        "Page": [
+          {
+            "Description": "Die Dur-Tonleiter",
+            "Name": "Die Dur-Tonleiter",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-18.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-18_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Aufgaben 'Hören und Singen' zur Durtonleiter",
+            "Name": "Aufgaben 'Hören und Singen' zur zur Durtonleiter",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-19.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-19_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Aufgaben (I) 'Singen und Notieren' zur Durtonleiter",
+            "Name": "Aufgaben 'Singen und Notieren' zur Sechstonreihe in Dur",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-20.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-20_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Aufgaben (II) 'Singen und Notieren' zur Durtonleiter",
+            "Name": "Aufgaben 'Singen und Notieren' zur Sechstonreihe in Dur",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-21.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-21_thumbnail.jpg"
+            }
+          }
+        ]
+      }
+    },
     {
-      "Page": [
-      {
-        "Description": "Tonleiter und Tonart",
-        "Name": "Tonleiter und Tonart",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-22.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-22_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Erhöhen und Erndiedrigen (# und b)",
-        "Name": "Erhöhen und Erndiedrigen (# und b)",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-23.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-23_thumbnail.jpg"
-        }
-      }]
-    }
-  },
-  {
-    "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
-    "Keywords": "Dur Tonleiter Vorzeichen ausrechnen bestimmen",
-    "Description": "Vorzeichen der Durtonleitern errechnen",
-    "Id": "22",
-    "Pages":
+      "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
+      "Keywords": "Tonleiter Tonart Vorzeichen",
+      "Description": "Tonleiter, Tonart und Vorzeichen",
+      "Id": "20",
+      "Pages": {
+        "Page": [
+          {
+            "Description": "Tonleiter und Tonart",
+            "Name": "Tonleiter und Tonart",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-22.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-22_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Erhöhen und Erndiedrigen (# und b)",
+            "Name": "Erhöhen und Erndiedrigen (# und b)",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-23.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-23_thumbnail.jpg"
+            }
+          }
+        ]
+      }
+    },
     {
-      "Page": [
-      {
-        "Description": "Errechnen der Vorzeichen für Dur-Tonarten mit #-Vorzeichnung",
-        "Name": "Errechnen der Vorzeichen für Dur-Tonarten mit #-Vorzeichnung",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-24.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-24_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Errechnen der Vorzeichen für Dur-Tonarten mit b-Vorzeichnung",
-        "Name": "Errechnen der Vorzeichen für Dur-Tonarten mit b-Vorzeichnung",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-25.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-25_thumbnail.jpg"
-        }
-      },
-      {
-        "Description": "Übersichtstabelle zu den Vorzeichen der Dur-Tonarten",
-        "Name": "Übersichtstabelle zu den Vorzeichen der Dur-Tonarten",
-        "Host": "Unterrichtsheft",
-        "Images":
-        {
-          "Image": "images/ob_bandimpulse4-26.jpg",
-          "ImageSmall": "images/ob_bandimpulse4-26_thumbnail.jpg"
-        }
-      }]
+      "Parent": "Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur",
+      "Keywords": "Dur Tonleiter Vorzeichen ausrechnen bestimmen",
+      "Description": "Vorzeichen der Durtonleitern errechnen",
+      "Id": "22",
+      "Pages": {
+        "Page": [
+          {
+            "Description": "Errechnen der Vorzeichen für Dur-Tonarten mit #-Vorzeichnung",
+            "Name": "Errechnen der Vorzeichen für Dur-Tonarten mit #-Vorzeichnung",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-24.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-24_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Errechnen der Vorzeichen für Dur-Tonarten mit b-Vorzeichnung",
+            "Name": "Errechnen der Vorzeichen für Dur-Tonarten mit b-Vorzeichnung",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-25.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-25_thumbnail.jpg"
+            }
+          },
+          {
+            "Description": "Übersichtstabelle zu den Vorzeichen der Dur-Tonarten",
+            "Name": "Übersichtstabelle zu den Vorzeichen der Dur-Tonarten",
+            "Host": "Unterrichtsheft",
+            "Images": {
+              "Image": "images/ob_bandimpulse4-26.jpg",
+              "ImageSmall": "images/ob_bandimpulse4-26_thumbnail.jpg"
+            }
+          }
+        ]
+      }
     }
-  }]
+  ]
 }

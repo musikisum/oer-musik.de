@@ -23,10 +23,7 @@ function esc(str) {
 const MENU_ITEMS = [
   { label: 'Home', href: '/' },
   { label: 'Warum?', href: '/warum' },
-  { label: 'Extras', href: '/extras' },
   { label: 'Feedback', href: '/feedback' },
-  { label: 'News', href: '/news' },
-  { label: 'Print', href: '/print' },
   { label: 'Errata', href: '/errata' },
   { label: 'Roadmap', href: '/roadmap' },
   { label: 'Impressum', href: '/impressum' },
@@ -312,27 +309,6 @@ function genWarum() {
   }));
 }
 
-function genExtras() {
-  const body = `    <div class="jumbotron">
-      <a href="/" class="closeX"><span>X</span></a>
-      <div>${menu('/extras')}</div>
-      <h1>Software, Spiele und...</h1>
-    </div>
-    <div class="gridBox">
-      <div class="gridFraction"><a href="/videos"><img src="/images/film-ob-image.png" alt="Videos"></a></div>
-      <div class="gridFraction"><div>Hier können Sie sich einige <a href="/videos">Videos</a> anschauen, die im Umfang der OER entstanden sind.</div></div>
-      <div class="gridFraction"><a href="/software"><img src="/images/softwareImage.png" alt="Software"></a></div>
-      <div class="gridFraction"><div>Hier finden Sie <a href="/software">Software</a>, die für einige OpenBooks programmiert worden ist.</div></div>
-      <div class="gridFraction"><a href="https://musikanalyse.net/materialien/"><img src="/images/klangundakkord.png" alt="Arbeitsbögen"></a></div>
-      <div class="gridFraction"><div>Arbeitsbögen, die bisher auf dieser Website bereitgestellt worden sind, wurden mit den Arbeitsbögen auf <i>musikanalyse.net</i> zusammengeführt. Sie können sich diese Materialien <a href="https://musikanalyse.net/materialien/">hier</a> herunterladen.</div></div>
-    </div>`;
-  write(path.join(DIST,'extras','index.html'), page({
-    title:'OER | Ulrich Kaiser - Extras',
-    desc:'Hier finden Sie eine Übersicht zu den Extras, die im Zusammenhang mit den OpenBooks (OER) von Ulrich Kaiser veröffentlicht worden sind.',
-    keywords:'Extras, Übersicht, OER, Open Educational Resources, OpenBooks', body
-  }));
-}
-
 function genFeedback() {
   const items = [
     'Sehr geehrter Herr Prof. Kaiser, ich möchte Ihnen auf diesem Weg einfach "mal Danke" sagen für das überaus hilfreiche Material, das Sie zur Verfügung stellen. Das Openbook Filmmusik habe ich während der Schulschließung und darüber hinaus eingesetzt und die Arbeit damit verläuft mehr als zufriedenstellend (was im Lehrer*innenalltag nun wirklich nicht häufig und selbstverständlich ist) - selbst den Schüler*innen macht es Spaß - jetzt könnte ich die Klammer wiederholen ;-) Abgesehen ist es didaktisch sinnvoll aufbereitet, hat das nötige Maß zwischen fachlichen Inhalten und kreativen Spielräumen und die Beispiele sind wirklich nahe an der Erlebniswelt der Schüler*innen. Herzlichen Dank!',
@@ -377,177 +353,6 @@ function genFeedback() {
   }));
 }
 
-function genNews() {
-  const entries = [
-    { pdf:'/publicfiles/019_2021-04-18.pdf', text:'<a href="/publicfiles/019_2021-04-18.pdf">Newsletter Nr. 19</a> zur Veröffentlichung des OpenBooks <a href="/oer-walzer-von-brahms-arrangiert-fuer-zwei-violinen/">J. Brahms. Walzer aus Op. 39 arrangiert für 2 Violinen</a> (=OpenBook 17/1), Karlsfeld 2021.' },
-    { pdf:'/publicfiles/018_2020-09-21.pdf', text:'<a href="/publicfiles/018_2020-09-21.pdf">Newsletter Nr. 18</a> zur Veröffentlichung des OpenBooks <a href="/filmmusik/">Filmmusik</a> (=OpenBook 15), Karlsfeld 2020.' },
-    { pdf:'/publicfiles/017_2019-03-04.pdf', text:'<a href="/publicfiles/017_2019-03-04.pdf">Newsletter Nr. 17</a> zur Veröffentlichung des Musikhefts <a href="/formenlehre/">Formenlehre der Musik</a> (=OpenBook 13), Karlsfeld 2019.' },
-    { pdf:'/publicfiles/016_2017-10-28.pdf', text:'<a href="/publicfiles/016_2017-10-28.pdf">Newsletter Nr. 16</a> zur Veröffentlichung der Musikhefte <a href="/carmensuite/">George Bizet. Carmen zu einer Suite arrangiert von Ulrich Kaiser</a> (=OpenBook 18/2) und <a href="/happyforchoir/">Kanon und 8 Variationen über Happy Birthday To You für vierstimmig gemischten Chor</a> (=OpenBook 14/2), Karlsfeld 2017.' },
-    { pdf:'/publicfiles/015_2017-02-18.pdf', text:'<a href="/publicfiles/015_2017-02-18.pdf">Newsletter Nr. 15</a> zur Veröffentlichung des Musikheftes <a href="/oer-johannes-brahms-ungarischer-tanz-5/">Johannes Brahms. Ungarischer Tanz Nr. 5 arrangiert und mit einer Einleitung versehen von Ulrich Kaiser</a> (=OpenBook 18/1), Karlsfeld 2017.' },
-    { pdf:'/publicfiles/014_2017-01-01.pdf', text:'<a href="/publicfiles/014_2017-01-01.pdf">Newsletter Nr. 14</a> zur Veröffentlichung des Musikheftes <a href="/happyfortwo/">Thema und 12 Variationen über ›Happy Birthday To You‹ für zwei beliebige Melodieinstrumente</a> (=OpenBook 14/1), Karlsfeld 2017.' },
-    { pdf:'/publicfiles/013_2016-10-11.pdf', text:'<a href="/publicfiles/013_2016-10-11.pdf">Newsletter Nr. 13</a> zur Veröffentlichung des Musikheftes <a href="/transponierendeinstrumente/">Orchesterinstrumente. Transponierende Instrumente</a> (=OpenBook 16), Karlsfeld 2016.' },
-    { pdf:'/publicfiles/012_2016-07-16.pdf', text:'<a href="/publicfiles/012_2016-07-16.pdf">Newsletter Nr. 12</a> zur Veröffentlichung des Musikheftes <a href="/harmonielehre/">Harmonielehre #reloaded</a> (=OpenBook 12), Karlsfeld 2016.' },
-    { pdf:'/publicfiles/011_2016-02-26.pdf', text:'<a href="/publicfiles/011_2016-02-26.pdf">Newsletter Nr. 11</a> zur Veröffentlichung des Musikheftes <a href="/bandimpulse4/">Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur</a> (=OpenBook 9 / Heft4), Karlsfeld 2016.' },
-    { pdf:'/publicfiles/010_2015-12-13.pdf', text:'<a href="/publicfiles/010_2015-12-13.pdf">Newsletter Nr. 10</a> zur Veröffentlichung des Musikheftes <a href="/inventionen/">Inventionen plus One. Kammermusik mit Johann Sebastian Bach</a> (=OpenBook 11), Karlsfeld 2015.' },
-    { pdf:'/publicfiles/009_2015-12-07.pdf', text:'<a href="/publicfiles/009_2015-12-07.pdf">Newsletter Nr. 9</a> zur Veröffentlichung des Musikheftes <a href="/bandImpulse3/">Band-Impulse. Heft 3: Pattern und Styles 1 (Pop und Rap)</a> (=OpenBook 9 / Heft3), Karlsfeld 2015.' },
-    { pdf:'/publicfiles/008_2015-09-21.pdf', text:'<a href="/publicfiles/008_2015-09-21.pdf">Newsletter Nr. 8</a> zur Veröffentlichung des Musikheftes <a href="/bandImpulse2/">Band-Impulse. Heft 2: Elise In Black</a> (=OpenBook 9 / Heft2), Karlsfeld 2015.' },
-    { pdf:'/publicfiles/007_2015-07-12.pdf', text:'<a href="/publicfiles/007_2015-07-12.pdf">Newsletter Nr. 7</a> zum Relaunch der Website sowie zur Veröffentlichung des Musikheftes <a href="/Kinderhauslied/">Das Kinderhauslied.</a> (=OpenBook 10), Karlsfeld 2015.' },
-    { pdf:'/publicfiles/006_2015-06-11.pdf', text:'<a href="/publicfiles/006_2015-06-11.pdf">Newsletter Nr. 6</a> zur Veröffentlichung des Musikheftes <a href="/bandImpulse1/">Band-Impulse. Heft 1: That Image.</a> (=OpenBook 9 / Heft1), Karlsfeld 2015.' },
-    { pdf:'/publicfiles/005_2015-04-05.pdf', text:'<a href="/publicfiles/005_2015-04-05.pdf">Newsletter Nr. 5</a> zur Veröffentlichung des Heftes <a href="/harmonieundform/">Harmonielehre. Harmonie und Form für Kompositionen in Dur</a> (=OpenBook 8), Karlsfeld 2015.' },
-    { pdf:'/publicfiles/004_2014-09-29.pdf', text:'<a href="/publicfiles/004_2014-09-29.pdf">Newsletter Nr. 4</a> zur Veröffentlichung des Heftes <a href="/kostenlosesoftware/">Kostenlose Software für den Musikunterricht.</a> (=OpenBook 7), Karlsfeld 2014.' },
-    { pdf:'/publicfiles/003_2014-03-10.pdf', text:'<a href="/publicfiles/003_2014-03-10.pdf">Newsletter Nr. 3</a> zur Veröffentlichung des Kommentarheftes zu <a href="/beethoven5/">Ludwig van Beethoven. Die 5. Sinfonie</a> (= OpenBook 6), Karlsfeld 2014.' },
-    { pdf:'/publicfiles/002_2014-01-12.pdf', text:'<a href="/publicfiles/002_2014-01-12.pdf">Newsletter Nr. 2</a> zur Veröffentlichung von <a href="/beethoven5/">Ludwig van Beethoven. Die 5. Sinfonie</a> (= OpenBook 6), Karlsfeld 2014.' },
-    { pdf:'/publicfiles/001_2013-09-16.pdf', text:'<a href="/publicfiles/001_2013-09-16.pdf">Newsletter Nr. 1</a> zur Veröffentlichung von <a href="/lamento/">Lamentobass. Musik aus vier Jahrhunderten</a> (= OpenBook 5), Karlsfeld 2013.' },
-  ];
-  const rows = entries.map(e => `
-      <div class="gridFraction"><a href="${e.pdf}" target="_blank"><img src="/images/pdficon_large.png" alt="PDF"></a></div>
-      <div class="gridFraction"><div>${e.text}</div></div>`).join('');
-  const body = `    <div class="jumbotron">
-      <a href="/" class="closeX"><span>X</span></a>
-      <div>${menu('/news')}</div>
-      <h1>Newsletter</h1>
-      <p class="jumbotron-text">
-        Wenn Sie über die Neuerscheinung von OpenBooks informiert werden möchten, können Sie mir über <a class="orange1" href="https://kaiser-ulrich.de/formular">dieses Formular</a> eine Mailadresse zukommen lassen. Selbstverständlich wird Ihre Mailadresse von mir nicht weitergegeben (→ <a class="orange1" href="/impressum">Datenschutz</a>).
-      </p>
-    </div>
-    <div class="gridBox">
-      <div class="gridFraction displayNonInSmallDevices">PDF</div>
-      <div class="gridFraction displayNonInSmallDevices">Kurzbeschreibung</div>${rows}
-    </div>`;
-  write(path.join(DIST,'news','index.html'), page({
-    title:'OER | Ulrich Kaiser - Newsletter',
-    desc:'Hier finden Sie Informationen zu den OpenBooks (OER) von Ulrich Kaiser in Form von Newslettern.',
-    keywords:'News, Newsletter, OER, Open Educational Resources, OpenBooks', body
-  }));
-}
-
-function genSoftware() {
-  const body = `    <div class="jumbotron">
-      <a href="/extras" class="closeX"><span>X</span></a>
-      <div>${menu('/software')}</div>
-      <h1>Software</h1>
-    </div>
-    <div class="gridBox">
-      <div class="gridFraction"><a href="/data/xtras/milliongame.zip"><img src="/images/Screenshot-Player.png" alt="Million-Game"></a></div>
-      <div class="gridFraction">
-        Million-Game Player und Editor (Freeware) zum Spielen und Erstellen von Fragespielen. Benötigt das kostenlose <a href="https://de.wikipedia.org/wiki/.NET" target="_blank">.NET Framework 4.0</a> oder höher von Microsoft. Mit dem Million-Game Player können Fragespiele (nach dem Schema von <a href="http://de.wikipedia.org/wiki/Wer_wird_Million%C3%A4r%3F" target="_blank">diesem</a> Spiel) gespielt werden. Auch in diesem Spiel finden Sie drei Joker (50:50, Publikum, Telefon). Mit dem Million-Game Editor können Sie solche Spiele ganz einfach und ohne Programmierkenntnisse zu einem Thema ihrer Wahl herstellen.
-      </div>
-      <div class="gridFraction"><a href="/data/xtras/ekse.zip"><img src="/images/Screenshot-Ekse.png" alt="EKSE"></a></div>
-      <div class="gridFraction">
-        <span style="font-weight:bolder">EKSE − Der <span style="color:red">E</span>rinnerungs-<span style="color:red">K</span>arten-<span style="color:red">S</span>piel-<span style="color:red">E</span>rsteller</span><br>
-        Benötigt das kostenlose <a href="https://de.wikipedia.org/wiki/.NET" target="_blank">.NET Framework 3.5</a> oder höher von Microsoft.<br><br>
-        Mit diesem Editor können Sie Spiele wie die folgenden selbst herstellen:
-        <ul>
-          <li><a href="/data/xtras/LudwigVanBeethoven.zip">Das Beethoven-Spiel</a></li>
-          <li><a href="/data/xtras/Komponisten.zip">Das Komponisten-Spiel</a></li>
-        </ul>
-        Diese und weitere Spiele zum Online-Spielen finden Sie <a href="https://musikanalyse.net/spielen/">hier</a>.
-      </div>
-      <div class="gridFraction"><a href="https://kaiser-ulrich.de/wellenwriter/home.html"><img src="/images/wellenwriter.png" alt="WellenWriter"></a></div>
-      <div class="gridFraction">
-        <span style="font-weight:bolder">WellenWriter</span><br>
-        Ein nützliches Tool zum Visualisieren des Lautstärkeverlaufs einer Sound- oder Videodatei. WellenWriter verwendet <a href="https://github.com/katspaugh/wavesurfer.js" target="_blank">wavesurfer.js von Alex Khokhulin</a> (lizensiert unter CC BY). Den WellenWriter können Sie sich <a href="/data/xtras/wellenwriter.zip">hier</a> herunterladen.
-      </div>
-    </div>`;
-  write(path.join(DIST,'software','index.html'), page({
-    title:'OER | Ulrich Kaiser - Software',
-    desc:'Software für den Musikunterricht, die im Zusammenhang mit den OpenBooks (OER) von Ulrich Kaiser stehen.',
-    keywords:'Software, OER, Open Educational Resources, OpenBooks', body
-  }));
-}
-
-function genVideos() {
-  const body = `    <div class="jumbotron">
-      <a href="/extras" class="closeX"><span>X</span></a>
-      <div>${menu('/videos')}</div>
-      <h1>Videos</h1>
-    </div>
-    <div class="gridBox">
-      <div class="gridFraction" style="width:320px;height:240px">
-        <video controls poster="/data/videos/poster-beethoven5.png"><source src="/data/videos/Beethoven-5.webm" type="video/mp4"></video>
-      </div>
-      <div class="gridFraction"><div>In diesem Video sehen Sie eine Unterrichtsdemonstration einer Höranalyse zur Exposition der 5. Sinfonie von Ludwig v. Beethoven.</div></div>
-      <div class="gridFraction" style="width:320px;height:240px">
-        <video controls poster="/data/videos/poster-dur.png"><source src="/data/videos/Gb-Dur.webm" type="video/mp4"></video>
-      </div>
-      <div class="gridFraction"><div>Eine wichtige Fähigkeit für das Erleben tonaler Musik ist die Fähigkeit, den Charakter eines Tones zum Grundton hören und erkennen zu können.</div></div>
-      <div class="gridFraction" style="width:320px;height:240px">
-        <video controls poster="/data/videos/poster-moll.png"><source src="/data/videos/Gb-Moll.webm" type="video/mp4"></video>
-      </div>
-      <div class="gridFraction"><div>In diesem Video sehen Sie eine Unterrichtsdemonstration zur Gehörbildung in Moll über Zahlen.</div></div>
-      <div class="gridFraction" style="width:320px;height:240px">
-        <video controls poster="/data/videos/poster-DasKinderhauslied.png"><source src="/data/videos/DasKinderhauslied.webm" type="video/mp4"></video>
-      </div>
-      <div class="gridFraction"><div>In diesem Video sehen Sie die Uraufführung des Kinderhausliedes zum Festgottestdienst des 50jährigen Bestehens des Kinderhauses Sankt Josef.</div></div>
-      <div class="gridFraction" style="width:320px;height:240px">
-        <video controls poster="/images/brahms5.png"><source src="https://oer-musik.de/publicfiles/Brahms-UngarTanz5.mp4" type="video/mp4"></video>
-      </div>
-      <div class="gridFraction"><div>In diesem Video können Sie einen kleinen Ausschnitt der Uraufführung des Ungarischen Tanzes Nr. 5 von Johannes Brahms durch das Orchester der Musikschule Holzmengen/Hosman in Rumänien sehen.</div></div>
-    </div>`;
-  write(path.join(DIST,'videos','index.html'), page({
-    title:'OER | Ulrich Kaiser - Videos',
-    desc:'Videos, die im Zusammenhang mit den OpenBooks (OER) von Ulrich Kaiser stehen.',
-    keywords:'Videos, OER, Open Educational Resources, OpenBooks', body
-  }));
-}
-
-function genPrint() {
-  const body = `    <div class="jumbotron">
-      <a href="/" class="closeX"><span>X</span></a>
-      <div>${menu('/print')}</div>
-      <h1>Druck</h1>
-      <p class="jumbotron-text">Da meine (insbesondere die vor 2020 veröffentlichten) Druckdateien den o.g. Standards nicht entsprechen, gebe ich im Folgenden eine Übersicht über die von mir bisher beauftragten Druckereien sowie die dabei aufgetretenen Probleme:</p>
-    </div>
-    <div class="colorBox">
-      <h3>Worauf Sie achten sollten...</h3>
-      <p>Über Jahre hatte ich keine Probleme mit den hier bereitgestellten Druckdateien für meine OpenBooks in der Online-Druckerei Wir-Machen-Druck.de (= WMD). Die Reklamation einer fehlerhaft gedruckten Abbildung in meinem OpenBook <i>Filmmusik</i> allerdings wurde im Oktober 2020 abgelehnt, weil meine Druckdateien nicht den PDF-Standards PDF/X-1a:2001 oder X3:2002 entsprechen. <b>Das heißt im Klartext: WMD garantiert Ihnen bei der Verwendung der hier vor 2020 bereit gestellten OpenBook-Druckdateien keinen fehlerfreien Druck!</b></p>
-    </div>
-    <div class="gridBox">
-      <div class="gridFraction"><a href="https://www.viaprinto.de"><img src="https://www.viaprinto.de/viaprintoweb/dotcms_themes/productpage/images/viaprinto-logo-claim.svg" alt="viaprinto"></a></div>
-      <div class="gridFraction">Die Drucke von Viaprinto hatten immer eine sehr gute Qualität, allerdings ist diese Online-Druckerei im Vergleich sehr teuer und damit für Privatanwender nur bedingt geeignet.</div>
-      <div class="gridFraction"><a href="https://www.wir-machen-druck.de/"><img src="https://www.wir-machen-druck.de/tpl/manns-partner/section_template/images/logo.png" alt="WMD"></a></div>
-      <div class="gridFraction">Die Drucke von WMD sind sehr günstig und in der Regel auch gut. Seit Oktober 2020 übernimmt WMD für ein korrektes Druckergebnis meiner Druckdateien keine Gewähr mehr (s.o.).</div>
-      <div class="gridFraction"><a href="https://www.saxoprint.de/"><img src="https://www.saxoprint.de/Librarys/test/logo.svg" alt="Saxoprint"></a></div>
-      <div class="gridFraction">Die Drucke von Saxoprint sind vergleichbar günstig wie die Drucke von WMD. Das Exemplar des OpenBooks Filmmusik, das von WMD nicht fehlerfrei gedruckt werden konnte, konnte bei Saxoprint allerdings fehlerfrei gedruckt werden.</div>
-    </div>
-    <hr>
-    <h2>Druckdateien zum Download (mit Anschnitt, jedoch ohne Gewähr)</h2>
-    <h3>Unterrichtshefte für allgemeinbildende Schulen</h3>
-    <ul>
-      <li><a href="/data/openbooks/PrintDownloadFiles/Kaiser_BachUnterrichtsheft_2016-10-07_mAnschnitt.pdf"><i>Ulrich Kaiser, Johann Sebastian Bach. Ein Superstar gestern und heute (= OpenBook 2), Unterrichtsheft, Karlsfeld 2011.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/Kaiser_BachKommentarheft_2016-11-07_optimiert-wmd.pdf"><i>Ulrich Kaiser, Johann Sebastian Bach. Ein Superstar gestern und heute (= OpenBook 2), Kommentarheft, Karlsfeld 2011.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/kaiser_filmmusik_2020-10-17_mAnschnitt.pdf"><i>Ulrich Kaiser, Filmmusik (= OpenBook 15), Karlsfeld 2020.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/kaiser_formenlehre_2019-03-16_mA.pdf"><i>Ulrich Kaiser, Formenlehre der Musik, Karlsfeld 2019.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/Kaiser_KostenloseSoftware_release_2016-07-26-mAnschnitt.pdf"><i>Ulrich Kaiser, Kostenlose Software für den Musikunterricht (= OpenBook 7), Karlsfeld 2014, 2. korr. Aufl. 2016.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/Kaiser_trInstrumente_2016-10-07_release-mAnschnitt.pdf"><i>Ulrich Kaiser, Orchesterinstrumente. Transponierende Instrumente (= OpenBook 16), Karlsfeld 2016.</i></a></li>
-    </ul>
-    <h3>Musikhefte für allgemeinbildende Schulen</h3>
-    <ul>
-      <li><a href="/data/openbooks/PrintDownloadFiles/Unterrichtsheft_BandImpulse-1_ThatImage_2015-06-16-mA.pdf"><i>Ulrich Kaiser, Band-Impulse. Heft 1: That Image (= OpenBook 9 / Heft 1), Karlsfeld 2015.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/Unterrichtsheft_BandImpulse-2_EliseInBlack_2015-09-21-mA.pdf"><i>Ulrich Kaiser, Band-Impulse. Heft 2: Elise In Black (= OpenBook 9 / Heft 2), Karlsfeld 2015.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/Unterrichtsheft_BandImpulse-3_PatternStyles1_2015-12-17-mA.pdf"><i>Ulrich Kaiser, Band-Impulse. Heft 3: Pattern und Styles 1 (= OpenBook 9 / Heft 3), Karlsfeld 2015.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/Unterrichtsheft_BandImpulse-4_Musiklehre1_2016-02-26-mA.pdf"><i>Ulrich Kaiser, Band-Impulse. Heft 4: Gehörbildung und Musiklehre. Übungen in Dur (= OpenBook 9 / Heft 4), Karlsfeld 2016.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/kaiser_brahms5_2017-02-18_mA.pdf"><i>Johannes Brahms. Ungarischer Tanz Nr. 5 arrangiert und mit einer Einleitung versehen von Ulrich Kaiser (= OpenBook 18/1), Karlsfeld 2017.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/kaiser_carmensuite_2017-09-29_mA.pdf"><i>George Bizet. Carmen zu einer Suite arrangiert von Ulrich Kaiser (= OpenBook 18/2), Karlsfeld 2017.</i></a></li>
-    </ul>
-    <h3>Musikhefte für Musikschulen</h3>
-    <ul>
-      <li><a href="/data/openbooks/PrintDownloadFiles/Unterrichtsheft-InventionenPlusOne_2015-12-12-mA.pdf"><i>Ulrich Kaiser, Inventionen plus One. Kammermusik mit Johann Sebastian Bach (= OpenBook 11), Karlsfeld 2015.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/kaiser_happyforChoir_2017-04-06_mAnschnitt.pdf"><i>Kanon und 8 Variationen über Happy Birthday To You (= OpenBook 14/2), Karlsfeld 2017.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/Kaiser_HarmonieUndForm_release_2015-08-01-mAnschnitt.pdf"><i>Ulrich Kaiser, Harmonielehre. Harmonie und Form für Kompositionen in Dur (= OpenBook 8), Karlsfeld 2015.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/Kaiser_HarmonielehreReloaded_release_2016-07-24-mAnschnitt.pdf"><i>Ulrich Kaiser, Harmonielehre #reloaded (= OpenBook 12), Karlsfeld 2016.</i></a></li>
-      <li><a href="/data/openbooks/PrintDownloadFiles/kaiser_brahms-partitur-vlvl-mA.pdf"><i>J. Brahms. Walzer aus Op. 39 arrangiert für 2 Violinen von Ulrich Kaiser (= OpenBook 17/1), Karlsfeld 2021.</i></a></li>
-    </ul>
-    <h3>Musikhefte für Grundschulen und Kindergärten</h3>
-    <ul>
-      <li><a href="/data/openbooks/PrintDownloadFiles/Kinderhaus-Musikheft_2015-07-12-mA.pdf"><i>Ulrich Kaiser, Das Kinderhauslied (= OpenBook 10), Karlsfeld 2015.</i></a></li>
-    </ul>`;
-  write(path.join(DIST,'print','index.html'), page({
-    title:'OER | Ulrich Kaiser - Print',
-    desc:'Hier finden Sie Informationen zum Druck sowie Druckdateien zu den OpenBooks (OER) von Ulrich Kaiser.',
-    keywords:'Druck, Druckdateien, OER, Open Educational Resources, OpenBooks', body
-  }));
-}
 
 function genErrata() {
   const body = `    <div class="jumbotron">
@@ -1076,12 +881,7 @@ function main() {
 
   console.log('\nGenerating static pages...');
   genWarum();
-  genExtras();
   genFeedback();
-  genNews();
-  genSoftware();
-  genVideos();
-  genPrint();
   genErrata();
   genRoadmap();
   genImpressum();
