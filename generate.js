@@ -1120,11 +1120,13 @@ function main() {
     console.log('  copied', dir);
   }
 
-  // Copy Web.config for IIS/1&1 Windows hosting
-  const webConfig = path.join(ROOT, 'static', 'Web.config');
-  if (fs.existsSync(webConfig)) {
-    fs.copyFileSync(webConfig, path.join(DIST, 'Web.config'));
-    console.log('  copied Web.config');
+  // Copy root static files
+  for (const file of ['style.css', 'Web.config']) {
+    const src = path.join(ROOT, 'static', file);
+    if (fs.existsSync(src)) {
+      fs.copyFileSync(src, path.join(DIST, file));
+      console.log('  copied', file);
+    }
   }
 
   console.log('\nDone! Generated files are in dist/');
