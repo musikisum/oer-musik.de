@@ -1,0 +1,29 @@
+RCLONE — CLOUDFLARE R2 UPLOAD
+==============================
+
+Voraussetzung: rclone.exe auf F:\zz rclone-v1.73.5-windows-amd64\
+Remote heißt: r2
+Bucket:       oer-musik-data
+
+DATEIEN HOCHLADEN
+-----------------
+.\rclone copy "D:\dev\oer-musik.de\static\data\openbooks" r2:oer-musik-data/data/openbooks --progress
+.\rclone copy "D:\dev\oer-musik.de\static\data\audio"     r2:oer-musik-data/data/audio --progress
+.\rclone copy "D:\dev\oer-musik.de\static\publicfiles"    r2:oer-musik-data/publicfiles --progress
+
+INHALT PRÜFEN
+-------------
+.\rclone lsd r2:oer-musik-data --max-depth 2
+
+ORDNER LÖSCHEN
+--------------
+.\rclone purge r2:oer-musik-data/data/audio
+
+SYNCHRONISIEREN (lokale Änderungen → R2)
+-----------------------------------------
+.\rclone sync "D:\dev\oer-musik.de\static\data\openbooks" r2:oer-musik-data/data/openbooks --progress
+
+KONFIGURATION BEARBEITEN
+-------------------------
+.\rclone config
+→ e (Edit) → r2 → neue Access Key ID / Secret Access Key eintragen

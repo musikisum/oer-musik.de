@@ -1,0 +1,86 @@
+DEPLOYMENT-SETUP: oer-musik.de auf Cloudflare
+=============================================
+
+EINMALIG DURCHGEFÜHRT — April 2026
+
+
+1. DOMAIN-TRANSFER (IONOS → INWX)
+-----------------------------------
+- Domain oer-musik.de bei IONOS gekündigt / Transfer beantragt
+- Bei INWX: DNSSEC deaktivieren (alle Schlüssel löschen)
+- Nameserver auf Cloudflare umgestellt (siehe Schritt 3)
+- Transfer dauerte wenige Stunden
+
+
+2. CLOUDFLARE-ACCOUNT
+----------------------
+- Kostenloses Konto auf dash.cloudflare.com
+- Free Plan (keine Kreditkarte für Pages nötig)
+- Kreditkarte nur für R2 Object Storage hinterlegt (Free Tier: 10 GB)
+
+
+3. DOMAIN ZU CLOUDFLARE HINZUFÜGEN
+------------------------------------
+- Cloudflare Dashboard → "Add a domain" → "Connect"
+- oer-musik.de eingeben → DNS-Records automatisch importieren
+- Free Plan wählen
+- AI-Bots blockieren (da nicht alle Inhalte voll lizenzfrei)
+- Fehlenden DNS-Eintrag manuell ergänzt: A-Record cc0 → 82.165.148.241
+- DNSSEC bei INWX deaktiviert
+- Bei INWX: die zwei Cloudflare-Nameserver eintragen
+  (ersetzen alle bisherigen IONOS-Nameserver)
+- Bei Cloudflare: "Done, check nameservers" klicken
+
+
+4. CLOUDFLARE PAGES (Website-Hosting)
+--------------------------------------
+- Workers & Pages → Create application → "Looking to deploy Pages? Get started"
+- GitHub-Repo verbinden (musikisum/oer-musik.de)
+- Build-Einstellungen:
+    Framework preset:      None
+    Build command:         node generate.js
+    Output directory:      dist
+- Save and Deploy
+- Custom Domain hinzufügen: oer-musik-de → Custom domains → oer-musik.de
+- Danach: www.oer-musik.de als zweite Custom Domain hinzufügen
+- Jeder git push auf main löst automatisch einen neuen Build aus
+
+
+5. CLOUDFLARE R2 (Große Dateien)
+----------------------------------
+- Cloudflare Dashboard → Storage & Database → R2
+- R2-Subscription aktivieren (Free Tier: 10 GB, keine Egress-Gebühren)
+- Bucket erstellen: oer-musik-data, Region: Western Europe, Standard
+- Public Development URL aktivieren (unter Bucket → Settings)
+- API-Token erstellen: Object Read & Write, nur für oer-musik-data
+  (unter R2 → Manage R2 API tokens)
+
+
+6. RCLONE (Dateien hochladen)
+------------------------------
+- rclone herunterladen: rclone.org/downloads (Windows, portable)
+- Konfiguration: .\rclone config → New remote → Amazon S3 → Cloudflare R2
+  (Access Key ID, Secret Access Key, Account ID aus R2 API-Token)
+- Upload-Befehle (siehe rclone-r2.txt):
+    data/openbooks, data/audio, publicfiles
+- Insgesamt ca. 3.8 GB hochgeladen
+
+
+7. CLOUDFLARE WORKER (R2-Routing)
+-----------------------------------
+- Workers & Pages → Create application → Hello World deployen
+- Edit code → Code ersetzen:
+    Anfragen an /data/* und /publicfiles/* werden zu R2 weitergeleitet,
+    alle anderen Anfragen gehen normal an Cloudflare Pages
+- Routes hinzufügen:
+    oer-musik.de/data/*         Zone: oer-musik.de  Fail open
+    oer-musik.de/publicfiles/*  Zone: oer-musik.de  Fail open
+
+
+ERGEBNIS
+---------
+- oer-musik.de läuft vollständig auf Cloudflare (kostenlos)
+- Automatisches Deployment bei jedem git push
+- Große Dateien auf R2, kleine Seiten-Assets auf Pages
+- DSGVO-konform: keine externen Ressourcen (Fonts, JS lokal)
+- www.oer-musik.de und cc0.oer-musik.de noch auf IONOS (separat migrieren)
